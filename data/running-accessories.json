@@ -1,5 +1,5 @@
-{
-   "0":{
+[
+   {
       "title":"Ankle Socks 2 Pairs",
       "id":"AZ2206",
       "images":[
@@ -8,10 +8,10 @@
          }
       ],
       "price":30,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ankle-socks-2-pairs/AZ2206.html"
    },
-   "1":{
+   {
       "title":"Energy Running Mid Crew Socks 1 Pair S",
       "id":"H77394",
       "images":[
@@ -20,10 +20,10 @@
          }
       ],
       "price":14,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/energy-running-mid-crew-socks-1-pair-s/H77394.html"
    },
-   "2":{
+   {
       "title":"Run Belt",
       "id":"BP6747",
       "images":[
@@ -32,10 +32,10 @@
          }
       ],
       "price":50,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/run-belt/BP6747.html"
    },
-   "3":{
+   {
       "title":"adizero II Cap",
       "id":"Q30996",
       "images":[
@@ -44,10 +44,10 @@
          }
       ],
       "price":22,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-ii-cap/Q30996.html"
    },
-   "4":{
+   {
       "title":"adizero II Cap",
       "id":"Q30985",
       "images":[
@@ -56,10 +56,10 @@
          }
       ],
       "price":22,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-ii-cap/Q30985.html"
    },
-   "5":{
+   {
       "title":"adizero 2 Hat",
       "id":"Q31003",
       "images":[
@@ -68,10 +68,10 @@
          }
       ],
       "price":22,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-2-hat/Q31003.html"
    },
-   "6":{
+   {
       "title":"Visor",
       "id":"Q31079",
       "images":[
@@ -80,10 +80,10 @@
          }
       ],
       "price":18,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/visor/Q31079.html"
    },
-   "7":{
+   {
       "title":"adizero 2 Visor",
       "id":"Q31020",
       "images":[
@@ -92,10 +92,10 @@
          }
       ],
       "price":18,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-2-visor/Q31020.html"
    },
-   "8":{
+   {
       "title":"adiZero II Visor",
       "id":"Q31073",
       "images":[
@@ -104,7 +104,7 @@
          }
       ],
       "price":11,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-ii-visor/Q31073.html"
    }
-}
+]

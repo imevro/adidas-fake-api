@@ -1,5 +1,5 @@
-{
-   "0":{
+[
+   {
       "title":"ULTRABOOST Shoes",
       "id":"BA8842",
       "images":[
@@ -8,10 +8,10 @@
          }
       ],
       "price":180,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultraboost-shoes/BA8842.html"
    },
-   "1":{
+   {
       "title":"PureBOOST DPR Shoes",
       "id":"S80993",
       "images":[
@@ -20,10 +20,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/pureboost-dpr-shoes/S80993.html"
    },
-   "2":{
+   {
       "title":"PureBOOST DPR Shoes",
       "id":"S82010",
       "images":[
@@ -32,10 +32,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/pureboost-dpr-shoes/S82010.html"
    },
-   "3":{
+   {
       "title":"adizero Primeknit LTD Shoes",
       "id":"BA7936",
       "images":[
@@ -44,10 +44,10 @@
          }
       ],
       "price":200,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-primeknit-ltd-shoes/BA7936.html"
    },
-   "4":{
+   {
       "title":"UltraBOOST Uncaged Parley Shoes",
       "id":"BY3057",
       "images":[
@@ -56,10 +56,10 @@
          }
       ],
       "price":200,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultraboost-uncaged-parley-shoes/BY3057.html"
    },
-   "5":{
+   {
       "title":"ULTRABOOST Uncaged Shoes",
       "id":"BB4489",
       "images":[
@@ -68,10 +68,10 @@
          }
       ],
       "price":180,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultraboost-uncaged-shoes/BB4489.html"
    },
-   "6":{
+   {
       "title":"alphabounce Reigning Champ Shoes",
       "id":"CG4301",
       "images":[
@@ -80,10 +80,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-reigning-champ-shoes/CG4301.html"
    },
-   "7":{
+   {
       "title":"Energy Boost 3 Shoes",
       "id":"BB5785",
       "images":[
@@ -92,10 +92,10 @@
          }
       ],
       "price":160,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/energy-boost-3-shoes/BB5785.html"
    },
-   "8":{
+   {
       "title":"PureBOOST LTD Shoes",
       "id":"S80704",
       "images":[
@@ -104,10 +104,10 @@
          }
       ],
       "price":160,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/pureboost-ltd-shoes/S80704.html"
    },
-   "9":{
+   {
       "title":"PureBOOST LTD Shoes",
       "id":"S80703",
       "images":[
@@ -116,10 +116,10 @@
          }
       ],
       "price":160,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/pureboost-ltd-shoes/S80703.html"
    },
-   "10":{
+   {
       "title":"PureBOOST Shoes",
       "id":"BA8898",
       "images":[
@@ -128,10 +128,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/pureboost-shoes/BA8898.html"
    },
-   "11":{
+   {
       "title":"Pure Boost Clima Shoes",
       "id":"BA9056",
       "images":[
@@ -140,10 +140,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/pure-boost-clima-shoes/BA9056.html"
    },
-   "12":{
+   {
       "title":"Pure Boost Shoes",
       "id":"BA8896",
       "images":[
@@ -152,10 +152,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/pure-boost-shoes/BA8896.html"
    },
-   "13":{
+   {
       "title":"Pure Boost Shoes",
       "id":"BA8895",
       "images":[
@@ -164,10 +164,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/pure-boost-shoes/BA8895.html"
    },
-   "14":{
+   {
       "title":"PureBOOST Shoes",
       "id":"BA8894",
       "images":[
@@ -176,10 +176,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/pureboost-shoes/BA8894.html"
    },
-   "15":{
+   {
       "title":"alphabounce Shoes",
       "id":"BB9045",
       "images":[
@@ -188,10 +188,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-shoes/BB9045.html"
    },
-   "16":{
+   {
       "title":"alphabounce Shoes",
       "id":"BW0541",
       "images":[
@@ -200,10 +200,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-shoes/BW0541.html"
    },
-   "17":{
+   {
       "title":"alphabounce Shoes",
       "id":"BW0538",
       "images":[
@@ -212,10 +212,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-shoes/BW0538.html"
    },
-   "18":{
+   {
       "title":"alphabounce Shoes",
       "id":"BW0542",
       "images":[
@@ -224,10 +224,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-shoes/BW0542.html"
    },
-   "19":{
+   {
       "title":"alphabounce Shoes",
       "id":"BB9035",
       "images":[
@@ -236,10 +236,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-shoes/BB9035.html"
    },
-   "20":{
+   {
       "title":"alphabounce Shoes",
       "id":"BB9037",
       "images":[
@@ -248,10 +248,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-shoes/BB9037.html"
    },
-   "21":{
+   {
       "title":"alphabounce Haptic Shoes",
       "id":"BB9048",
       "images":[
@@ -260,10 +260,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-haptic-shoes/BB9048.html"
    },
-   "22":{
+   {
       "title":"alphabounce Haptic Shoes",
       "id":"BB9051",
       "images":[
@@ -272,10 +272,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-haptic-shoes/BB9051.html"
    },
-   "23":{
+   {
       "title":"alphabounce Engineered Mesh Shoes",
       "id":"BB9040",
       "images":[
@@ -284,10 +284,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-engineered-mesh-shoes/BB9040.html"
    },
-   "24":{
+   {
       "title":"alphabounce Engineered Mesh Shoes",
       "id":"BW1207",
       "images":[
@@ -296,10 +296,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-engineered-mesh-shoes/BW1207.html"
    },
-   "25":{
+   {
       "title":"alphabounce Engineered Mesh Shoes",
       "id":"BW1205",
       "images":[
@@ -308,10 +308,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-engineered-mesh-shoes/BW1205.html"
    },
-   "26":{
+   {
       "title":"alphabounce Shoes",
       "id":"BB9039",
       "images":[
@@ -320,10 +320,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-shoes/BB9039.html"
    },
-   "27":{
+   {
       "title":"alphabounce Shoes",
       "id":"BB9038",
       "images":[
@@ -332,10 +332,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-shoes/BB9038.html"
    },
-   "28":{
+   {
       "title":"adizero Adios 3 Shoes",
       "id":"BA7949",
       "images":[
@@ -344,10 +344,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-adios-3-shoes/BA7949.html"
    },
-   "29":{
+   {
       "title":"Vigor Bounce Shoes",
       "id":"B42764",
       "images":[
@@ -356,10 +356,10 @@
          }
       ],
       "price":82,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/vigor-bounce-shoes/B42764.html"
    },
-   "30":{
+   {
       "title":"Response Trail Kolor Shoes",
       "id":"BY2589",
       "images":[
@@ -368,10 +368,10 @@
          }
       ],
       "price":220,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/response-trail-kolor-shoes/BY2589.html"
    },
-   "31":{
+   {
       "title":"ULTRABOOST X Parley Shoes",
       "id":"BB1978",
       "images":[
@@ -380,10 +380,10 @@
          }
       ],
       "price":200,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultraboost-x-parley-shoes/BB1978.html"
    },
-   "32":{
+   {
       "title":"Supernova ST Shoes",
       "id":"BB3102",
       "images":[
@@ -392,10 +392,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/supernova-st-shoes/BB3102.html"
    },
-   "33":{
+   {
       "title":"Supernova ST Shoes",
       "id":"BB0992",
       "images":[
@@ -404,10 +404,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/supernova-st-shoes/BB0992.html"
    },
-   "34":{
+   {
       "title":"Supernova ST Shoes",
       "id":"BA7998",
       "images":[
@@ -416,10 +416,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/supernova-st-shoes/BA7998.html"
    },
-   "35":{
+   {
       "title":"alphabounce Shoes",
       "id":"BW0540",
       "images":[
@@ -428,10 +428,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-shoes/BW0540.html"
    },
-   "36":{
+   {
       "title":"alphabounce Shoes",
       "id":"BB9050",
       "images":[
@@ -440,10 +440,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-shoes/BB9050.html"
    },
-   "37":{
+   {
       "title":"alphabounce Engineered Mesh Shoes",
       "id":"BW1206",
       "images":[
@@ -452,10 +452,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-engineered-mesh-shoes/BW1206.html"
    },
-   "38":{
+   {
       "title":"Vengeful Shoes",
       "id":"BB1630",
       "images":[
@@ -464,10 +464,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/vengeful-shoes/BB1630.html"
    },
-   "39":{
+   {
       "title":"Vigor Bounce Shoes",
       "id":"B42763",
       "images":[
@@ -476,10 +476,10 @@
          }
       ],
       "price":82,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/vigor-bounce-shoes/B42763.html"
    },
-   "40":{
+   {
       "title":"Vigor Bounce Shoes",
       "id":"B42765",
       "images":[
@@ -488,10 +488,10 @@
          }
       ],
       "price":82,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/vigor-bounce-shoes/B42765.html"
    },
-   "41":{
+   {
       "title":"UltraBOOST X Limited-Edition Shoes",
       "id":"BB1973",
       "images":[
@@ -500,10 +500,10 @@
          }
       ],
       "price":200,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultraboost-x-limited-edition-shoes/BB1973.html"
    },
-   "42":{
+   {
       "title":"UltraBOOST X Clima Shoes",
       "id":"BB0879",
       "images":[
@@ -512,10 +512,10 @@
          }
       ],
       "price":180,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultraboost-x-clima-shoes/BB0879.html"
    },
-   "43":{
+   {
       "title":"UltraBOOST X LTD Shoes",
       "id":"BA8005",
       "images":[
@@ -524,10 +524,10 @@
          }
       ],
       "price":200,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultraboost-x-ltd-shoes/BA8005.html"
    },
-   "44":{
+   {
       "title":"UltraBOOST X Shoes",
       "id":"BB1696",
       "images":[
@@ -536,10 +536,10 @@
          }
       ],
       "price":180,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultraboost-x-shoes/BB1696.html"
    },
-   "45":{
+   {
       "title":"UltraBOOST Uncaged Shoes",
       "id":"BA7932",
       "images":[
@@ -548,10 +548,10 @@
          }
       ],
       "price":180,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultraboost-uncaged-shoes/BA7932.html"
    },
-   "46":{
+   {
       "title":"UltraBOOST X Shoes",
       "id":"BA8278",
       "images":[
@@ -560,10 +560,10 @@
          }
       ],
       "price":180,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultraboost-x-shoes/BA8278.html"
    },
-   "47":{
+   {
       "title":"alphabounce Reigning Champ Shoes",
       "id":"BW1124",
       "images":[
@@ -572,10 +572,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-reigning-champ-shoes/BW1124.html"
    },
-   "48":{
+   {
       "title":"UltraBOOST Uncaged Shoes",
       "id":"BA9796",
       "images":[
@@ -584,10 +584,10 @@
          }
       ],
       "price":180,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultraboost-uncaged-shoes/BA9796.html"
    },
-   "49":{
+   {
       "title":"UltraBOOST Uncaged Shoes",
       "id":"S80689",
       "images":[
@@ -596,10 +596,10 @@
          }
       ],
       "price":180,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultraboost-uncaged-shoes/S80689.html"
    },
-   "50":{
+   {
       "title":"PureBOOST Xpose Shoes",
       "id":"BB1734",
       "images":[
@@ -608,10 +608,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/pureboost-xpose-shoes/BB1734.html"
    },
-   "51":{
+   {
       "title":"PureBOOST Xpose Shoes",
       "id":"BB1733",
       "images":[
@@ -620,10 +620,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/pureboost-xpose-shoes/BB1733.html"
    },
-   "52":{
+   {
       "title":"PureBOOST Xpose Shoes",
       "id":"BB1732",
       "images":[
@@ -632,10 +632,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/pureboost-xpose-shoes/BB1732.html"
    },
-   "53":{
+   {
       "title":"PureBOOST Xpose Shoes",
       "id":"BB6018",
       "images":[
@@ -644,10 +644,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/pureboost-xpose-shoes/BB6018.html"
    },
-   "54":{
+   {
       "title":"PureBOOST Xpose Shoes",
       "id":"BB1731",
       "images":[
@@ -656,10 +656,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/pureboost-xpose-shoes/BB1731.html"
    },
-   "55":{
+   {
       "title":"Alphabounce Lux Shoes",
       "id":"B39265",
       "images":[
@@ -668,10 +668,10 @@
          }
       ],
       "price":90,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-lux-shoes/B39265.html"
    },
-   "56":{
+   {
       "title":"alphabounce AMS Shoes",
       "id":"BW1132",
       "images":[
@@ -680,10 +680,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-ams-shoes/BW1132.html"
    },
-   "57":{
+   {
       "title":"alphabounce Haptic Shoes",
       "id":"BW0330",
       "images":[
@@ -692,10 +692,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-haptic-shoes/BW0330.html"
    },
-   "58":{
+   {
       "title":"alphabounce Haptic Shoes",
       "id":"BW0331",
       "images":[
@@ -704,10 +704,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-haptic-shoes/BW0331.html"
    },
-   "59":{
+   {
       "title":"alphabounce Engineered Mesh Shoes",
       "id":"BW1195",
       "images":[
@@ -716,10 +716,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-engineered-mesh-shoes/BW1195.html"
    },
-   "60":{
+   {
       "title":"alphabounce Engineered Mesh Shoes",
       "id":"BW1196",
       "images":[
@@ -728,10 +728,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-engineered-mesh-shoes/BW1196.html"
    },
-   "61":{
+   {
       "title":"alphabounce Engineered Mesh Shoes",
       "id":"BW1194",
       "images":[
@@ -740,10 +740,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-engineered-mesh-shoes/BW1194.html"
    },
-   "62":{
+   {
       "title":"alphabounce Engineered Mesh Shoes",
       "id":"BY3507",
       "images":[
@@ -752,10 +752,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-engineered-mesh-shoes/BY3507.html"
    },
-   "63":{
+   {
       "title":"alphabounce Engineered Mesh Shoes",
       "id":"BW0324",
       "images":[
@@ -764,10 +764,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-engineered-mesh-shoes/BW0324.html"
    },
-   "64":{
+   {
       "title":"alphabounce Shoes",
       "id":"B39429",
       "images":[
@@ -776,10 +776,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-shoes/B39429.html"
    },
-   "65":{
+   {
       "title":"alphabounce Shoes",
       "id":"B39431",
       "images":[
@@ -788,10 +788,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-shoes/B39431.html"
    },
-   "66":{
+   {
       "title":"Edge Lux Shoes",
       "id":"BW0418",
       "images":[
@@ -800,10 +800,10 @@
          }
       ],
       "price":90,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/edge-lux-shoes/BW0418.html"
    },
-   "67":{
+   {
       "title":"Edge Lux Shoes",
       "id":"BW0419",
       "images":[
@@ -812,10 +812,10 @@
          }
       ],
       "price":90,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/edge-lux-shoes/BW0419.html"
    },
-   "68":{
+   {
       "title":"Edge Lux Shoes",
       "id":"B49631",
       "images":[
@@ -824,10 +824,10 @@
          }
       ],
       "price":85,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/edge-lux-shoes/B49631.html"
    },
-   "69":{
+   {
       "title":"Edge Lux Shoes",
       "id":"B49628",
       "images":[
@@ -836,10 +836,10 @@
          }
       ],
       "price":90,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/edge-lux-shoes/B49628.html"
    },
-   "70":{
+   {
       "title":"Edge Lux Shoes",
       "id":"BW0411",
       "images":[
@@ -848,10 +848,10 @@
          }
       ],
       "price":90,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/edge-lux-shoes/BW0411.html"
    },
-   "71":{
+   {
       "title":"Edge Lux Shoes",
       "id":"BB8208",
       "images":[
@@ -860,10 +860,10 @@
          }
       ],
       "price":90,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/edge-lux-shoes/BB8208.html"
    },
-   "72":{
+   {
       "title":"Edge Lux Shoes",
       "id":"BW0412",
       "images":[
@@ -872,10 +872,10 @@
          }
       ],
       "price":85,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/edge-lux-shoes/BW0412.html"
    },
-   "73":{
+   {
       "title":"Supernova ST Shoes",
       "id":"BB3104",
       "images":[
@@ -884,10 +884,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/supernova-st-shoes/BB3104.html"
    },
-   "74":{
+   {
       "title":"Supernova Shoes",
       "id":"BB3469",
       "images":[
@@ -896,10 +896,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/supernova-shoes/BB3469.html"
    },
-   "75":{
+   {
       "title":"Supernova Shoes",
       "id":"BB3470",
       "images":[
@@ -908,10 +908,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/supernova-shoes/BB3470.html"
    },
-   "76":{
+   {
       "title":"Supernova Shoes",
       "id":"BB6039",
       "images":[
@@ -920,10 +920,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/supernova-shoes/BB6039.html"
    },
-   "77":{
+   {
       "title":"adizero Boston 6 Shoes",
       "id":"BB1729",
       "images":[
@@ -932,10 +932,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-boston-6-shoes/BB1729.html"
    },
-   "78":{
+   {
       "title":"Vigor Bounce Shoes",
       "id":"B42766",
       "images":[
@@ -944,10 +944,10 @@
          }
       ],
       "price":82,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/vigor-bounce-shoes/B42766.html"
    },
-   "79":{
+   {
       "title":"Vigor Bounce Shoes",
       "id":"BW0397",
       "images":[
@@ -956,10 +956,10 @@
          }
       ],
       "price":82,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/vigor-bounce-shoes/BW0397.html"
    },
-   "80":{
+   {
       "title":"Vigor Bounce Shoes",
       "id":"B42768",
       "images":[
@@ -968,10 +968,10 @@
          }
       ],
       "price":82,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/vigor-bounce-shoes/B42768.html"
    },
-   "81":{
+   {
       "title":"Vigor Bounce Shoes",
       "id":"B42767",
       "images":[
@@ -980,10 +980,10 @@
          }
       ],
       "price":82,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/vigor-bounce-shoes/B42767.html"
    },
-   "82":{
+   {
       "title":"Pure Boost Clima Shoes",
       "id":"BA9059",
       "images":[
@@ -992,10 +992,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/pure-boost-clima-shoes/BA9059.html"
    },
-   "83":{
+   {
       "title":"UltraBOOST X Clima Shoes",
       "id":"BB1693",
       "images":[
@@ -1004,10 +1004,10 @@
          }
       ],
       "price":180,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultraboost-x-clima-shoes/BB1693.html"
    },
-   "84":{
+   {
       "title":"UltraBOOST X Clima Shoes",
       "id":"BB1694",
       "images":[
@@ -1016,10 +1016,10 @@
          }
       ],
       "price":180,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultraboost-x-clima-shoes/BB1694.html"
    },
-   "85":{
+   {
       "title":"alphabounce AMS Shoes",
       "id":"BW1133",
       "images":[
@@ -1028,10 +1028,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-ams-shoes/BW1133.html"
    },
-   "86":{
+   {
       "title":"alphabounce Engineered Mesh Shoes",
       "id":"BW0328",
       "images":[
@@ -1040,10 +1040,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-engineered-mesh-shoes/BW0328.html"
    },
-   "87":{
+   {
       "title":"alphabounce Engineered Mesh Shoes",
       "id":"BW0327",
       "images":[
@@ -1052,10 +1052,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-engineered-mesh-shoes/BW0327.html"
    },
-   "88":{
+   {
       "title":"Alphabounce Lux Shoes",
       "id":"B39268",
       "images":[
@@ -1064,10 +1064,10 @@
          }
       ],
       "price":90,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-lux-shoes/B39268.html"
    },
-   "89":{
+   {
       "title":"PureBOOST X Shoes",
       "id":"BY1970",
       "images":[
@@ -1076,10 +1076,10 @@
          }
       ],
       "price":170,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/pureboost-x-shoes/BY1970.html"
    },
-   "90":{
+   {
       "title":"PureBOOST X Shoes",
       "id":"BY1969",
       "images":[
@@ -1088,10 +1088,10 @@
          }
       ],
       "price":170,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/pureboost-x-shoes/BY1969.html"
    },
-   "91":{
+   {
       "title":"adizero Prime Sprint Spikes",
       "id":"BB4117",
       "images":[
@@ -1100,10 +1100,10 @@
          }
       ],
       "price":212,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-prime-sprint-spikes/BB4117.html"
    },
-   "92":{
+   {
       "title":"adizero Triple Jump/Pole Vault Shoes",
       "id":"BB4956",
       "images":[
@@ -1112,10 +1112,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-triple-jump-pole-vault-shoes/BB4956.html"
    },
-   "93":{
+   {
       "title":"Sprintstar Spikes",
       "id":"BB5746",
       "images":[
@@ -1124,10 +1124,10 @@
          }
       ],
       "price":65,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/sprintstar-spikes/BB5746.html"
    },
-   "94":{
+   {
       "title":"adizero Middle-Distance Shoes",
       "id":"BA9879",
       "images":[
@@ -1136,10 +1136,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-middle-distance-shoes/BA9879.html"
    },
-   "95":{
+   {
       "title":"adizero Ambition 4 Shoes",
       "id":"BB5774",
       "images":[
@@ -1148,10 +1148,10 @@
          }
       ],
       "price":90,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-ambition-4-shoes/BB5774.html"
    },
-   "96":{
+   {
       "title":"adizero High Jump Spikes",
       "id":"BB4098",
       "images":[
@@ -1160,10 +1160,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-high-jump-spikes/BB4098.html"
    },
-   "97":{
+   {
       "title":"adizero Discus/Hammer Shoes",
       "id":"BB4955",
       "images":[
@@ -1172,10 +1172,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-discus-hammer-shoes/BB4955.html"
    },
-   "98":{
+   {
       "title":"adizero Long Jump Shoes",
       "id":"BB4100",
       "images":[
@@ -1184,10 +1184,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-long-jump-shoes/BB4100.html"
    },
-   "99":{
+   {
       "title":"adizero Shot-put Shoes",
       "id":"BB4118",
       "images":[
@@ -1196,10 +1196,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-shot-put-shoes/BB4118.html"
    },
-   "100":{
+   {
       "title":"Distancestar Spikes",
       "id":"BB5754",
       "images":[
@@ -1208,10 +1208,10 @@
          }
       ],
       "price":70,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/distancestar-spikes/BB5754.html"
    },
-   "101":{
+   {
       "title":"alphabounce Shoes",
       "id":"BB7094",
       "images":[
@@ -1220,10 +1220,10 @@
          }
       ],
       "price":80,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-shoes/BB7094.html"
    },
-   "102":{
+   {
       "title":"alphabounce Shoes",
       "id":"BB7093",
       "images":[
@@ -1232,10 +1232,10 @@
          }
       ],
       "price":80,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-shoes/BB7093.html"
    },
-   "103":{
+   {
       "title":"alphabounce Shoes",
       "id":"BB7095",
       "images":[
@@ -1244,10 +1244,10 @@
          }
       ],
       "price":80,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-shoes/BB7095.html"
    },
-   "104":{
+   {
       "title":"alphabounce AMS shoes",
       "id":"BW0577",
       "images":[
@@ -1256,10 +1256,10 @@
          }
       ],
       "price":90,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-ams-shoes/BW0577.html"
    },
-   "105":{
+   {
       "title":"alphabounce Shoes",
       "id":"BW0578",
       "images":[
@@ -1268,10 +1268,10 @@
          }
       ],
       "price":90,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-shoes/BW0578.html"
    },
-   "106":{
+   {
       "title":"RapidaRun Shoes",
       "id":"BA9433",
       "images":[
@@ -1280,10 +1280,10 @@
          }
       ],
       "price":60,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/rapidarun-shoes/BA9433.html"
    },
-   "107":{
+   {
       "title":"RapidaRun Shoes",
       "id":"BA9432",
       "images":[
@@ -1292,10 +1292,10 @@
          }
       ],
       "price":60,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/rapidarun-shoes/BA9432.html"
    },
-   "108":{
+   {
       "title":"RapidaRun Uncaged Shoes",
       "id":"BA9436",
       "images":[
@@ -1304,10 +1304,10 @@
          }
       ],
       "price":65,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/rapidarun-uncaged-shoes/BA9436.html"
    },
-   "109":{
+   {
       "title":"RapidaRun Uncaged Shoes",
       "id":"BB3054",
       "images":[
@@ -1316,10 +1316,10 @@
          }
       ],
       "price":65,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/rapidarun-uncaged-shoes/BB3054.html"
    },
-   "110":{
+   {
       "title":"Marvel Spider-Man Shoes",
       "id":"BA9406",
       "images":[
@@ -1328,10 +1328,10 @@
          }
       ],
       "price":45,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/marvel-spider-man-shoes/BA9406.html"
    },
-   "111":{
+   {
       "title":"alphabounce Shoes",
       "id":"BB7099",
       "images":[
@@ -1340,10 +1340,10 @@
          }
       ],
       "price":50,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/alphabounce-shoes/BB7099.html"
    },
-   "112":{
+   {
       "title":"Disney Mickey Mouse FortaRun Shoes",
       "id":"BA9912",
       "images":[
@@ -1352,10 +1352,10 @@
          }
       ],
       "price":40,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/disney-mickey-mouse-fortarun-shoes/BA9912.html"
    },
-   "113":{
+   {
       "title":"Star Wars Shoes",
       "id":"BA9397",
       "images":[
@@ -1364,10 +1364,10 @@
          }
       ],
       "price":45,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/star-wars-shoes/BA9397.html"
    },
-   "114":{
+   {
       "title":"sprintstar w",
       "id":"BB5751",
       "images":[
@@ -1376,10 +1376,10 @@
          }
       ],
       "price":70,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/sprintstar-w/BB5751.html"
    },
-   "115":{
+   {
       "title":"adizero Ambition 4 Shoes",
       "id":"BB5778",
       "images":[
@@ -1388,10 +1388,10 @@
          }
       ],
       "price":90,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-ambition-4-shoes/BB5778.html"
    },
-   "116":{
+   {
       "title":"Distancestar Spikes",
       "id":"BB5757",
       "images":[
@@ -1400,10 +1400,10 @@
          }
       ],
       "price":70,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/distancestar-spikes/BB5757.html"
    },
-   "117":{
+   {
       "title":"DAY ONE UltraBoost Shoes",
       "id":"CG3735",
       "images":[
@@ -1412,10 +1412,10 @@
          }
       ],
       "price":180,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/day-one-ultraboost-shoes/CG3735.html"
    },
-   "118":{
+   {
       "title":"PureBOOST Xpose Shoes",
       "id":"S82066",
       "images":[
@@ -1424,10 +1424,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/pureboost-xpose-shoes/S82066.html"
    },
-   "119":{
+   {
       "title":"ULTRABOOST ST Shoes",
       "id":"BA7835",
       "images":[
@@ -1436,7 +1436,7 @@
          }
       ],
       "price":180,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultraboost-st-shoes/BA7835.html"
    }
-}
+]

@@ -1,5 +1,5 @@
-{
-   "0":{
+[
+   {
       "title":"Adizero 5-Star 6.0 Primeknit",
       "id":"CH9076",
       "images":[
@@ -8,10 +8,10 @@
          }
       ],
       "price":60,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-primeknit/CH9076.html"
    },
-   "1":{
+   {
       "title":"FREAK 3.0",
       "id":"CH9095",
       "images":[
@@ -20,10 +20,10 @@
          }
       ],
       "price":60,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-3.0/CH9095.html"
    },
-   "2":{
+   {
       "title":"adizero Five-Star 5.0 Uncaged Gloves",
       "id":"CI4593",
       "images":[
@@ -32,10 +32,10 @@
          }
       ],
       "price":55,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-five-star-5.0-uncaged-gloves/CI4593.html"
    },
-   "3":{
+   {
       "title":"adizero Five-Star 5.0 Uncaged Gloves",
       "id":"CH9101",
       "images":[
@@ -44,10 +44,10 @@
          }
       ],
       "price":55,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-five-star-5.0-uncaged-gloves/CH9101.html"
    },
-   "4":{
+   {
       "title":"FREAK 3.0",
       "id":"CH9094",
       "images":[
@@ -56,10 +56,10 @@
          }
       ],
       "price":60,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-3.0/CH9094.html"
    },
-   "5":{
+   {
       "title":"Adizero 5-Star 6.0",
       "id":"CH9080",
       "images":[
@@ -68,10 +68,10 @@
          }
       ],
       "price":50,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0/CH9080.html"
    },
-   "6":{
+   {
       "title":"Adizero 5-Star 6.0 Primeknit",
       "id":"CH9075",
       "images":[
@@ -80,10 +80,10 @@
          }
       ],
       "price":60,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-primeknit/CH9075.html"
    },
-   "7":{
+   {
       "title":"Adizero 5-Star 6.0",
       "id":"CH9081",
       "images":[
@@ -92,10 +92,10 @@
          }
       ],
       "price":50,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0/CH9081.html"
    },
-   "8":{
+   {
       "title":"Adizero 5-Star 6.0  Paisley",
       "id":"CI4597",
       "images":[
@@ -104,10 +104,10 @@
          }
       ],
       "price":55,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0--paisley/CI4597.html"
    },
-   "9":{
+   {
       "title":"adizero Five-Star 5.0 Uncaged Gloves",
       "id":"CI4594",
       "images":[
@@ -116,10 +116,10 @@
          }
       ],
       "price":55,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-five-star-5.0-uncaged-gloves/CI4594.html"
    },
-   "10":{
+   {
       "title":"Adizero 5-Star 6.0  Paisley",
       "id":"CI4598",
       "images":[
@@ -128,10 +128,10 @@
          }
       ],
       "price":55,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0--paisley/CI4598.html"
    },
-   "11":{
+   {
       "title":"adizero Five-Star 5.0 Uncaged Gloves",
       "id":"CH9100",
       "images":[
@@ -140,10 +140,10 @@
          }
       ],
       "price":55,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-five-star-5.0-uncaged-gloves/CH9100.html"
    },
-   "12":{
+   {
       "title":"Adizero 5-Star 6.0  Paisley",
       "id":"CI4599",
       "images":[
@@ -152,10 +152,10 @@
          }
       ],
       "price":55,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0--paisley/CI4599.html"
    },
-   "13":{
+   {
       "title":"adizero Five-Star 5.0 Uncaged Gloves",
       "id":"CI4592",
       "images":[
@@ -164,10 +164,10 @@
          }
       ],
       "price":55,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-five-star-5.0-uncaged-gloves/CI4592.html"
    },
-   "14":{
+   {
       "title":"Adizero 5-Star 6.0",
       "id":"CH9082",
       "images":[
@@ -176,10 +176,10 @@
          }
       ],
       "price":50,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0/CH9082.html"
    },
-   "15":{
+   {
       "title":"adizero Five-Star 5.0 Uncaged Gloves",
       "id":"CI4601",
       "images":[
@@ -188,10 +188,10 @@
          }
       ],
       "price":55,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-five-star-5.0-uncaged-gloves/CI4601.html"
    },
-   "16":{
+   {
       "title":"Adizero 5-Star 6.0",
       "id":"CH9086",
       "images":[
@@ -200,10 +200,10 @@
          }
       ],
       "price":50,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0/CH9086.html"
    },
-   "17":{
+   {
       "title":"adizero Five-Star 5.0 Uncaged Gloves",
       "id":"CH9099",
       "images":[
@@ -212,10 +212,10 @@
          }
       ],
       "price":55,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-five-star-5.0-uncaged-gloves/CH9099.html"
    },
-   "18":{
+   {
       "title":"Adizero 5-star 6.0 PK Sundays Best Prom",
       "id":"CI4595",
       "images":[
@@ -224,10 +224,10 @@
          }
       ],
       "price":65,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-pk-sundays-best-prom/CI4595.html"
    },
-   "19":{
+   {
       "title":"Adizero 5-Star 6.0",
       "id":"CH9078",
       "images":[
@@ -236,10 +236,10 @@
          }
       ],
       "price":50,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0/CH9078.html"
    },
-   "20":{
+   {
       "title":"Adizero 5-Star 6.0",
       "id":"CH9077",
       "images":[
@@ -248,10 +248,10 @@
          }
       ],
       "price":50,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0/CH9077.html"
    },
-   "21":{
+   {
       "title":"Graphic Knee Pad",
       "id":"O25470",
       "images":[
@@ -260,7 +260,7 @@
          }
       ],
       "price":20,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/graphic-knee-pad/O25470.html"
    }
-}
+]

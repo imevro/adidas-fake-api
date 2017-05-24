@@ -1,5 +1,5 @@
 /* eslint-disable global-require */
-const express = require('express');
+const express = require('express'); // eslint-disable-line import/newline-after-import
 const data = {
   basketball: {
     shoes: require('./data/basketball-shoes.json'),
@@ -25,6 +25,19 @@ app.get('/products/:group/:type', (req, res) => {
 
   if (data[group] && data[group][type]) {
     res.send(data[group][type]);
+  } else {
+    res.sendStatus(404);
+  }
+});
+
+app.get('/products/:group/:type/:id', (req, res) => {
+  const { group, type, id } = req.params;
+
+  if (data[group] && data[group][type]) {
+    const product = data[group][type].find(p => p.id === id);
+
+    if (product) res.send(product);
+    else res.sendStatus(404);
   } else {
     res.sendStatus(404);
   }

@@ -1,5 +1,5 @@
-{
-   "0":{
+[
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"CQ1316",
       "images":[
@@ -8,10 +8,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/CQ1316.html"
    },
-   "1":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"CQ1315",
       "images":[
@@ -20,10 +20,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/CQ1315.html"
    },
-   "2":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"CQ1318",
       "images":[
@@ -32,10 +32,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/CQ1318.html"
    },
-   "3":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"CQ1317",
       "images":[
@@ -44,10 +44,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/CQ1317.html"
    },
-   "4":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"CQ1319",
       "images":[
@@ -56,10 +56,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/CQ1319.html"
    },
-   "5":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"CQ1321",
       "images":[
@@ -68,10 +68,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/CQ1321.html"
    },
-   "6":{
+   {
       "title":"adizero 5-Star 6.0 Gold Cleats",
       "id":"BW0778",
       "images":[
@@ -80,10 +80,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-gold-cleats/BW0778.html"
    },
-   "7":{
+   {
       "title":"adizero 5-Star 6.0 Gold Cleats",
       "id":"BW0777",
       "images":[
@@ -92,10 +92,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-gold-cleats/BW0777.html"
    },
-   "8":{
+   {
       "title":"adizero 5-Star 6.0 Gold Cleats",
       "id":"BW0781",
       "images":[
@@ -104,10 +104,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-gold-cleats/BW0781.html"
    },
-   "9":{
+   {
       "title":"adizero 5-Star 6.0 Gold Cleats",
       "id":"BW0780",
       "images":[
@@ -116,10 +116,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-gold-cleats/BW0780.html"
    },
-   "10":{
+   {
       "title":"adizero 5-Star 6.0 Gold Cleats",
       "id":"BW0782",
       "images":[
@@ -128,10 +128,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-gold-cleats/BW0782.html"
    },
-   "11":{
+   {
       "title":"adizero 5-Star 6.0 Gold Cleats",
       "id":"BW0779",
       "images":[
@@ -140,10 +140,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-gold-cleats/BW0779.html"
    },
-   "12":{
+   {
       "title":"adizero 5-Star 6.0 Snoop Cleats",
       "id":"BY3406",
       "images":[
@@ -152,10 +152,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-snoop-cleats/BY3406.html"
    },
-   "13":{
+   {
       "title":"adizero 5-Star 6.0 Sunday's Best Cleats",
       "id":"BW0880",
       "images":[
@@ -164,10 +164,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-sundays-best-cleats/BW0880.html"
    },
-   "14":{
+   {
       "title":"adizero 5-Star 6.0 Sunday's Best Cleats",
       "id":"BW0881",
       "images":[
@@ -176,10 +176,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-sundays-best-cleats/BW0881.html"
    },
-   "15":{
+   {
       "title":"adizero 5-Star 6.0 Sunday's Best Cleats",
       "id":"BW0882",
       "images":[
@@ -188,10 +188,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-sundays-best-cleats/BW0882.html"
    },
-   "16":{
+   {
       "title":"adizero 5-Star 6.0 Sunday's Best Cleats",
       "id":"BW0883",
       "images":[
@@ -200,10 +200,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-sundays-best-cleats/BW0883.html"
    },
-   "17":{
+   {
       "title":"adizero 5-Star 6.0 Sunday's Best Cleats",
       "id":"BW0884",
       "images":[
@@ -212,10 +212,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-sundays-best-cleats/BW0884.html"
    },
-   "18":{
+   {
       "title":"adizero 5-Star 6.0 Sunday's Best Cleats",
       "id":"BW0377",
       "images":[
@@ -224,10 +224,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-sundays-best-cleats/BW0377.html"
    },
-   "19":{
+   {
       "title":"adizero 5-Star 6.0 Sunday's Best Cleats",
       "id":"BW0878",
       "images":[
@@ -236,10 +236,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-sundays-best-cleats/BW0878.html"
    },
-   "20":{
+   {
       "title":"adizero 5-Star 6.0 Homecoming Cleats",
       "id":"BY4145",
       "images":[
@@ -248,10 +248,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-homecoming-cleats/BY4145.html"
    },
-   "21":{
+   {
       "title":"Freak X Carbon Uncaged Cleats",
       "id":"BY3856",
       "images":[
@@ -260,10 +260,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-x-carbon-uncaged-cleats/BY3856.html"
    },
-   "22":{
+   {
       "title":"Freak X Carbon Uncaged Cleats",
       "id":"BY3855",
       "images":[
@@ -272,10 +272,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-x-carbon-uncaged-cleats/BY3855.html"
    },
-   "23":{
+   {
       "title":"adizero 5-Star 6.0 Uncaged Cleats",
       "id":"BW0353",
       "images":[
@@ -284,10 +284,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-uncaged-cleats/BW0353.html"
    },
-   "24":{
+   {
       "title":"adizero 5-Star 6.0 Uncaged Cleats",
       "id":"BW0351",
       "images":[
@@ -296,10 +296,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-uncaged-cleats/BW0351.html"
    },
-   "25":{
+   {
       "title":"adizero 5-Star 6.0 Uncaged Cleats",
       "id":"BW0354",
       "images":[
@@ -308,10 +308,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-uncaged-cleats/BW0354.html"
    },
-   "26":{
+   {
       "title":"adizero 5-Star 6.0 Uncaged Cleats",
       "id":"BW0352",
       "images":[
@@ -320,10 +320,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-uncaged-cleats/BW0352.html"
    },
-   "27":{
+   {
       "title":"adizero 5-Star 6.0 Uncaged Cleats",
       "id":"BW0775",
       "images":[
@@ -332,10 +332,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-uncaged-cleats/BW0775.html"
    },
-   "28":{
+   {
       "title":"adizero 5-Star 6.0 Uncaged Cleats",
       "id":"BW0774",
       "images":[
@@ -344,10 +344,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-uncaged-cleats/BW0774.html"
    },
-   "29":{
+   {
       "title":"adizero 5-Star 6.0 Uncaged Cleats",
       "id":"BW0776",
       "images":[
@@ -356,10 +356,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-uncaged-cleats/BW0776.html"
    },
-   "30":{
+   {
       "title":"adizero 5-Star 6.0 Uncaged Cleats",
       "id":"BY3790",
       "images":[
@@ -368,10 +368,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-uncaged-cleats/BY3790.html"
    },
-   "31":{
+   {
       "title":"Freak X Kevlar Dipped Cleats",
       "id":"BW0857",
       "images":[
@@ -380,10 +380,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-x-kevlar-dipped-cleats/BW0857.html"
    },
-   "32":{
+   {
       "title":"Freak X Kevlar Dipped Cleats",
       "id":"BW0858",
       "images":[
@@ -392,10 +392,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-x-kevlar-dipped-cleats/BW0858.html"
    },
-   "33":{
+   {
       "title":"Freak X Kevlar Dipped Cleats",
       "id":"BW0390",
       "images":[
@@ -404,10 +404,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-x-kevlar-dipped-cleats/BW0390.html"
    },
-   "34":{
+   {
       "title":"Freak X Kevlar Dipped Cleats",
       "id":"BW0388",
       "images":[
@@ -416,10 +416,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-x-kevlar-dipped-cleats/BW0388.html"
    },
-   "35":{
+   {
       "title":"Freak High Wide Cleats",
       "id":"B42530",
       "images":[
@@ -428,10 +428,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-high-wide-cleats/B42530.html"
    },
-   "36":{
+   {
       "title":"Freak High Wide Cleats",
       "id":"BW0868",
       "images":[
@@ -440,10 +440,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-high-wide-cleats/BW0868.html"
    },
-   "37":{
+   {
       "title":"adizero 5-Star 6.0 Mid Cleats",
       "id":"BW1091",
       "images":[
@@ -452,10 +452,10 @@
          }
       ],
       "price":115,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-mid-cleats/BW1091.html"
    },
-   "38":{
+   {
       "title":"adizero 5-Star 6.0 Mid Cleats",
       "id":"B42481",
       "images":[
@@ -464,10 +464,10 @@
          }
       ],
       "price":115,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-mid-cleats/B42481.html"
    },
-   "39":{
+   {
       "title":"adizero 5-Star 6.0 Mid Cleats",
       "id":"B42486",
       "images":[
@@ -476,10 +476,10 @@
          }
       ],
       "price":115,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-mid-cleats/B42486.html"
    },
-   "40":{
+   {
       "title":"adizero 5-Star 6.0 Mid Cleats",
       "id":"BW0698",
       "images":[
@@ -488,10 +488,10 @@
          }
       ],
       "price":115,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-mid-cleats/BW0698.html"
    },
-   "41":{
+   {
       "title":"adizero 5-Star 6.0 Mid Cleats",
       "id":"BW1092",
       "images":[
@@ -500,10 +500,10 @@
          }
       ],
       "price":115,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-mid-cleats/BW1092.html"
    },
-   "42":{
+   {
       "title":"adizero 5-Star 6.0 Mid Cleats",
       "id":"BW0406",
       "images":[
@@ -512,10 +512,10 @@
          }
       ],
       "price":115,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-mid-cleats/BW0406.html"
    },
-   "43":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"BW1087",
       "images":[
@@ -524,10 +524,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/BW1087.html"
    },
-   "44":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"B39409",
       "images":[
@@ -536,10 +536,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/B39409.html"
    },
-   "45":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"B42466",
       "images":[
@@ -548,10 +548,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/B42466.html"
    },
-   "46":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"B42463",
       "images":[
@@ -560,10 +560,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/B42463.html"
    },
-   "47":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"BW0338",
       "images":[
@@ -572,10 +572,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/BW0338.html"
    },
-   "48":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"BW0333",
       "images":[
@@ -584,10 +584,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/BW0333.html"
    },
-   "49":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"BW0637",
       "images":[
@@ -596,10 +596,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/BW0637.html"
    },
-   "50":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"BW0334",
       "images":[
@@ -608,10 +608,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/BW0334.html"
    },
-   "51":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"BW0335",
       "images":[
@@ -620,10 +620,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/BW0335.html"
    },
-   "52":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"BW0337",
       "images":[
@@ -632,10 +632,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/BW0337.html"
    },
-   "53":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"BW0697",
       "images":[
@@ -644,10 +644,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/BW0697.html"
    },
-   "54":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"BW1083",
       "images":[
@@ -656,10 +656,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/BW1083.html"
    },
-   "55":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"BW1084",
       "images":[
@@ -668,10 +668,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/BW1084.html"
    },
-   "56":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"BW1086",
       "images":[
@@ -680,10 +680,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/BW1086.html"
    },
-   "57":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"BW1085",
       "images":[
@@ -692,10 +692,10 @@
          }
       ],
       "price":110,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/BW1085.html"
    },
-   "58":{
+   {
       "title":"Freak X Carbon Mid Cleats",
       "id":"B42578",
       "images":[
@@ -704,10 +704,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-x-carbon-mid-cleats/B42578.html"
    },
-   "59":{
+   {
       "title":"Freak X Carbon Mid Cleats",
       "id":"B39418",
       "images":[
@@ -716,10 +716,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-x-carbon-mid-cleats/B39418.html"
    },
-   "60":{
+   {
       "title":"Freak X Carbon Mid Cleats",
       "id":"B42582",
       "images":[
@@ -728,10 +728,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-x-carbon-mid-cleats/B42582.html"
    },
-   "61":{
+   {
       "title":"Freak X Carbon Mid Cleats",
       "id":"B42577",
       "images":[
@@ -740,10 +740,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-x-carbon-mid-cleats/B42577.html"
    },
-   "62":{
+   {
       "title":"Freak X Carbon Mid Cleats",
       "id":"B42586",
       "images":[
@@ -752,10 +752,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-x-carbon-mid-cleats/B42586.html"
    },
-   "63":{
+   {
       "title":"Freak X Carbon Mid Cleats",
       "id":"B42575",
       "images":[
@@ -764,10 +764,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-x-carbon-mid-cleats/B42575.html"
    },
-   "64":{
+   {
       "title":"Freak X Carbon Mid Cleats",
       "id":"B42583",
       "images":[
@@ -776,10 +776,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-x-carbon-mid-cleats/B42583.html"
    },
-   "65":{
+   {
       "title":"Freak X Carbon Mid Cleats",
       "id":"BW0865",
       "images":[
@@ -788,10 +788,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-x-carbon-mid-cleats/BW0865.html"
    },
-   "66":{
+   {
       "title":"Freak X Carbon Mid Cleats",
       "id":"BW0866",
       "images":[
@@ -800,10 +800,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-x-carbon-mid-cleats/BW0866.html"
    },
-   "67":{
+   {
       "title":"Freak X Carbon Mid Cleats",
       "id":"BW0867",
       "images":[
@@ -812,10 +812,10 @@
          }
       ],
       "price":100,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/freak-x-carbon-mid-cleats/BW0867.html"
    },
-   "68":{
+   {
       "title":"adizero 5-Star 6.0 Army Dipped Cleats",
       "id":"BW0699",
       "images":[
@@ -824,10 +824,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-army-dipped-cleats/BW0699.html"
    },
-   "69":{
+   {
       "title":"adizero 5-Star 6.0 Army Dipped Cleats",
       "id":"BW0341",
       "images":[
@@ -836,10 +836,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-army-dipped-cleats/BW0341.html"
    },
-   "70":{
+   {
       "title":"adizero 5-Star 6.0 Army Dipped Cleats",
       "id":"BW0339",
       "images":[
@@ -848,10 +848,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-army-dipped-cleats/BW0339.html"
    },
-   "71":{
+   {
       "title":"adizero 5-Star 6.0 Army Dipped Cleats",
       "id":"BW0340",
       "images":[
@@ -860,10 +860,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-army-dipped-cleats/BW0340.html"
    },
-   "72":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"BY3118",
       "images":[
@@ -872,10 +872,10 @@
          }
       ],
       "price":65,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/BY3118.html"
    },
-   "73":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"B42479",
       "images":[
@@ -884,10 +884,10 @@
          }
       ],
       "price":65,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/B42479.html"
    },
-   "74":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"BW0900",
       "images":[
@@ -896,10 +896,10 @@
          }
       ],
       "price":65,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/BW0900.html"
    },
-   "75":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"BY4129",
       "images":[
@@ -908,10 +908,10 @@
          }
       ],
       "price":65,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/BY4129.html"
    },
-   "76":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"BY4130",
       "images":[
@@ -920,10 +920,10 @@
          }
       ],
       "price":65,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/BY4130.html"
    },
-   "77":{
+   {
       "title":"adizero 5-Star 6.0 Cleats",
       "id":"BY3079",
       "images":[
@@ -932,10 +932,10 @@
          }
       ],
       "price":65,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-cleats/BY3079.html"
    },
-   "78":{
+   {
       "title":"adizero 5-Star 6.0 Uncaged Cleats",
       "id":"BW0759",
       "images":[
@@ -944,10 +944,10 @@
          }
       ],
       "price":65,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-uncaged-cleats/BW0759.html"
    },
-   "79":{
+   {
       "title":"adizero 5-Star 6.0 Uncaged Cleats",
       "id":"BW0760",
       "images":[
@@ -956,10 +956,10 @@
          }
       ],
       "price":65,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-uncaged-cleats/BW0760.html"
    },
-   "80":{
+   {
       "title":"adizero 5-Star 6.0 Uncaged Cleats",
       "id":"BW0898",
       "images":[
@@ -968,10 +968,10 @@
          }
       ],
       "price":65,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-6.0-uncaged-cleats/BW0898.html"
    },
-   "81":{
+   {
       "title":"adizero 5-Star 40 Uncaged Cleats",
       "id":"B42459",
       "images":[
@@ -980,10 +980,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-40-uncaged-cleats/B42459.html"
    },
-   "82":{
+   {
       "title":"adizero 5-Star 5.0 Cleats",
       "id":"AQ8809",
       "images":[
@@ -992,10 +992,10 @@
          }
       ],
       "price":77,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-5.0-cleats/AQ8809.html"
    },
-   "83":{
+   {
       "title":"Dark Ops Freak x Kevlar® Cleats",
       "id":"AQ6835",
       "images":[
@@ -1004,10 +1004,10 @@
          }
       ],
       "price":105,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dark-ops-freak-x-kevlar-cleats/AQ6835.html"
    },
-   "84":{
+   {
       "title":"adizero 5-Star 5.0 Mid Cleats",
       "id":"AQ8745",
       "images":[
@@ -1016,10 +1016,10 @@
          }
       ],
       "price":80,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/adizero-5-star-5.0-mid-cleats/AQ8745.html"
    },
-   "85":{
+   {
       "title":"mi adizero 5 Star 5.0 Cleats (Screen Print)",
       "id":"4001735_M",
       "images":[
@@ -1028,10 +1028,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-adizero-5-star-5.0-cleats-screen-print/4001735_M.html"
    },
-   "86":{
+   {
       "title":"mi adizero 5 Star 5.0 Cleats (Screen Print)",
       "id":"15006404_M",
       "images":[
@@ -1040,10 +1040,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-adizero-5-star-5.0-cleats-screen-print/15006404_M.html"
    },
-   "87":{
+   {
       "title":"mi adizero 5 Star 5.0 (Digital Print)",
       "id":"15006397_M",
       "images":[
@@ -1052,10 +1052,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-adizero-5-star-5.0-digital-print/15006397_M.html"
    },
-   "88":{
+   {
       "title":"mi adizero 5 Star 5.0 Cleats (Screen Print)",
       "id":"15006406_M",
       "images":[
@@ -1064,10 +1064,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-adizero-5-star-5.0-cleats-screen-print/15006406_M.html"
    },
-   "89":{
+   {
       "title":"mi adizero 5 Star 5.0 Cleats (Screen Print)",
       "id":"15006400_M",
       "images":[
@@ -1076,10 +1076,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-adizero-5-star-5.0-cleats-screen-print/15006400_M.html"
    },
-   "90":{
+   {
       "title":"mi adizero 5 Star 5.0 Cleats (Screen Print)",
       "id":"15006402_M",
       "images":[
@@ -1088,10 +1088,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-adizero-5-star-5.0-cleats-screen-print/15006402_M.html"
    },
-   "91":{
+   {
       "title":"mi adizero 5 Star 5.0 (Digital Print)",
       "id":"15006394_M",
       "images":[
@@ -1100,10 +1100,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-adizero-5-star-5.0-digital-print/15006394_M.html"
    },
-   "92":{
+   {
       "title":"mi adizero 5 Star 5.0 (Digital Print)",
       "id":"15006392_M",
       "images":[
@@ -1112,10 +1112,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-adizero-5-star-5.0-digital-print/15006392_M.html"
    },
-   "93":{
+   {
       "title":"mi adizero 5 Star 5.0 Cleats (Screen Print)",
       "id":"15006407_W",
       "images":[
@@ -1124,10 +1124,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-adizero-5-star-5.0-cleats-screen-print/15006407_W.html"
    },
-   "94":{
+   {
       "title":"mi freak x carbon Cleats (Digital Print)",
       "id":"15006385_M",
       "images":[
@@ -1136,10 +1136,10 @@
          }
       ],
       "price":125,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-freak-x-carbon-cleats-digital-print/15006385_M.html"
    },
-   "95":{
+   {
       "title":"mi freak x carbon Cleats (Digital Print)",
       "id":"15006386_M",
       "images":[
@@ -1148,10 +1148,10 @@
          }
       ],
       "price":125,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-freak-x-carbon-cleats-digital-print/15006386_M.html"
    },
-   "96":{
+   {
       "title":"mi freak x carbon Cleats (Digital Print)",
       "id":"15006384_M",
       "images":[
@@ -1160,10 +1160,10 @@
          }
       ],
       "price":125,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-freak-x-carbon-cleats-digital-print/15006384_M.html"
    },
-   "97":{
+   {
       "title":"mi adizero 5 Star 5.0 Cleats (Screen Print)",
       "id":"15006405_W",
       "images":[
@@ -1172,10 +1172,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-adizero-5-star-5.0-cleats-screen-print/15006405_W.html"
    },
-   "98":{
+   {
       "title":"mi adizero 5 Star 5.0 (Digital Print)",
       "id":"4001775_M",
       "images":[
@@ -1184,10 +1184,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-adizero-5-star-5.0-digital-print/4001775_M.html"
    },
-   "99":{
+   {
       "title":"mi adizero 5 Star 5.0 Cleats (Screen Print)",
       "id":"4001735_W",
       "images":[
@@ -1196,10 +1196,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-adizero-5-star-5.0-cleats-screen-print/4001735_W.html"
    },
-   "100":{
+   {
       "title":"mi freak x carbon Cleats (Digital Print)",
       "id":"15006382_M",
       "images":[
@@ -1208,10 +1208,10 @@
          }
       ],
       "price":125,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-freak-x-carbon-cleats-digital-print/15006382_M.html"
    },
-   "101":{
+   {
       "title":"mi adizero 5 Star 5.0 (Digital Print)",
       "id":"15006398_W",
       "images":[
@@ -1220,10 +1220,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-adizero-5-star-5.0-digital-print/15006398_W.html"
    },
-   "102":{
+   {
       "title":"mi adizero 5 Star 5.0 Cleats (Screen Print)",
       "id":"15006403_W",
       "images":[
@@ -1232,10 +1232,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-adizero-5-star-5.0-cleats-screen-print/15006403_W.html"
    },
-   "103":{
+   {
       "title":"mi adizero 5 Star 5.0 (Digital Print)",
       "id":"15006395_W",
       "images":[
@@ -1244,10 +1244,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-adizero-5-star-5.0-digital-print/15006395_W.html"
    },
-   "104":{
+   {
       "title":"mi adizero 5 Star 5.0 (Digital Print)",
       "id":"4001775_W",
       "images":[
@@ -1256,10 +1256,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-adizero-5-star-5.0-digital-print/4001775_W.html"
    },
-   "105":{
+   {
       "title":"mi adizero 5 Star 5.0 (Digital Print)",
       "id":"15006393_W",
       "images":[
@@ -1268,10 +1268,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-adizero-5-star-5.0-digital-print/15006393_W.html"
    },
-   "106":{
+   {
       "title":"mi adizero 5 Star 5.0 Cleats (Screen Print)",
       "id":"15006399_W",
       "images":[
@@ -1280,7 +1280,7 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-adizero-5-star-5.0-cleats-screen-print/15006399_W.html"
    }
-}
+]

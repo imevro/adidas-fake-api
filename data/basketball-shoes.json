@@ -1,5 +1,5 @@
-{
-   "0":{
+[
+   {
       "title":"Dame 3 On Tour Shoes",
       "id":"BB8269",
       "images":[
@@ -8,10 +8,10 @@
          }
       ],
       "price":115,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-3-on-tour-shoes/BB8269.html"
    },
-   "1":{
+   {
       "title":"Dame 3 By Any Means Shoes",
       "id":"BB8271",
       "images":[
@@ -20,10 +20,10 @@
          }
       ],
       "price":115,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-3-by-any-means-shoes/BB8271.html"
    },
-   "2":{
+   {
       "title":"Harden Vol. 1 Shoes",
       "id":"BW0546",
       "images":[
@@ -32,10 +32,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-vol.-1-shoes/BW0546.html"
    },
-   "3":{
+   {
       "title":"Harden Vol. 1 Shoes",
       "id":"BW0550",
       "images":[
@@ -44,10 +44,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-vol.-1-shoes/BW0550.html"
    },
-   "4":{
+   {
       "title":"Harden Vol. 1 Shoes",
       "id":"BW0547",
       "images":[
@@ -56,10 +56,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-vol.-1-shoes/BW0547.html"
    },
-   "5":{
+   {
       "title":"Harden Vol. 1 Shoes",
       "id":"B39501",
       "images":[
@@ -68,10 +68,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-vol.-1-shoes/B39501.html"
    },
-   "6":{
+   {
       "title":"Dame 3 Legacy Shoes",
       "id":"BW0323",
       "images":[
@@ -80,10 +80,10 @@
          }
       ],
       "price":115,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-3-legacy-shoes/BW0323.html"
    },
-   "7":{
+   {
       "title":"Dame 3 Roots Shoes",
       "id":"BB8337",
       "images":[
@@ -92,10 +92,10 @@
          }
       ],
       "price":115,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-3-roots-shoes/BB8337.html"
    },
-   "8":{
+   {
       "title":"Dame 3 Lights Out Shoes",
       "id":"BY3206",
       "images":[
@@ -104,10 +104,10 @@
          }
       ],
       "price":115,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-3-lights-out-shoes/BY3206.html"
    },
-   "9":{
+   {
       "title":"Dame 3 West Campus Shoes",
       "id":"BW0326",
       "images":[
@@ -116,10 +116,10 @@
          }
       ],
       "price":115,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-3-west-campus-shoes/BW0326.html"
    },
-   "10":{
+   {
       "title":"D Rose 7 Primeknit Shoes",
       "id":"B49512",
       "images":[
@@ -128,10 +128,10 @@
          }
       ],
       "price":160,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/d-rose-7-primeknit-shoes/B49512.html"
    },
-   "11":{
+   {
       "title":"D Rose 7 Primeknit Shoes",
       "id":"B72720",
       "images":[
@@ -140,10 +140,10 @@
          }
       ],
       "price":160,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/d-rose-7-primeknit-shoes/B72720.html"
    },
-   "12":{
+   {
       "title":"D Rose 7 Shoes",
       "id":"BB8290",
       "images":[
@@ -152,10 +152,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/d-rose-7-shoes/BB8290.html"
    },
-   "13":{
+   {
       "title":"Harden Vol. 1 Shoes",
       "id":"BW0548",
       "images":[
@@ -164,10 +164,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-vol.-1-shoes/BW0548.html"
    },
-   "14":{
+   {
       "title":"Dame 3 Shoes",
       "id":"BW0535",
       "images":[
@@ -176,10 +176,10 @@
          }
       ],
       "price":90,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-3-shoes/BW0535.html"
    },
-   "15":{
+   {
       "title":"Dame 3 Shoes",
       "id":"B49590",
       "images":[
@@ -188,10 +188,10 @@
          }
       ],
       "price":90,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-3-shoes/B49590.html"
    },
-   "16":{
+   {
       "title":"Dame 3 Shoes",
       "id":"BW0536",
       "images":[
@@ -200,10 +200,10 @@
          }
       ],
       "price":90,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-3-shoes/BW0536.html"
    },
-   "17":{
+   {
       "title":"Dame 3 By Any Means Shoes",
       "id":"B49597",
       "images":[
@@ -212,10 +212,10 @@
          }
       ],
       "price":60,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-3-by-any-means-shoes/B49597.html"
    },
-   "18":{
+   {
       "title":"Crazy Team 2017 Shoes",
       "id":"BY3524",
       "images":[
@@ -224,10 +224,10 @@
          }
       ],
       "price":65,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/crazy-team-2017-shoes/BY3524.html"
    },
-   "19":{
+   {
       "title":"Dame 3 Shoes",
       "id":"BB8278",
       "images":[
@@ -236,10 +236,10 @@
          }
       ],
       "price":65,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-3-shoes/BB8278.html"
    },
-   "20":{
+   {
       "title":"Dame 3 Shoes",
       "id":"BB8279",
       "images":[
@@ -248,10 +248,10 @@
          }
       ],
       "price":65,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-3-shoes/BB8279.html"
    },
-   "21":{
+   {
       "title":"Dame 3 Shoes",
       "id":"BB8282",
       "images":[
@@ -260,10 +260,10 @@
          }
       ],
       "price":65,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-3-shoes/BB8282.html"
    },
-   "22":{
+   {
       "title":"Dame 3 RIP City Shoes",
       "id":"BB8268",
       "images":[
@@ -272,10 +272,10 @@
          }
       ],
       "price":115,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-3-rip-city-shoes/BB8268.html"
    },
-   "23":{
+   {
       "title":"Dame 3 Shoes",
       "id":"BB8270",
       "images":[
@@ -284,10 +284,10 @@
          }
       ],
       "price":115,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-3-shoes/BB8270.html"
    },
-   "24":{
+   {
       "title":"Crazy Explosive Low Primeknit Shoes",
       "id":"BY3469",
       "images":[
@@ -296,10 +296,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/crazy-explosive-low-primeknit-shoes/BY3469.html"
    },
-   "25":{
+   {
       "title":"Crazy Explosive Low Primeknit Shoes",
       "id":"BB8346",
       "images":[
@@ -308,10 +308,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/crazy-explosive-low-primeknit-shoes/BB8346.html"
    },
-   "26":{
+   {
       "title":"Crazy Explosive Low Shoes",
       "id":"BB8365",
       "images":[
@@ -320,10 +320,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/crazy-explosive-low-shoes/BB8365.html"
    },
-   "27":{
+   {
       "title":"Crazy Explosive Shoes",
       "id":"BB8345",
       "images":[
@@ -332,10 +332,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/crazy-explosive-shoes/BB8345.html"
    },
-   "28":{
+   {
       "title":"ADO Crazy Explosive Shoes",
       "id":"BY2868",
       "images":[
@@ -344,10 +344,10 @@
          }
       ],
       "price":200,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ado-crazy-explosive-shoes/BY2868.html"
    },
-   "29":{
+   {
       "title":"Crazy Explosive Low Shoes",
       "id":"BW0571",
       "images":[
@@ -356,10 +356,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/crazy-explosive-low-shoes/BW0571.html"
    },
-   "30":{
+   {
       "title":"Crazy Explosive Low Shoes",
       "id":"BB8364",
       "images":[
@@ -368,10 +368,10 @@
          }
       ],
       "price":120,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/crazy-explosive-low-shoes/BB8364.html"
    },
-   "31":{
+   {
       "title":"Dame 3 Florist City Shoes",
       "id":"B49509",
       "images":[
@@ -380,10 +380,10 @@
          }
       ],
       "price":115,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-3-florist-city-shoes/B49509.html"
    },
-   "32":{
+   {
       "title":"D Rose 7 Shoes",
       "id":"B49511",
       "images":[
@@ -392,10 +392,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/d-rose-7-shoes/B49511.html"
    },
-   "33":{
+   {
       "title":"D Rose 7 Shoes",
       "id":"BY3475",
       "images":[
@@ -404,10 +404,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/d-rose-7-shoes/BY3475.html"
    },
-   "34":{
+   {
       "title":"D Rose 7 Shoes",
       "id":"BB8212",
       "images":[
@@ -416,10 +416,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/d-rose-7-shoes/BB8212.html"
    },
-   "35":{
+   {
       "title":"Crazylight Boost Low 2016 Shoes",
       "id":"AQ7761",
       "images":[
@@ -428,10 +428,10 @@
          }
       ],
       "price":65,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/crazylight-boost-low-2016-shoes/AQ7761.html"
    },
-   "36":{
+   {
       "title":"mi Crazy Explosive Shoes",
       "id":"4002175_M",
       "images":[
@@ -440,10 +440,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazy-explosive-shoes/4002175_M.html"
    },
-   "37":{
+   {
       "title":"mi Dame 3 Shoes",
       "id":"4002034_M",
       "images":[
@@ -452,10 +452,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-dame-3-shoes/4002034_M.html"
    },
-   "38":{
+   {
       "title":"mi D Rose 7 Shoes",
       "id":"4001979_M",
       "images":[
@@ -464,10 +464,10 @@
          }
       ],
       "price":170,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-d-rose-7-shoes/4001979_M.html"
    },
-   "39":{
+   {
       "title":"mi Crazylight Boost Low Shoes",
       "id":"4001941_M",
       "images":[
@@ -476,10 +476,10 @@
          }
       ],
       "price":160,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazylight-boost-low-shoes/4001941_M.html"
    },
-   "40":{
+   {
       "title":"mi Dame 3 Shoes",
       "id":"15007720_M",
       "images":[
@@ -488,10 +488,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-dame-3-shoes/15007720_M.html"
    },
-   "41":{
+   {
       "title":"mi Crazy Explosive Shoes",
       "id":"15007741_M",
       "images":[
@@ -500,10 +500,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazy-explosive-shoes/15007741_M.html"
    },
-   "42":{
+   {
       "title":"mi Crazy Explosive Shoes",
       "id":"15007747_M",
       "images":[
@@ -512,10 +512,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazy-explosive-shoes/15007747_M.html"
    },
-   "43":{
+   {
       "title":"mi Crazylight Boost Low Shoes",
       "id":"15007029_M",
       "images":[
@@ -524,10 +524,10 @@
          }
       ],
       "price":160,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazylight-boost-low-shoes/15007029_M.html"
    },
-   "44":{
+   {
       "title":"mi Dame 3 Shoes",
       "id":"15007775_M",
       "images":[
@@ -536,10 +536,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-dame-3-shoes/15007775_M.html"
    },
-   "45":{
+   {
       "title":"mi D Rose 7 Shoes",
       "id":"4001979_W",
       "images":[
@@ -548,10 +548,10 @@
          }
       ],
       "price":170,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-d-rose-7-shoes/4001979_W.html"
    },
-   "46":{
+   {
       "title":"mi Crazy Explosive Shoes",
       "id":"15007748_M",
       "images":[
@@ -560,10 +560,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazy-explosive-shoes/15007748_M.html"
    },
-   "47":{
+   {
       "title":"mi Dame 3 Shoes",
       "id":"15007721_M",
       "images":[
@@ -572,10 +572,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-dame-3-shoes/15007721_M.html"
    },
-   "48":{
+   {
       "title":"mi Crazy Explosive Shoes",
       "id":"15007737_M",
       "images":[
@@ -584,10 +584,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazy-explosive-shoes/15007737_M.html"
    },
-   "49":{
+   {
       "title":"mi Dame 3 Shoes",
       "id":"15007778_M",
       "images":[
@@ -596,10 +596,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-dame-3-shoes/15007778_M.html"
    },
-   "50":{
+   {
       "title":"mi Crazylight Boost Low Shoes",
       "id":"15007031_M",
       "images":[
@@ -608,10 +608,10 @@
          }
       ],
       "price":160,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazylight-boost-low-shoes/15007031_M.html"
    },
-   "51":{
+   {
       "title":"mi Crazy Explosive Shoes",
       "id":"15007736_W",
       "images":[
@@ -620,10 +620,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazy-explosive-shoes/15007736_W.html"
    },
-   "52":{
+   {
       "title":"mi Crazylight Boost Low Shoes",
       "id":"15007025_M",
       "images":[
@@ -632,10 +632,10 @@
          }
       ],
       "price":160,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazylight-boost-low-shoes/15007025_M.html"
    },
-   "53":{
+   {
       "title":"mi Dame 3 Shoes",
       "id":"15007777_M",
       "images":[
@@ -644,10 +644,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-dame-3-shoes/15007777_M.html"
    },
-   "54":{
+   {
       "title":"mi Crazylight Boost Low Shoes",
       "id":"15007190_M",
       "images":[
@@ -656,10 +656,10 @@
          }
       ],
       "price":160,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazylight-boost-low-shoes/15007190_M.html"
    },
-   "55":{
+   {
       "title":"mi Crazy Explosive Shoes",
       "id":"15007743_M",
       "images":[
@@ -668,10 +668,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazy-explosive-shoes/15007743_M.html"
    },
-   "56":{
+   {
       "title":"mi Crazylight Boost Low Shoes",
       "id":"15007032_M",
       "images":[
@@ -680,10 +680,10 @@
          }
       ],
       "price":160,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazylight-boost-low-shoes/15007032_M.html"
    },
-   "57":{
+   {
       "title":"mi Dame 3 Shoes",
       "id":"15007722_M",
       "images":[
@@ -692,10 +692,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-dame-3-shoes/15007722_M.html"
    },
-   "58":{
+   {
       "title":"mi Crazy Explosive Shoes",
       "id":"15007739_M",
       "images":[
@@ -704,10 +704,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazy-explosive-shoes/15007739_M.html"
    },
-   "59":{
+   {
       "title":"mi Crazylight Boost Low Shoes",
       "id":"15007028_M",
       "images":[
@@ -716,10 +716,10 @@
          }
       ],
       "price":160,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazylight-boost-low-shoes/15007028_M.html"
    },
-   "60":{
+   {
       "title":"mi Crazylight Boost Low Shoes",
       "id":"15007030_M",
       "images":[
@@ -728,10 +728,10 @@
          }
       ],
       "price":160,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazylight-boost-low-shoes/15007030_M.html"
    },
-   "61":{
+   {
       "title":"mi Dame 3 Shoes",
       "id":"15007723_M",
       "images":[
@@ -740,10 +740,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-dame-3-shoes/15007723_M.html"
    },
-   "62":{
+   {
       "title":"mi Crazy Explosive Shoes",
       "id":"4002175_W",
       "images":[
@@ -752,10 +752,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazy-explosive-shoes/4002175_W.html"
    },
-   "63":{
+   {
       "title":"mi Crazy Explosive Shoes",
       "id":"15007749_W",
       "images":[
@@ -764,10 +764,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazy-explosive-shoes/15007749_W.html"
    },
-   "64":{
+   {
       "title":"mi D Rose 7 Shoes",
       "id":"15007201_W",
       "images":[
@@ -776,10 +776,10 @@
          }
       ],
       "price":170,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-d-rose-7-shoes/15007201_W.html"
    },
-   "65":{
+   {
       "title":"mi Dame 3 Shoes",
       "id":"15007782_W",
       "images":[
@@ -788,10 +788,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-dame-3-shoes/15007782_W.html"
    },
-   "66":{
+   {
       "title":"mi Dame 3 Shoes",
       "id":"15007726_W",
       "images":[
@@ -800,10 +800,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-dame-3-shoes/15007726_W.html"
    },
-   "67":{
+   {
       "title":"mi Crazy Explosive Shoes",
       "id":"15007738_W",
       "images":[
@@ -812,10 +812,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazy-explosive-shoes/15007738_W.html"
    },
-   "68":{
+   {
       "title":"mi Crazy Explosive Shoes",
       "id":"15007740_W",
       "images":[
@@ -824,10 +824,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazy-explosive-shoes/15007740_W.html"
    },
-   "69":{
+   {
       "title":"mi Dame 3 Shoes",
       "id":"4002034_W",
       "images":[
@@ -836,10 +836,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-dame-3-shoes/4002034_W.html"
    },
-   "70":{
+   {
       "title":"mi Dame 3 Shoes",
       "id":"15007725_W",
       "images":[
@@ -848,10 +848,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-dame-3-shoes/15007725_W.html"
    },
-   "71":{
+   {
       "title":"mi Dame 3 Shoes",
       "id":"15007781_W",
       "images":[
@@ -860,10 +860,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-dame-3-shoes/15007781_W.html"
    },
-   "72":{
+   {
       "title":"mi Dame 3 Shoes",
       "id":"15007779_W",
       "images":[
@@ -872,10 +872,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-dame-3-shoes/15007779_W.html"
    },
-   "73":{
+   {
       "title":"mi Crazy Explosive Shoes",
       "id":"15007746_W",
       "images":[
@@ -884,10 +884,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazy-explosive-shoes/15007746_W.html"
    },
-   "74":{
+   {
       "title":"mi Crazy Explosive Shoes",
       "id":"15007742_W",
       "images":[
@@ -896,10 +896,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-crazy-explosive-shoes/15007742_W.html"
    },
-   "75":{
+   {
       "title":"mi Dame 3 Shoes",
       "id":"15007727_W",
       "images":[
@@ -908,10 +908,10 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-dame-3-shoes/15007727_W.html"
    },
-   "76":{
+   {
       "title":"mi Dame 3 Shoes",
       "id":"15007728_W",
       "images":[
@@ -920,7 +920,7 @@
          }
       ],
       "price":140,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/mi-dame-3-shoes/15007728_W.html"
    }
-}
+]

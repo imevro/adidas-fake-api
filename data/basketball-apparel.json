@@ -1,5 +1,5 @@
-{
-   "0":{
+[
+   {
       "title":"Ultimate Tee",
       "id":"BP9731",
       "images":[
@@ -8,10 +8,10 @@
          }
       ],
       "price":25,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultimate-tee/BP9731.html"
    },
-   "1":{
+   {
       "title":"Ultimate Tee",
       "id":"BP9745",
       "images":[
@@ -20,10 +20,10 @@
          }
       ],
       "price":25,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultimate-tee/BP9745.html"
    },
-   "2":{
+   {
       "title":"Ultimate Tee",
       "id":"BP9732",
       "images":[
@@ -32,10 +32,10 @@
          }
       ],
       "price":25,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultimate-tee/BP9732.html"
    },
-   "3":{
+   {
       "title":"Ultimate Tee",
       "id":"BP5770",
       "images":[
@@ -44,10 +44,10 @@
          }
       ],
       "price":25,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultimate-tee/BP5770.html"
    },
-   "4":{
+   {
       "title":"Harden Vol. 1 MVP Sweatshirt",
       "id":"BK0916",
       "images":[
@@ -56,10 +56,10 @@
          }
       ],
       "price":95,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-vol.-1-mvp-sweatshirt/BK0916.html"
    },
-   "5":{
+   {
       "title":"Harden Vol. 1 Swag Champ Hoodie",
       "id":"BP7176",
       "images":[
@@ -68,10 +68,10 @@
          }
       ],
       "price":85,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-vol.-1-swag-champ-hoodie/BP7176.html"
    },
-   "6":{
+   {
       "title":"Harden Vol. 1 Playmaker Shorts",
       "id":"AZ4045",
       "images":[
@@ -80,10 +80,10 @@
          }
       ],
       "price":50,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-vol.-1-playmaker-shorts/AZ4045.html"
    },
-   "7":{
+   {
       "title":"Harden Vol. 1 MVP Sweat Pants",
       "id":"BK6675",
       "images":[
@@ -92,10 +92,10 @@
          }
       ],
       "price":80,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-vol.-1-mvp-sweat-pants/BK6675.html"
    },
-   "8":{
+   {
       "title":"Harden Vol. 1 DFYNT Tee",
       "id":"BP7165",
       "images":[
@@ -104,10 +104,10 @@
          }
       ],
       "price":55,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-vol.-1-dfynt-tee/BP7165.html"
    },
-   "9":{
+   {
       "title":"Harden Vol. 1 Playmaker Tights",
       "id":"BP7146",
       "images":[
@@ -116,10 +116,10 @@
          }
       ],
       "price":55,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-vol.-1-playmaker-tights/BP7146.html"
    },
-   "10":{
+   {
       "title":"Harden Vol. 1 Playmaker Jersey",
       "id":"BK1243",
       "images":[
@@ -128,10 +128,10 @@
          }
       ],
       "price":70,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-vol.-1-playmaker-jersey/BK1243.html"
    },
-   "11":{
+   {
       "title":"Harden Vol. 1 DFYNT Tee",
       "id":"BP7173",
       "images":[
@@ -140,10 +140,10 @@
          }
       ],
       "price":35,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-vol.-1-dfynt-tee/BP7173.html"
    },
-   "12":{
+   {
       "title":"Harden Logo Tee",
       "id":"CD8134",
       "images":[
@@ -152,10 +152,10 @@
          }
       ],
       "price":40,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-logo-tee/CD8134.html"
    },
-   "13":{
+   {
       "title":"Harden Cook It Up Tee",
       "id":"CT1578",
       "images":[
@@ -164,10 +164,10 @@
          }
       ],
       "price":25,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-cook-it-up-tee/CT1578.html"
    },
-   "14":{
+   {
       "title":"Dame Stripe Tee",
       "id":"S97490",
       "images":[
@@ -176,10 +176,10 @@
          }
       ],
       "price":35,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-stripe-tee/S97490.html"
    },
-   "15":{
+   {
       "title":"Dame Jersey",
       "id":"BP7486",
       "images":[
@@ -188,10 +188,10 @@
          }
       ],
       "price":70,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-jersey/BP7486.html"
    },
-   "16":{
+   {
       "title":"Dame Block Tee",
       "id":"BP7489",
       "images":[
@@ -200,10 +200,10 @@
          }
       ],
       "price":40,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-block-tee/BP7489.html"
    },
-   "17":{
+   {
       "title":"Track Pants",
       "id":"BS3115",
       "images":[
@@ -212,10 +212,10 @@
          }
       ],
       "price":250,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/track-pants/BS3115.html"
    },
-   "18":{
+   {
       "title":"Three-Quarter Compression Tights",
       "id":"BS3100",
       "images":[
@@ -224,10 +224,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/three-quarter-compression-tights/BS3100.html"
    },
-   "19":{
+   {
       "title":"Seamless Shorts",
       "id":"BS3105",
       "images":[
@@ -236,10 +236,10 @@
          }
       ],
       "price":150,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/seamless-shorts/BS3105.html"
    },
-   "20":{
+   {
       "title":"Seamless Tank Top",
       "id":"BS3104",
       "images":[
@@ -248,10 +248,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/seamless-tank-top/BS3104.html"
    },
-   "21":{
+   {
       "title":"Compression Tee",
       "id":"BS3098",
       "images":[
@@ -260,10 +260,10 @@
          }
       ],
       "price":130,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/compression-tee/BS3098.html"
    },
-   "22":{
+   {
       "title":"Cross-Up Three-Quarter Pants",
       "id":"AZ2117",
       "images":[
@@ -272,10 +272,10 @@
          }
       ],
       "price":50,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/cross-up-three-quarter-pants/AZ2117.html"
    },
-   "23":{
+   {
       "title":"Cross-Up Three-Quarter Pants",
       "id":"BP7206",
       "images":[
@@ -284,10 +284,10 @@
          }
       ],
       "price":50,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/cross-up-three-quarter-pants/BP7206.html"
    },
-   "24":{
+   {
       "title":"D Rose Big Logo Tee",
       "id":"AZ4033",
       "images":[
@@ -296,10 +296,10 @@
          }
       ],
       "price":40,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/d-rose-big-logo-tee/AZ4033.html"
    },
-   "25":{
+   {
       "title":"D Rose Big Logo Tee",
       "id":"AZ4034",
       "images":[
@@ -308,10 +308,10 @@
          }
       ],
       "price":40,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/d-rose-big-logo-tee/AZ4034.html"
    },
-   "26":{
+   {
       "title":"Cross-Up Tee",
       "id":"AZ4329",
       "images":[
@@ -320,10 +320,10 @@
          }
       ],
       "price":40,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/cross-up-tee/AZ4329.html"
    },
-   "27":{
+   {
       "title":"3-Stripes Shorts",
       "id":"AZ2093",
       "images":[
@@ -332,10 +332,10 @@
          }
       ],
       "price":30,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/3-stripes-shorts/AZ2093.html"
    },
-   "28":{
+   {
       "title":"Dame Icon Shorts",
       "id":"S97496",
       "images":[
@@ -344,10 +344,10 @@
          }
       ],
       "price":45,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-icon-shorts/S97496.html"
    },
-   "29":{
+   {
       "title":"D Rose Icon Shorts",
       "id":"AZ4038",
       "images":[
@@ -356,10 +356,10 @@
          }
       ],
       "price":45,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/d-rose-icon-shorts/AZ4038.html"
    },
-   "30":{
+   {
       "title":"D Rose Icon Shorts",
       "id":"AZ4039",
       "images":[
@@ -368,10 +368,10 @@
          }
       ],
       "price":45,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/d-rose-icon-shorts/AZ4039.html"
    },
-   "31":{
+   {
       "title":"Ultimate Tee",
       "id":"BP9733",
       "images":[
@@ -380,10 +380,10 @@
          }
       ],
       "price":25,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultimate-tee/BP9733.html"
    },
-   "32":{
+   {
       "title":"Ultimate Tee",
       "id":"BP9738",
       "images":[
@@ -392,10 +392,10 @@
          }
       ],
       "price":25,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultimate-tee/BP9738.html"
    },
-   "33":{
+   {
       "title":"Ultimate Tee",
       "id":"BP9728",
       "images":[
@@ -404,10 +404,10 @@
          }
       ],
       "price":25,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/ultimate-tee/BP9728.html"
    },
-   "34":{
+   {
       "title":"Celtics Playoff Arch Tee",
       "id":"CT9351",
       "images":[
@@ -416,10 +416,10 @@
          }
       ],
       "price":20,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/celtics-playoff-arch-tee/CT9351.html"
    },
-   "35":{
+   {
       "title":"Celtics Playoff Ball Tee",
       "id":"CT9504",
       "images":[
@@ -428,10 +428,10 @@
          }
       ],
       "price":24,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/celtics-playoff-ball-tee/CT9504.html"
    },
-   "36":{
+   {
       "title":"Cavaliers Defend the Land Tee",
       "id":"CT0653",
       "images":[
@@ -440,10 +440,10 @@
          }
       ],
       "price":24,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/cavaliers-defend-the-land-tee/CT0653.html"
    },
-   "37":{
+   {
       "title":"Cavaliers Playoff Arch Tee",
       "id":"CT9362",
       "images":[
@@ -452,10 +452,10 @@
          }
       ],
       "price":20,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/cavaliers-playoff-arch-tee/CT9362.html"
    },
-   "38":{
+   {
       "title":"Cavaliers Playoff Ball Tee",
       "id":"CT9520",
       "images":[
@@ -464,10 +464,10 @@
          }
       ],
       "price":24,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/cavaliers-playoff-ball-tee/CT9520.html"
    },
-   "39":{
+   {
       "title":"Bulls Playoff Arch Tee",
       "id":"CT9341",
       "images":[
@@ -476,10 +476,10 @@
          }
       ],
       "price":20,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/bulls-playoff-arch-tee/CT9341.html"
    },
-   "40":{
+   {
       "title":"Spurs Playoff Ball Tee",
       "id":"CT9503",
       "images":[
@@ -488,10 +488,10 @@
          }
       ],
       "price":24,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/spurs-playoff-ball-tee/CT9503.html"
    },
-   "41":{
+   {
       "title":"Spurs Playoff Arch Tee",
       "id":"CT9349",
       "images":[
@@ -500,10 +500,10 @@
          }
       ],
       "price":20,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/spurs-playoff-arch-tee/CT9349.html"
    },
-   "42":{
+   {
       "title":"Bulls Playoff Ball Tee",
       "id":"CT9494",
       "images":[
@@ -512,10 +512,10 @@
          }
       ],
       "price":24,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/bulls-playoff-ball-tee/CT9494.html"
    },
-   "43":{
+   {
       "title":"Rockets Playoff Arch Tee",
       "id":"CT9343",
       "images":[
@@ -524,10 +524,10 @@
          }
       ],
       "price":20,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/rockets-playoff-arch-tee/CT9343.html"
    },
-   "44":{
+   {
       "title":"Rockets Playoff Ball Tee",
       "id":"CT9496",
       "images":[
@@ -536,10 +536,10 @@
          }
       ],
       "price":24,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/rockets-playoff-ball-tee/CT9496.html"
    },
-   "45":{
+   {
       "title":"Harden Logo Tee",
       "id":"CI0927",
       "images":[
@@ -548,10 +548,10 @@
          }
       ],
       "price":30,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-logo-tee/CI0927.html"
    },
-   "46":{
+   {
       "title":"Crazylight GFX Shorts",
       "id":"AZ2082",
       "images":[
@@ -560,10 +560,10 @@
          }
       ],
       "price":45,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/crazylight-gfx-shorts/AZ2082.html"
    },
-   "47":{
+   {
       "title":"Double Up Pants",
       "id":"AX7917",
       "images":[
@@ -572,10 +572,10 @@
          }
       ],
       "price":40,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/double-up-pants/AX7917.html"
    },
-   "48":{
+   {
       "title":"Warriors HWC Stephen Curry Replica Tee",
       "id":"AU2567",
       "images":[
@@ -584,10 +584,10 @@
          }
       ],
       "price":20,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/warriors-hwc-stephen-curry-replica-tee/AU2567.html"
    },
-   "49":{
+   {
       "title":"Harden Vol. 1 MVP Sweatshirt",
       "id":"BK4331",
       "images":[
@@ -596,10 +596,10 @@
          }
       ],
       "price":66,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-vol.-1-mvp-sweatshirt/BK4331.html"
    },
-   "50":{
+   {
       "title":"Double Up Tank Top",
       "id":"AC0427",
       "images":[
@@ -608,10 +608,10 @@
          }
       ],
       "price":18,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/double-up-tank-top/AC0427.html"
    },
-   "51":{
+   {
       "title":"Harden Vol. 1 Swag Champ Hoodie",
       "id":"AZ4041",
       "images":[
@@ -620,10 +620,10 @@
          }
       ],
       "price":59,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-vol.-1-swag-champ-hoodie/AZ4041.html"
    },
-   "52":{
+   {
       "title":"Cavaliers Road Swingman Jersey",
       "id":"A61381",
       "images":[
@@ -632,10 +632,10 @@
          }
       ],
       "price":77,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/cavaliers-road-swingman-jersey/A61381.html"
    },
-   "53":{
+   {
       "title":"Cross-Up Hoodie",
       "id":"BK7353",
       "images":[
@@ -644,10 +644,10 @@
          }
       ],
       "price":46,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/cross-up-hoodie/BK7353.html"
    },
-   "54":{
+   {
       "title":"Cross-Up Hoodie",
       "id":"AZ2115",
       "images":[
@@ -656,10 +656,10 @@
          }
       ],
       "price":46,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/cross-up-hoodie/AZ2115.html"
    },
-   "55":{
+   {
       "title":"Climachill Basketball Tank Top",
       "id":"AZ2099",
       "images":[
@@ -668,10 +668,10 @@
          }
       ],
       "price":22,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/climachill-basketball-tank-top/AZ2099.html"
    },
-   "56":{
+   {
       "title":"Climachill Basketball Tank Top",
       "id":"AZ2101",
       "images":[
@@ -680,10 +680,10 @@
          }
       ],
       "price":32,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/climachill-basketball-tank-top/AZ2101.html"
    },
-   "57":{
+   {
       "title":"Climachill Basketball Tank Top",
       "id":"AZ2100",
       "images":[
@@ -692,10 +692,10 @@
          }
       ],
       "price":22,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/climachill-basketball-tank-top/AZ2100.html"
    },
-   "58":{
+   {
       "title":"Dame Stripe Tee",
       "id":"BJ9616",
       "images":[
@@ -704,10 +704,10 @@
          }
       ],
       "price":25,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-stripe-tee/BJ9616.html"
    },
-   "59":{
+   {
       "title":"Warriors Road Swingman Jersey",
       "id":"H95407",
       "images":[
@@ -716,10 +716,10 @@
          }
       ],
       "price":77,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/warriors-road-swingman-jersey/H95407.html"
    },
-   "60":{
+   {
       "title":"Warriors Home Swingman Jersey",
       "id":"H95413",
       "images":[
@@ -728,10 +728,10 @@
          }
       ],
       "price":77,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/warriors-home-swingman-jersey/H95413.html"
    },
-   "61":{
+   {
       "title":"Wizards Road Swingman Jersey",
       "id":"H85117",
       "images":[
@@ -740,10 +740,10 @@
          }
       ],
       "price":77,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/wizards-road-swingman-jersey/H85117.html"
    },
-   "62":{
+   {
       "title":"Warriors Alternate Swingman Jersey",
       "id":"H84735",
       "images":[
@@ -752,10 +752,10 @@
          }
       ],
       "price":77,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/warriors-alternate-swingman-jersey/H84735.html"
    },
-   "63":{
+   {
       "title":"Cross-Up Hoodie",
       "id":"S96172",
       "images":[
@@ -764,10 +764,10 @@
          }
       ],
       "price":42,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/cross-up-hoodie/S96172.html"
    },
-   "64":{
+   {
       "title":"Warriors Away Swingman Jersey",
       "id":"CC1477",
       "images":[
@@ -776,10 +776,10 @@
          }
       ],
       "price":77,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/warriors-away-swingman-jersey/CC1477.html"
    },
-   "65":{
+   {
       "title":"Harden Logo Tee",
       "id":"BQ8492",
       "images":[
@@ -788,10 +788,10 @@
          }
       ],
       "price":28,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-logo-tee/BQ8492.html"
    },
-   "66":{
+   {
       "title":"Harden Logo Tee",
       "id":"BQ8484",
       "images":[
@@ -800,10 +800,10 @@
          }
       ],
       "price":28,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-logo-tee/BQ8484.html"
    },
-   "67":{
+   {
       "title":"Harden Vol. 1 Playmaker Jersey",
       "id":"S97483",
       "images":[
@@ -812,10 +812,10 @@
          }
       ],
       "price":49,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/harden-vol.-1-playmaker-jersey/S97483.html"
    },
-   "68":{
+   {
       "title":"Rockets Alternate Swingman Jersey James Harden",
       "id":"A79583",
       "images":[
@@ -824,10 +824,10 @@
          }
       ],
       "price":77,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/rockets-alternate-swingman-jersey-james-harden/A79583.html"
    },
-   "69":{
+   {
       "title":"Dame Jersey",
       "id":"S97489",
       "images":[
@@ -836,10 +836,10 @@
          }
       ],
       "price":49,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-jersey/S97489.html"
    },
-   "70":{
+   {
       "title":"Trail Blazers Road Swingman Jersey",
       "id":"H85533",
       "images":[
@@ -848,10 +848,10 @@
          }
       ],
       "price":77,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/trail-blazers-road-swingman-jersey/H85533.html"
    },
-   "71":{
+   {
       "title":"Warriors On-Court Warm-Up Jacket",
       "id":"B43408",
       "images":[
@@ -860,10 +860,10 @@
          }
       ],
       "price":77,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/warriors-on-court-warm-up-jacket/B43408.html"
    },
-   "72":{
+   {
       "title":"Warriors Replica Tee",
       "id":"C61367",
       "images":[
@@ -872,10 +872,10 @@
          }
       ],
       "price":22,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/warriors-replica-tee/C61367.html"
    },
-   "73":{
+   {
       "title":"Warriors Swingman Jersey",
       "id":"AN2290",
       "images":[
@@ -884,10 +884,10 @@
          }
       ],
       "price":77,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/warriors-swingman-jersey/AN2290.html"
    },
-   "74":{
+   {
       "title":"Dame Hoodie",
       "id":"BP7472",
       "images":[
@@ -896,10 +896,10 @@
          }
       ],
       "price":56,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-hoodie/BP7472.html"
    },
-   "75":{
+   {
       "title":"Warriors Replica Tee",
       "id":"M83548",
       "images":[
@@ -908,10 +908,10 @@
          }
       ],
       "price":22,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/warriors-replica-tee/M83548.html"
    },
-   "76":{
+   {
       "title":"Knicks Road Swingman Jersey",
       "id":"H82823",
       "images":[
@@ -920,10 +920,10 @@
          }
       ],
       "price":77,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/knicks-road-swingman-jersey/H82823.html"
    },
-   "77":{
+   {
       "title":"Knicks Swingman Jersey",
       "id":"CB9672",
       "images":[
@@ -932,10 +932,10 @@
          }
       ],
       "price":77,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/knicks-swingman-jersey/CB9672.html"
    },
-   "78":{
+   {
       "title":"Spurs Pre-Game Jacket",
       "id":"BK1611",
       "images":[
@@ -944,10 +944,10 @@
          }
       ],
       "price":59,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/spurs-pre-game-jacket/BK1611.html"
    },
-   "79":{
+   {
       "title":"Bulls Shooter Tee",
       "id":"BK7652",
       "images":[
@@ -956,10 +956,10 @@
          }
       ],
       "price":49,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/bulls-shooter-tee/BK7652.html"
    },
-   "80":{
+   {
       "title":"Dame Icon Tee",
       "id":"BP7494",
       "images":[
@@ -968,10 +968,10 @@
          }
       ],
       "price":25,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/dame-icon-tee/BP7494.html"
    },
-   "81":{
+   {
       "title":"Bulls On-Court Warm-Up Jacket",
       "id":"BK7606",
       "images":[
@@ -980,10 +980,10 @@
          }
       ],
       "price":77,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/bulls-on-court-warm-up-jacket/BK7606.html"
    },
-   "82":{
+   {
       "title":"Rockets Shooter Tee",
       "id":"BK0050",
       "images":[
@@ -992,10 +992,10 @@
          }
       ],
       "price":49,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/rockets-shooter-tee/BK0050.html"
    },
-   "83":{
+   {
       "title":"Knicks Swingman Jersey",
       "id":"AV0270",
       "images":[
@@ -1004,10 +1004,10 @@
          }
       ],
       "price":77,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/knicks-swingman-jersey/AV0270.html"
    },
-   "84":{
+   {
       "title":"Hurricanes Jersey",
       "id":"CB1364",
       "images":[
@@ -1016,10 +1016,10 @@
          }
       ],
       "price":40,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/hurricanes-jersey/CB1364.html"
    },
-   "85":{
+   {
       "title":"Cardinals Jersey",
       "id":"CB1350",
       "images":[
@@ -1028,10 +1028,10 @@
          }
       ],
       "price":40,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/cardinals-jersey/CB1350.html"
    },
-   "86":{
+   {
       "title":"Cavaliers Shooter Tee",
       "id":"BK7653",
       "images":[
@@ -1040,10 +1040,10 @@
          }
       ],
       "price":49,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/cavaliers-shooter-tee/BK7653.html"
    },
-   "87":{
+   {
       "title":"JAYHAWKS SIDELINE GRIND BASKETBALL TEE",
       "id":"AL2864",
       "images":[
@@ -1052,10 +1052,10 @@
          }
       ],
       "price":15,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/jayhawks-sideline-grind-basketball-tee/AL2864.html"
    },
-   "88":{
+   {
       "title":"Warriors Away Replica Tee",
       "id":"CC1361",
       "images":[
@@ -1064,10 +1064,10 @@
          }
       ],
       "price":22,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/warriors-away-replica-tee/CC1361.html"
    },
-   "89":{
+   {
       "title":"Wizards Replica Tee",
       "id":"C61368",
       "images":[
@@ -1076,10 +1076,10 @@
          }
       ],
       "price":22,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/wizards-replica-tee/C61368.html"
    },
-   "90":{
+   {
       "title":"Knicks Replica Tee",
       "id":"AV1257",
       "images":[
@@ -1088,10 +1088,10 @@
          }
       ],
       "price":22,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/knicks-replica-tee/AV1257.html"
    },
-   "91":{
+   {
       "title":"Spurs On-Court Shooter Tee",
       "id":"BF0204",
       "images":[
@@ -1100,10 +1100,10 @@
          }
       ],
       "price":42,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/spurs-on-court-shooter-tee/BF0204.html"
    },
-   "92":{
+   {
       "title":"Spurs Shooter Tee",
       "id":"BK1578",
       "images":[
@@ -1112,10 +1112,10 @@
          }
       ],
       "price":49,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/spurs-shooter-tee/BK1578.html"
    },
-   "93":{
+   {
       "title":"Warriors On-Court Shooter Tee",
       "id":"BF0196",
       "images":[
@@ -1124,10 +1124,10 @@
          }
       ],
       "price":42,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/warriors-on-court-shooter-tee/BF0196.html"
    },
-   "94":{
+   {
       "title":"Sun Devils Court Royalty Tee",
       "id":"BF3974",
       "images":[
@@ -1136,10 +1136,10 @@
          }
       ],
       "price":19,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/sun-devils-court-royalty-tee/BF3974.html"
    },
-   "95":{
+   {
       "title":"Hurricanes Jersey",
       "id":"CB1360",
       "images":[
@@ -1148,10 +1148,10 @@
          }
       ],
       "price":40,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/hurricanes-jersey/CB1360.html"
    },
-   "96":{
+   {
       "title":"Property of Cavaliers Tee",
       "id":"BU4554",
       "images":[
@@ -1160,10 +1160,10 @@
          }
       ],
       "price":25,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/property-of-cavaliers-tee/BU4554.html"
    },
-   "97":{
+   {
       "title":"Trail Blazers Shooter Tee",
       "id":"BK1575",
       "images":[
@@ -1172,10 +1172,10 @@
          }
       ],
       "price":49,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/trail-blazers-shooter-tee/BK1575.html"
    },
-   "98":{
+   {
       "title":"Trail Blazers On-Court Warm-Up Jacket",
       "id":"BK7631",
       "images":[
@@ -1184,10 +1184,10 @@
          }
       ],
       "price":77,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/trail-blazers-on-court-warm-up-jacket/BK7631.html"
    },
-   "99":{
+   {
       "title":"Clippers Swingman Jersey #3",
       "id":"AM1086",
       "images":[
@@ -1196,10 +1196,10 @@
          }
       ],
       "price":77,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/clippers-swingman-jersey-3/AM1086.html"
    },
-   "100":{
+   {
       "title":"Sun Devils Jersey",
       "id":"CB1312",
       "images":[
@@ -1208,10 +1208,10 @@
          }
       ],
       "price":40,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/sun-devils-jersey/CB1312.html"
    },
-   "101":{
+   {
       "title":"Timberwolves Swingman Jersey",
       "id":"A63214",
       "images":[
@@ -1220,10 +1220,10 @@
          }
       ],
       "price":77,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/timberwolves-swingman-jersey/A63214.html"
    },
-   "102":{
+   {
       "title":"Bulldogs Logo Tee",
       "id":"BF3804",
       "images":[
@@ -1232,10 +1232,10 @@
          }
       ],
       "price":15,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/bulldogs-logo-tee/BF3804.html"
    },
-   "103":{
+   {
       "title":"Timberwolves Road Game Time Tee",
       "id":"A63191",
       "images":[
@@ -1244,10 +1244,10 @@
          }
       ],
       "price":22,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/timberwolves-road-game-time-tee/A63191.html"
    },
-   "104":{
+   {
       "title":"Cardinals Replica Jersey",
       "id":"BV2237",
       "images":[
@@ -1256,10 +1256,10 @@
          }
       ],
       "price":35,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/cardinals-replica-jersey/BV2237.html"
    },
-   "105":{
+   {
       "title":"Hoosiers Jersey",
       "id":"CB1315",
       "images":[
@@ -1268,10 +1268,10 @@
          }
       ],
       "price":40,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/hoosiers-jersey/CB1315.html"
    },
-   "106":{
+   {
       "title":"Property of Rockets Tee",
       "id":"BU4544",
       "images":[
@@ -1280,10 +1280,10 @@
          }
       ],
       "price":24,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/property-of-rockets-tee/BU4544.html"
    },
-   "107":{
+   {
       "title":"Aggies Jersey",
       "id":"CB1392",
       "images":[
@@ -1292,10 +1292,10 @@
          }
       ],
       "price":40,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/aggies-jersey/CB1392.html"
    },
-   "108":{
+   {
       "title":"Property of Warriors Tee",
       "id":"BU4543",
       "images":[
@@ -1304,10 +1304,10 @@
          }
       ],
       "price":25,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/property-of-warriors-tee/BU4543.html"
    },
-   "109":{
+   {
       "title":"Property of Spurs Tee",
       "id":"BU4550",
       "images":[
@@ -1316,10 +1316,10 @@
          }
       ],
       "price":25,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/property-of-spurs-tee/BU4550.html"
    },
-   "110":{
+   {
       "title":"Jayhawks Logo Tee",
       "id":"BT3720",
       "images":[
@@ -1328,10 +1328,10 @@
          }
       ],
       "price":15,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/jayhawks-logo-tee/BT3720.html"
    },
-   "111":{
+   {
       "title":"JAYHAWKS VAULT LOGO TEE",
       "id":"AV5257",
       "images":[
@@ -1340,10 +1340,10 @@
          }
       ],
       "price":15,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/jayhawks-vault-logo-tee/AV5257.html"
    },
-   "112":{
+   {
       "title":"Bulls On-Court Shooter Tee",
       "id":"BF0193",
       "images":[
@@ -1352,10 +1352,10 @@
          }
       ],
       "price":42,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/bulls-on-court-shooter-tee/BF0193.html"
    },
-   "113":{
+   {
       "title":"Cardinals Jersey",
       "id":"CB1345",
       "images":[
@@ -1364,10 +1364,10 @@
          }
       ],
       "price":40,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/cardinals-jersey/CB1345.html"
    },
-   "114":{
+   {
       "title":"Wolfpack Jersey",
       "id":"CB1378",
       "images":[
@@ -1376,10 +1376,10 @@
          }
       ],
       "price":40,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/wolfpack-jersey/CB1378.html"
    },
-   "115":{
+   {
       "title":"Trail Blazers On-Court Shooter Tee",
       "id":"BF0203",
       "images":[
@@ -1388,10 +1388,10 @@
          }
       ],
       "price":42,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/trail-blazers-on-court-shooter-tee/BF0203.html"
    },
-   "116":{
+   {
       "title":"Property of Trail Blazers Tee",
       "id":"BU4549",
       "images":[
@@ -1400,10 +1400,10 @@
          }
       ],
       "price":25,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/property-of-trail-blazers-tee/BU4549.html"
    },
-   "117":{
+   {
       "title":"Heat Shooter Tee",
       "id":"BK1549",
       "images":[
@@ -1412,10 +1412,10 @@
          }
       ],
       "price":49,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/heat-shooter-tee/BK1549.html"
    },
-   "118":{
+   {
       "title":"Cornhuskers Logo Tee",
       "id":"BT3721",
       "images":[
@@ -1424,10 +1424,10 @@
          }
       ],
       "price":15,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/cornhuskers-logo-tee/BT3721.html"
    },
-   "119":{
+   {
       "title":"Cornhuskers Fade Away Tee",
       "id":"BF4046",
       "images":[
@@ -1436,7 +1436,7 @@
          }
       ],
       "price":18,
-      "currency":"$",
+      "currency":"USD",
       "urlTo":"http://www.adidas.com/us/cornhuskers-fade-away-tee/BF4046.html"
    }
-}
+]
