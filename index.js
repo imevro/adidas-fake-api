@@ -51,6 +51,13 @@ router.get('/products/:group/:type/:id', (req, res) => {
 });
 
 app.use('/v1', router);
+app.get('/', (req, res) => {
+  res.send({
+    docs: 'https://github.com/evgenyrodionov/adidas-api-demo',
+    version: `1.0.0-${process.env.BUILD_DATE || 'local'}`,
+  });
+});
+
 app.listen(3000, () => {
   console.log('adidas-api listening on port 3000!'); // eslint-disable-line no-console
 });
