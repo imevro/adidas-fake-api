@@ -6,15 +6,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-on-tour-shoes/BB8269.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwc42a8a28/zoom/BB8269_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw91839995/zoom/BB8269_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw3b1136f1/zoom/BB8269_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw79d86667/zoom/BB8269_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dweb57ec92/zoom/BB8269_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwf636a5f0/zoom/BB8269_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw5ffc3a28/zoom/BB8269_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwd8d23ba8/zoom/BB8269_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwc42a8a28/zoom/BB8269_01_standard.jpg"
+      { "id": "dwc42a8a28", "fileName": "BB8269_01_standard.jpg" },
+      { "id": "dw91839995", "fileName": "BB8269_02_standard.jpg" },
+      { "id": "dw3b1136f1", "fileName": "BB8269_03_standard.jpg" },
+      { "id": "dw79d86667", "fileName": "BB8269_04_standard.jpg" },
+      { "id": "dweb57ec92", "fileName": "BB8269_05_standard.jpg" },
+      { "id": "dwf636a5f0", "fileName": "BB8269_41_detail.jpg" },
+      { "id": "dw5ffc3a28", "fileName": "BB8269_42_detail.jpg" },
+      { "id": "dwd8d23ba8", "fileName": "BB8269_43_detail.jpg" },
+      { "id": "dwc42a8a28", "fileName": "BB8269_01_standard.jpg" }
     ]
   },
   {
@@ -24,15 +24,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-florist-city-shoes/B49509.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw522fcf1c/zoom/B49509_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw2116a23f/zoom/B49509_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw318537de/zoom/B49509_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw22f9a8d7/zoom/B49509_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw8778299f/zoom/B49509_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwb0936009/zoom/B49509_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9f88b607/zoom/B49509_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw13434269/zoom/B49509_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw522fcf1c/zoom/B49509_01_standard.jpg"
+      { "id": "dw522fcf1c", "fileName": "B49509_01_standard.jpg" },
+      { "id": "dw2116a23f", "fileName": "B49509_02_standard.jpg" },
+      { "id": "dw318537de", "fileName": "B49509_03_standard.jpg" },
+      { "id": "dw22f9a8d7", "fileName": "B49509_04_standard.jpg" },
+      { "id": "dw8778299f", "fileName": "B49509_05_standard.jpg" },
+      { "id": "dwb0936009", "fileName": "B49509_41_detail.jpg" },
+      { "id": "dw9f88b607", "fileName": "B49509_42_detail.jpg" },
+      { "id": "dw13434269", "fileName": "B49509_43_detail.jpg" },
+      { "id": "dw522fcf1c", "fileName": "B49509_01_standard.jpg" }
     ]
   },
   {
@@ -42,15 +42,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-by-any-means-shoes/BB8271.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw6a7edcb5/zoom/BB8271_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa908e16c/zoom/BB8271_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwe940472c/zoom/BB8271_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw36331376/zoom/BB8271_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw8c56c767/zoom/BB8271_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw415cd749/zoom/BB8271_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw737178be/zoom/BB8271_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwfd3ae2ab/zoom/BB8271_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw6a7edcb5/zoom/BB8271_01_standard.jpg"
+      { "id": "dw6a7edcb5", "fileName": "BB8271_01_standard.jpg" },
+      { "id": "dwa908e16c", "fileName": "BB8271_02_standard.jpg" },
+      { "id": "dwe940472c", "fileName": "BB8271_03_standard.jpg" },
+      { "id": "dw36331376", "fileName": "BB8271_04_standard.jpg" },
+      { "id": "dw8c56c767", "fileName": "BB8271_05_standard.jpg" },
+      { "id": "dw415cd749", "fileName": "BB8271_41_detail.jpg" },
+      { "id": "dw737178be", "fileName": "BB8271_42_detail.jpg" },
+      { "id": "dwfd3ae2ab", "fileName": "BB8271_43_detail.jpg" },
+      { "id": "dw6a7edcb5", "fileName": "BB8271_01_standard.jpg" }
     ]
   },
   {
@@ -60,15 +60,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/harden-vol.-1-shoes/BW0546.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw911c5843/zoom/BW0546_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw1af745e8/zoom/BW0546_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwe0a3081d/zoom/BW0546_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw06fd3e5d/zoom/BW0546_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9944edc3/zoom/BW0546_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9bff5fa5/zoom/BW0546_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa2908a6c/zoom/BW0546_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwcfddcd0b/zoom/BW0546_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw911c5843/zoom/BW0546_01_standard.jpg"
+      { "id": "dw911c5843", "fileName": "BW0546_01_standard.jpg" },
+      { "id": "dw1af745e8", "fileName": "BW0546_02_standard.jpg" },
+      { "id": "dwe0a3081d", "fileName": "BW0546_03_standard.jpg" },
+      { "id": "dw06fd3e5d", "fileName": "BW0546_04_standard.jpg" },
+      { "id": "dw9944edc3", "fileName": "BW0546_05_standard.jpg" },
+      { "id": "dw9bff5fa5", "fileName": "BW0546_41_detail.jpg" },
+      { "id": "dwa2908a6c", "fileName": "BW0546_42_detail.jpg" },
+      { "id": "dwcfddcd0b", "fileName": "BW0546_43_detail.jpg" },
+      { "id": "dw911c5843", "fileName": "BW0546_01_standard.jpg" }
     ]
   },
   {
@@ -78,15 +78,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/harden-vol.-1-shoes/BW0550.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwc9dfdc25/zoom/BW0550_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwe9e1eb98/zoom/BW0550_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa88e2799/zoom/BW0550_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwf0388179/zoom/BW0550_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw52bb7fea/zoom/BW0550_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw03a95862/zoom/BW0550_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwf29d7400/zoom/BW0550_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw322f42b5/zoom/BW0550_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwc9dfdc25/zoom/BW0550_01_standard.jpg"
+      { "id": "dwc9dfdc25", "fileName": "BW0550_01_standard.jpg" },
+      { "id": "dwe9e1eb98", "fileName": "BW0550_02_standard.jpg" },
+      { "id": "dwa88e2799", "fileName": "BW0550_03_standard.jpg" },
+      { "id": "dwf0388179", "fileName": "BW0550_04_standard.jpg" },
+      { "id": "dw52bb7fea", "fileName": "BW0550_05_standard.jpg" },
+      { "id": "dw03a95862", "fileName": "BW0550_41_detail.jpg" },
+      { "id": "dwf29d7400", "fileName": "BW0550_42_detail.jpg" },
+      { "id": "dw322f42b5", "fileName": "BW0550_43_detail.jpg" },
+      { "id": "dwc9dfdc25", "fileName": "BW0550_01_standard.jpg" }
     ]
   },
   {
@@ -96,15 +96,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/harden-vol.-1-shoes/BW0547.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw8b928257/zoom/BW0547_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw22c207fc/zoom/BW0547_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw7f563c35/zoom/BW0547_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw65214f19/zoom/BW0547_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw6186274d/zoom/BW0547_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw72112be4/zoom/BW0547_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw78ed5fbe/zoom/BW0547_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwadd64d33/zoom/BW0547_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw8b928257/zoom/BW0547_01_standard.jpg"
+      { "id": "dw8b928257", "fileName": "BW0547_01_standard.jpg" },
+      { "id": "dw22c207fc", "fileName": "BW0547_02_standard.jpg" },
+      { "id": "dw7f563c35", "fileName": "BW0547_03_standard.jpg" },
+      { "id": "dw65214f19", "fileName": "BW0547_04_standard.jpg" },
+      { "id": "dw6186274d", "fileName": "BW0547_05_standard.jpg" },
+      { "id": "dw72112be4", "fileName": "BW0547_41_detail.jpg" },
+      { "id": "dw78ed5fbe", "fileName": "BW0547_42_detail.jpg" },
+      { "id": "dwadd64d33", "fileName": "BW0547_43_detail.jpg" },
+      { "id": "dw8b928257", "fileName": "BW0547_01_standard.jpg" }
     ]
   },
   {
@@ -114,15 +114,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/harden-vol.-1-shoes/B39501.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa4bb60ec/zoom/B39501_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwf339ed57/zoom/B39501_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw7b395eea/zoom/B39501_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw3d5ebd63/zoom/B39501_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw63a550ba/zoom/B39501_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd92d64bb/zoom/B39501_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwedb18696/zoom/B39501_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd07443bd/zoom/B39501_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa4bb60ec/zoom/B39501_01_standard.jpg"
+      { "id": "dwa4bb60ec", "fileName": "B39501_01_standard.jpg" },
+      { "id": "dwf339ed57", "fileName": "B39501_02_standard.jpg" },
+      { "id": "dw7b395eea", "fileName": "B39501_03_standard.jpg" },
+      { "id": "dw3d5ebd63", "fileName": "B39501_04_standard.jpg" },
+      { "id": "dw63a550ba", "fileName": "B39501_05_standard.jpg" },
+      { "id": "dwd92d64bb", "fileName": "B39501_41_detail.jpg" },
+      { "id": "dwedb18696", "fileName": "B39501_42_detail.jpg" },
+      { "id": "dwd07443bd", "fileName": "B39501_43_detail.jpg" },
+      { "id": "dwa4bb60ec", "fileName": "B39501_01_standard.jpg" }
     ]
   },
   {
@@ -132,15 +132,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/harden-vol.-1-shoes/B39495.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwb38dab32/zoom/B39495_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwf687d067/zoom/B39495_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwccd7a3e5/zoom/B39495_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwcee0f26f/zoom/B39495_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwbd83635a/zoom/B39495_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwcf9b6a6a/zoom/B39495_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw03a85e5c/zoom/B39495_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd087fc6c/zoom/B39495_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwb38dab32/zoom/B39495_01_standard.jpg"
+      { "id": "dwb38dab32", "fileName": "B39495_01_standard.jpg" },
+      { "id": "dwf687d067", "fileName": "B39495_02_standard.jpg" },
+      { "id": "dwccd7a3e5", "fileName": "B39495_03_standard.jpg" },
+      { "id": "dwcee0f26f", "fileName": "B39495_04_standard.jpg" },
+      { "id": "dwbd83635a", "fileName": "B39495_05_standard.jpg" },
+      { "id": "dwcf9b6a6a", "fileName": "B39495_41_detail.jpg" },
+      { "id": "dw03a85e5c", "fileName": "B39495_42_detail.jpg" },
+      { "id": "dwd087fc6c", "fileName": "B39495_43_detail.jpg" },
+      { "id": "dwb38dab32", "fileName": "B39495_01_standard.jpg" }
     ]
   },
   {
@@ -150,15 +150,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/harden-vol.-1-shoes/BW0545.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw3a077e2a/zoom/BW0545_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw653e2aea/zoom/BW0545_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw71a8f41b/zoom/BW0545_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw49873b4b/zoom/BW0545_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw8f65d7db/zoom/BW0545_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw2cfa728c/zoom/BW0545_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwb3ee012b/zoom/BW0545_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw71181a71/zoom/BW0545_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw3a077e2a/zoom/BW0545_01_standard.jpg"
+      { "id": "dw3a077e2a", "fileName": "BW0545_01_standard.jpg" },
+      { "id": "dw653e2aea", "fileName": "BW0545_02_standard.jpg" },
+      { "id": "dw71a8f41b", "fileName": "BW0545_03_standard.jpg" },
+      { "id": "dw49873b4b", "fileName": "BW0545_04_standard.jpg" },
+      { "id": "dw8f65d7db", "fileName": "BW0545_05_standard.jpg" },
+      { "id": "dw2cfa728c", "fileName": "BW0545_41_detail.jpg" },
+      { "id": "dwb3ee012b", "fileName": "BW0545_42_detail.jpg" },
+      { "id": "dw71181a71", "fileName": "BW0545_43_detail.jpg" },
+      { "id": "dw3a077e2a", "fileName": "BW0545_01_standard.jpg" }
     ]
   },
   {
@@ -168,15 +168,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-legacy-shoes/BW0323.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw37bd6368/zoom/BW0323_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwbd004acc/zoom/BW0323_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwe5f810e7/zoom/BW0323_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw121426fb/zoom/BW0323_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9d6d59fb/zoom/BW0323_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwe87c0544/zoom/BW0323_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwff0ff6ac/zoom/BW0323_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw171d9dc1/zoom/BW0323_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw37bd6368/zoom/BW0323_01_standard.jpg"
+      { "id": "dw37bd6368", "fileName": "BW0323_01_standard.jpg" },
+      { "id": "dwbd004acc", "fileName": "BW0323_02_standard.jpg" },
+      { "id": "dwe5f810e7", "fileName": "BW0323_03_standard.jpg" },
+      { "id": "dw121426fb", "fileName": "BW0323_04_standard.jpg" },
+      { "id": "dw9d6d59fb", "fileName": "BW0323_05_standard.jpg" },
+      { "id": "dwe87c0544", "fileName": "BW0323_41_detail.jpg" },
+      { "id": "dwff0ff6ac", "fileName": "BW0323_42_detail.jpg" },
+      { "id": "dw171d9dc1", "fileName": "BW0323_43_detail.jpg" },
+      { "id": "dw37bd6368", "fileName": "BW0323_01_standard.jpg" }
     ]
   },
   {
@@ -186,15 +186,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-roots-shoes/BB8337.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw945d6899/zoom/BB8337_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw1ecc1b23/zoom/BB8337_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwf10ad869/zoom/BB8337_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwe638fc98/zoom/BB8337_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw2729304a/zoom/BB8337_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw55471a4b/zoom/BB8337_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9c52443d/zoom/BB8337_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw6402370f/zoom/BB8337_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw945d6899/zoom/BB8337_01_standard.jpg"
+      { "id": "dw945d6899", "fileName": "BB8337_01_standard.jpg" },
+      { "id": "dw1ecc1b23", "fileName": "BB8337_02_standard.jpg" },
+      { "id": "dwf10ad869", "fileName": "BB8337_03_standard.jpg" },
+      { "id": "dwe638fc98", "fileName": "BB8337_04_standard.jpg" },
+      { "id": "dw2729304a", "fileName": "BB8337_05_standard.jpg" },
+      { "id": "dw55471a4b", "fileName": "BB8337_41_detail.jpg" },
+      { "id": "dw9c52443d", "fileName": "BB8337_42_detail.jpg" },
+      { "id": "dw6402370f", "fileName": "BB8337_43_detail.jpg" },
+      { "id": "dw945d6899", "fileName": "BB8337_01_standard.jpg" }
     ]
   },
   {
@@ -204,15 +204,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-lights-out-shoes/BY3206.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw1f87b630/zoom/BY3206_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw388f116d/zoom/BY3206_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw116acba9/zoom/BY3206_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwb2d7f10b/zoom/BY3206_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw799833f6/zoom/BY3206_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw3eef7f9e/zoom/BY3206_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwefca633a/zoom/BY3206_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwd8a4f601/zoom/BY3206_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw1f87b630/zoom/BY3206_01_standard.jpg"
+      { "id": "dw1f87b630", "fileName": "BY3206_01_standard.jpg" },
+      { "id": "dw388f116d", "fileName": "BY3206_02_standard.jpg" },
+      { "id": "dw116acba9", "fileName": "BY3206_03_standard.jpg" },
+      { "id": "dwb2d7f10b", "fileName": "BY3206_04_standard.jpg" },
+      { "id": "dw799833f6", "fileName": "BY3206_05_standard.jpg" },
+      { "id": "dw3eef7f9e", "fileName": "BY3206_41_detail.jpg" },
+      { "id": "dwefca633a", "fileName": "BY3206_42_detail.jpg" },
+      { "id": "dwd8a4f601", "fileName": "BY3206_43_detail.jpg" },
+      { "id": "dw1f87b630", "fileName": "BY3206_01_standard.jpg" }
     ]
   },
   {
@@ -222,15 +222,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-west-campus-shoes/BW0326.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw18a1e6eb/zoom/BW0326_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw4dbaff9e/zoom/BW0326_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw780c3aed/zoom/BW0326_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw43b789b5/zoom/BW0326_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw6a5e9eb5/zoom/BW0326_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd7ac32da/zoom/BW0326_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwdd436144/zoom/BW0326_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw7df1822f/zoom/BW0326_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw18a1e6eb/zoom/BW0326_01_standard.jpg"
+      { "id": "dw18a1e6eb", "fileName": "BW0326_01_standard.jpg" },
+      { "id": "dw4dbaff9e", "fileName": "BW0326_02_standard.jpg" },
+      { "id": "dw780c3aed", "fileName": "BW0326_03_standard.jpg" },
+      { "id": "dw43b789b5", "fileName": "BW0326_04_standard.jpg" },
+      { "id": "dw6a5e9eb5", "fileName": "BW0326_05_standard.jpg" },
+      { "id": "dwd7ac32da", "fileName": "BW0326_41_detail.jpg" },
+      { "id": "dwdd436144", "fileName": "BW0326_42_detail.jpg" },
+      { "id": "dw7df1822f", "fileName": "BW0326_43_detail.jpg" },
+      { "id": "dw18a1e6eb", "fileName": "BW0326_01_standard.jpg" }
     ]
   },
   {
@@ -240,15 +240,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/d-rose-7-primeknit-shoes/B49512.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa252109d/zoom/B49512_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwceebd726/zoom/B49512_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9a0984f4/zoom/B49512_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwfc852652/zoom/B49512_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw3efb6f05/zoom/B49512_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwe68d907b/zoom/B49512_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw1a4ad109/zoom/B49512_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw217e494f/zoom/B49512_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa252109d/zoom/B49512_01_standard.jpg"
+      { "id": "dwa252109d", "fileName": "B49512_01_standard.jpg" },
+      { "id": "dwceebd726", "fileName": "B49512_02_standard.jpg" },
+      { "id": "dw9a0984f4", "fileName": "B49512_03_standard.jpg" },
+      { "id": "dwfc852652", "fileName": "B49512_04_standard.jpg" },
+      { "id": "dw3efb6f05", "fileName": "B49512_05_standard.jpg" },
+      { "id": "dwe68d907b", "fileName": "B49512_41_detail.jpg" },
+      { "id": "dw1a4ad109", "fileName": "B49512_42_detail.jpg" },
+      { "id": "dw217e494f", "fileName": "B49512_43_detail.jpg" },
+      { "id": "dwa252109d", "fileName": "B49512_01_standard.jpg" }
     ]
   },
   {
@@ -258,15 +258,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/d-rose-7-primeknit-shoes/B72720.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw415d68bf/zoom/B72720_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwbf3eea03/zoom/B72720_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9cda98dc/zoom/B72720_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw6bf69a29/zoom/B72720_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw98a4f3e2/zoom/B72720_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw783dd85e/zoom/B72720_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwcc28f768/zoom/B72720_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw7a85ff79/zoom/B72720_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw415d68bf/zoom/B72720_01_standard.jpg"
+      { "id": "dw415d68bf", "fileName": "B72720_01_standard.jpg" },
+      { "id": "dwbf3eea03", "fileName": "B72720_02_standard.jpg" },
+      { "id": "dw9cda98dc", "fileName": "B72720_03_standard.jpg" },
+      { "id": "dw6bf69a29", "fileName": "B72720_04_standard.jpg" },
+      { "id": "dw98a4f3e2", "fileName": "B72720_05_standard.jpg" },
+      { "id": "dw783dd85e", "fileName": "B72720_41_detail.jpg" },
+      { "id": "dwcc28f768", "fileName": "B72720_42_detail.jpg" },
+      { "id": "dw7a85ff79", "fileName": "B72720_43_detail.jpg" },
+      { "id": "dw415d68bf", "fileName": "B72720_01_standard.jpg" }
     ]
   },
   {
@@ -276,15 +276,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/d-rose-7-shoes/BB8290.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw7e8b434d/zoom/BB8290_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dweee11fc8/zoom/BB8290_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwe569932b/zoom/BB8290_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa1b9b235/zoom/BB8290_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw2eda9e85/zoom/BB8290_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw154ce33f/zoom/BB8290_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw549053bc/zoom/BB8290_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw943d8595/zoom/BB8290_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw7e8b434d/zoom/BB8290_01_standard.jpg"
+      { "id": "dw7e8b434d", "fileName": "BB8290_01_standard.jpg" },
+      { "id": "dweee11fc8", "fileName": "BB8290_02_standard.jpg" },
+      { "id": "dwe569932b", "fileName": "BB8290_03_standard.jpg" },
+      { "id": "dwa1b9b235", "fileName": "BB8290_04_standard.jpg" },
+      { "id": "dw2eda9e85", "fileName": "BB8290_05_standard.jpg" },
+      { "id": "dw154ce33f", "fileName": "BB8290_41_detail.jpg" },
+      { "id": "dw549053bc", "fileName": "BB8290_42_detail.jpg" },
+      { "id": "dw943d8595", "fileName": "BB8290_43_detail.jpg" },
+      { "id": "dw7e8b434d", "fileName": "BB8290_01_standard.jpg" }
     ]
   },
   {
@@ -294,15 +294,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/harden-vol.-1-shoes/BW0548.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw4652b5b1/zoom/BW0548_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwb7fb2851/zoom/BW0548_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwe56bc48f/zoom/BW0548_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw811ae7e3/zoom/BW0548_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwc558cb01/zoom/BW0548_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw04e4d2a1/zoom/BW0548_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw5487e54b/zoom/BW0548_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwd5795963/zoom/BW0548_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw4652b5b1/zoom/BW0548_01_standard.jpg"
+      { "id": "dw4652b5b1", "fileName": "BW0548_01_standard.jpg" },
+      { "id": "dwb7fb2851", "fileName": "BW0548_02_standard.jpg" },
+      { "id": "dwe56bc48f", "fileName": "BW0548_03_standard.jpg" },
+      { "id": "dw811ae7e3", "fileName": "BW0548_04_standard.jpg" },
+      { "id": "dwc558cb01", "fileName": "BW0548_05_standard.jpg" },
+      { "id": "dw04e4d2a1", "fileName": "BW0548_41_detail.jpg" },
+      { "id": "dw5487e54b", "fileName": "BW0548_42_detail.jpg" },
+      { "id": "dwd5795963", "fileName": "BW0548_43_detail.jpg" },
+      { "id": "dw4652b5b1", "fileName": "BW0548_01_standard.jpg" }
     ]
   },
   {
@@ -312,15 +312,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-shoes/BW0536.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw1bd10e9c/zoom/BW0536_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwc7db93bf/zoom/BW0536_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwc982ec84/zoom/BW0536_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw581f162a/zoom/BW0536_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwe407dddf/zoom/BW0536_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw44013d7c/zoom/BW0536_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw083877b2/zoom/BW0536_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw87a2ddc3/zoom/BW0536_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw1bd10e9c/zoom/BW0536_01_standard.jpg"
+      { "id": "dw1bd10e9c", "fileName": "BW0536_01_standard.jpg" },
+      { "id": "dwc7db93bf", "fileName": "BW0536_02_standard.jpg" },
+      { "id": "dwc982ec84", "fileName": "BW0536_03_standard.jpg" },
+      { "id": "dw581f162a", "fileName": "BW0536_04_standard.jpg" },
+      { "id": "dwe407dddf", "fileName": "BW0536_05_standard.jpg" },
+      { "id": "dw44013d7c", "fileName": "BW0536_41_detail.jpg" },
+      { "id": "dw083877b2", "fileName": "BW0536_42_detail.jpg" },
+      { "id": "dw87a2ddc3", "fileName": "BW0536_43_detail.jpg" },
+      { "id": "dw1bd10e9c", "fileName": "BW0536_01_standard.jpg" }
     ]
   },
   {
@@ -330,15 +330,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-shoes/B49590.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9efed06b/zoom/B49590_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwb4275c9a/zoom/B49590_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwe209cc00/zoom/B49590_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw6e84c7a4/zoom/B49590_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwff2dbadd/zoom/B49590_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwe89f9ba1/zoom/B49590_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd75bcf73/zoom/B49590_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwe7483794/zoom/B49590_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9efed06b/zoom/B49590_01_standard.jpg"
+      { "id": "dw9efed06b", "fileName": "B49590_01_standard.jpg" },
+      { "id": "dwb4275c9a", "fileName": "B49590_02_standard.jpg" },
+      { "id": "dwe209cc00", "fileName": "B49590_03_standard.jpg" },
+      { "id": "dw6e84c7a4", "fileName": "B49590_04_standard.jpg" },
+      { "id": "dwff2dbadd", "fileName": "B49590_05_standard.jpg" },
+      { "id": "dwe89f9ba1", "fileName": "B49590_41_detail.jpg" },
+      { "id": "dwd75bcf73", "fileName": "B49590_42_detail.jpg" },
+      { "id": "dwe7483794", "fileName": "B49590_43_detail.jpg" },
+      { "id": "dw9efed06b", "fileName": "B49590_01_standard.jpg" }
     ]
   },
   {
@@ -348,15 +348,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-by-any-means-shoes/B49597.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw4014146a/zoom/B49597_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwfb9570de/zoom/B49597_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwb1902bd6/zoom/B49597_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw8e735e6e/zoom/B49597_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw53adc5ed/zoom/B49597_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw02531629/zoom/B49597_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw1a559c8b/zoom/B49597_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd1503d0b/zoom/B49597_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw4014146a/zoom/B49597_01_standard.jpg"
+      { "id": "dw4014146a", "fileName": "B49597_01_standard.jpg" },
+      { "id": "dwfb9570de", "fileName": "B49597_02_standard.jpg" },
+      { "id": "dwb1902bd6", "fileName": "B49597_03_standard.jpg" },
+      { "id": "dw8e735e6e", "fileName": "B49597_04_standard.jpg" },
+      { "id": "dw53adc5ed", "fileName": "B49597_05_standard.jpg" },
+      { "id": "dw02531629", "fileName": "B49597_41_detail.jpg" },
+      { "id": "dw1a559c8b", "fileName": "B49597_42_detail.jpg" },
+      { "id": "dwd1503d0b", "fileName": "B49597_43_detail.jpg" },
+      { "id": "dw4014146a", "fileName": "B49597_01_standard.jpg" }
     ]
   },
   {
@@ -366,15 +366,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-shoes/BB8279.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw5da15443/zoom/BB8279_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwfbeaecde/zoom/BB8279_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwcef79164/zoom/BB8279_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwbffc0475/zoom/BB8279_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa0725e8c/zoom/BB8279_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwde420efa/zoom/BB8279_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwb003f7ee/zoom/BB8279_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw8aca7037/zoom/BB8279_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw5da15443/zoom/BB8279_01_standard.jpg"
+      { "id": "dw5da15443", "fileName": "BB8279_01_standard.jpg" },
+      { "id": "dwfbeaecde", "fileName": "BB8279_02_standard.jpg" },
+      { "id": "dwcef79164", "fileName": "BB8279_03_standard.jpg" },
+      { "id": "dwbffc0475", "fileName": "BB8279_04_standard.jpg" },
+      { "id": "dwa0725e8c", "fileName": "BB8279_05_standard.jpg" },
+      { "id": "dwde420efa", "fileName": "BB8279_41_detail.jpg" },
+      { "id": "dwb003f7ee", "fileName": "BB8279_42_detail.jpg" },
+      { "id": "dw8aca7037", "fileName": "BB8279_43_detail.jpg" },
+      { "id": "dw5da15443", "fileName": "BB8279_01_standard.jpg" }
     ]
   },
   {
@@ -384,15 +384,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-shoes/BB8282.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa9d60781/zoom/BB8282_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw52b99366/zoom/BB8282_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw463b6291/zoom/BB8282_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwc03cce6c/zoom/BB8282_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw2f4a3e65/zoom/BB8282_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw62889152/zoom/BB8282_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw64a03254/zoom/BB8282_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw894e1bf6/zoom/BB8282_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa9d60781/zoom/BB8282_01_standard.jpg"
+      { "id": "dwa9d60781", "fileName": "BB8282_01_standard.jpg" },
+      { "id": "dw52b99366", "fileName": "BB8282_02_standard.jpg" },
+      { "id": "dw463b6291", "fileName": "BB8282_03_standard.jpg" },
+      { "id": "dwc03cce6c", "fileName": "BB8282_04_standard.jpg" },
+      { "id": "dw2f4a3e65", "fileName": "BB8282_05_standard.jpg" },
+      { "id": "dw62889152", "fileName": "BB8282_41_detail.jpg" },
+      { "id": "dw64a03254", "fileName": "BB8282_42_detail.jpg" },
+      { "id": "dw894e1bf6", "fileName": "BB8282_43_detail.jpg" },
+      { "id": "dwa9d60781", "fileName": "BB8282_01_standard.jpg" }
     ]
   },
   {
@@ -402,15 +402,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-rip-city-shoes/BB8268.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa2585b57/zoom/BB8268_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwe08bbebc/zoom/BB8268_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwf431da83/zoom/BB8268_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw014125fb/zoom/BB8268_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwea423cff/zoom/BB8268_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwf0fc147b/zoom/BB8268_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw3588b8f3/zoom/BB8268_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwf9e7ed1a/zoom/BB8268_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa2585b57/zoom/BB8268_01_standard.jpg"
+      { "id": "dwa2585b57", "fileName": "BB8268_01_standard.jpg" },
+      { "id": "dwe08bbebc", "fileName": "BB8268_02_standard.jpg" },
+      { "id": "dwf431da83", "fileName": "BB8268_03_standard.jpg" },
+      { "id": "dw014125fb", "fileName": "BB8268_04_standard.jpg" },
+      { "id": "dwea423cff", "fileName": "BB8268_05_standard.jpg" },
+      { "id": "dwf0fc147b", "fileName": "BB8268_41_detail.jpg" },
+      { "id": "dw3588b8f3", "fileName": "BB8268_42_detail.jpg" },
+      { "id": "dwf9e7ed1a", "fileName": "BB8268_43_detail.jpg" },
+      { "id": "dwa2585b57", "fileName": "BB8268_01_standard.jpg" }
     ]
   },
   {
@@ -420,15 +420,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-shoes/BB8270.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw9bcbe26a/zoom/BB8270_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwc090bcd2/zoom/BB8270_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw7e15a71d/zoom/BB8270_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw527967d3/zoom/BB8270_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw6eca4ffd/zoom/BB8270_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw22e93f3d/zoom/BB8270_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwd486d74c/zoom/BB8270_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw66160747/zoom/BB8270_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw9bcbe26a/zoom/BB8270_01_standard.jpg"
+      { "id": "dw9bcbe26a", "fileName": "BB8270_01_standard.jpg" },
+      { "id": "dwc090bcd2", "fileName": "BB8270_02_standard.jpg" },
+      { "id": "dw7e15a71d", "fileName": "BB8270_03_standard.jpg" },
+      { "id": "dw527967d3", "fileName": "BB8270_04_standard.jpg" },
+      { "id": "dw6eca4ffd", "fileName": "BB8270_05_standard.jpg" },
+      { "id": "dw22e93f3d", "fileName": "BB8270_41_detail.jpg" },
+      { "id": "dwd486d74c", "fileName": "BB8270_42_detail.jpg" },
+      { "id": "dw66160747", "fileName": "BB8270_43_detail.jpg" },
+      { "id": "dw9bcbe26a", "fileName": "BB8270_01_standard.jpg" }
     ]
   },
   {
@@ -438,15 +438,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/crazy-explosive-low-primeknit-shoes/BY3469.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw83bdf6bd/zoom/BY3469_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw7b7e64c9/zoom/BY3469_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw88e35b41/zoom/BY3469_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw04a085e7/zoom/BY3469_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw3620b361/zoom/BY3469_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw056233a3/zoom/BY3469_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw16e4236f/zoom/BY3469_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw28c240f3/zoom/BY3469_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw83bdf6bd/zoom/BY3469_01_standard.jpg"
+      { "id": "dw83bdf6bd", "fileName": "BY3469_01_standard.jpg" },
+      { "id": "dw7b7e64c9", "fileName": "BY3469_02_standard.jpg" },
+      { "id": "dw88e35b41", "fileName": "BY3469_03_standard.jpg" },
+      { "id": "dw04a085e7", "fileName": "BY3469_04_standard.jpg" },
+      { "id": "dw3620b361", "fileName": "BY3469_05_standard.jpg" },
+      { "id": "dw056233a3", "fileName": "BY3469_41_detail.jpg" },
+      { "id": "dw16e4236f", "fileName": "BY3469_42_detail.jpg" },
+      { "id": "dw28c240f3", "fileName": "BY3469_43_detail.jpg" },
+      { "id": "dw83bdf6bd", "fileName": "BY3469_01_standard.jpg" }
     ]
   },
   {
@@ -456,15 +456,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/crazy-explosive-low-primeknit-shoes/BB8346.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa4aa56f6/zoom/BB8346_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw3cb26900/zoom/BB8346_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd4531bef/zoom/BB8346_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dweba5eb85/zoom/BB8346_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw988fee8a/zoom/BB8346_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw31db4ba1/zoom/BB8346_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwdea761fb/zoom/BB8346_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwca9936be/zoom/BB8346_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa4aa56f6/zoom/BB8346_01_standard.jpg"
+      { "id": "dwa4aa56f6", "fileName": "BB8346_01_standard.jpg" },
+      { "id": "dw3cb26900", "fileName": "BB8346_02_standard.jpg" },
+      { "id": "dwd4531bef", "fileName": "BB8346_03_standard.jpg" },
+      { "id": "dweba5eb85", "fileName": "BB8346_04_standard.jpg" },
+      { "id": "dw988fee8a", "fileName": "BB8346_05_standard.jpg" },
+      { "id": "dw31db4ba1", "fileName": "BB8346_41_detail.jpg" },
+      { "id": "dwdea761fb", "fileName": "BB8346_42_detail.jpg" },
+      { "id": "dwca9936be", "fileName": "BB8346_43_detail.jpg" },
+      { "id": "dwa4aa56f6", "fileName": "BB8346_01_standard.jpg" }
     ]
   },
   {
@@ -474,15 +474,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/crazy-explosive-low-shoes/BB8365.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw774bd598/zoom/BB8365_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwf1c558b3/zoom/BB8365_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw64f65b56/zoom/BB8365_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw3b4b15fd/zoom/BB8365_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw35f75d7f/zoom/BB8365_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw05ab8b08/zoom/BB8365_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw314a4564/zoom/BB8365_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9972e06b/zoom/BB8365_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw774bd598/zoom/BB8365_01_standard.jpg"
+      { "id": "dw774bd598", "fileName": "BB8365_01_standard.jpg" },
+      { "id": "dwf1c558b3", "fileName": "BB8365_02_standard.jpg" },
+      { "id": "dw64f65b56", "fileName": "BB8365_03_standard.jpg" },
+      { "id": "dw3b4b15fd", "fileName": "BB8365_04_standard.jpg" },
+      { "id": "dw35f75d7f", "fileName": "BB8365_05_standard.jpg" },
+      { "id": "dw05ab8b08", "fileName": "BB8365_41_detail.jpg" },
+      { "id": "dw314a4564", "fileName": "BB8365_42_detail.jpg" },
+      { "id": "dw9972e06b", "fileName": "BB8365_43_detail.jpg" },
+      { "id": "dw774bd598", "fileName": "BB8365_01_standard.jpg" }
     ]
   },
   {
@@ -492,15 +492,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/crazy-explosive-shoes/BB8345.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9f272ec4/zoom/BB8345_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwe75460ff/zoom/BB8345_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw104538ad/zoom/BB8345_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw4d0a4df7/zoom/BB8345_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw65263d10/zoom/BB8345_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw2636eaff/zoom/BB8345_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwe6b0f5b1/zoom/BB8345_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw6fb48ebc/zoom/BB8345_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9f272ec4/zoom/BB8345_01_standard.jpg"
+      { "id": "dw9f272ec4", "fileName": "BB8345_01_standard.jpg" },
+      { "id": "dwe75460ff", "fileName": "BB8345_02_standard.jpg" },
+      { "id": "dw104538ad", "fileName": "BB8345_03_standard.jpg" },
+      { "id": "dw4d0a4df7", "fileName": "BB8345_04_standard.jpg" },
+      { "id": "dw65263d10", "fileName": "BB8345_05_standard.jpg" },
+      { "id": "dw2636eaff", "fileName": "BB8345_41_detail.jpg" },
+      { "id": "dwe6b0f5b1", "fileName": "BB8345_42_detail.jpg" },
+      { "id": "dw6fb48ebc", "fileName": "BB8345_43_detail.jpg" },
+      { "id": "dw9f272ec4", "fileName": "BB8345_01_standard.jpg" }
     ]
   },
   {
@@ -510,14 +510,14 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ado-crazy-explosive-shoes/BY2868.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw02553f78/zoom/BY2868_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwb2c3ad77/zoom/BY2868_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd005d23d/zoom/BY2868_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw669355ca/zoom/BY2868_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa20db89c/zoom/BY2868_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw57619cec/zoom/BY2868_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw02993466/zoom/BY2868_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw02553f78/zoom/BY2868_01_standard.jpg"
+      { "id": "dw02553f78", "fileName": "BY2868_01_standard.jpg" },
+      { "id": "dwb2c3ad77", "fileName": "BY2868_02_standard.jpg" },
+      { "id": "dwd005d23d", "fileName": "BY2868_03_standard.jpg" },
+      { "id": "dw669355ca", "fileName": "BY2868_04_standard.jpg" },
+      { "id": "dwa20db89c", "fileName": "BY2868_05_standard.jpg" },
+      { "id": "dw57619cec", "fileName": "BY2868_41_detail.jpg" },
+      { "id": "dw02993466", "fileName": "BY2868_42_detail.jpg" },
+      { "id": "dw02553f78", "fileName": "BY2868_01_standard.jpg" }
     ]
   },
   {
@@ -527,15 +527,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/crazy-explosive-low-shoes/BW0571.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw20d0020e/zoom/BW0571_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwcefdfe38/zoom/BW0571_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwb3b214ee/zoom/BW0571_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw22d8738e/zoom/BW0571_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw1041f1ea/zoom/BW0571_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw2efe3508/zoom/BW0571_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw2f0c4fdb/zoom/BW0571_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw05021efe/zoom/BW0571_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw20d0020e/zoom/BW0571_01_standard.jpg"
+      { "id": "dw20d0020e", "fileName": "BW0571_01_standard.jpg" },
+      { "id": "dwcefdfe38", "fileName": "BW0571_02_standard.jpg" },
+      { "id": "dwb3b214ee", "fileName": "BW0571_03_standard.jpg" },
+      { "id": "dw22d8738e", "fileName": "BW0571_04_standard.jpg" },
+      { "id": "dw1041f1ea", "fileName": "BW0571_05_standard.jpg" },
+      { "id": "dw2efe3508", "fileName": "BW0571_41_detail.jpg" },
+      { "id": "dw2f0c4fdb", "fileName": "BW0571_42_detail.jpg" },
+      { "id": "dw05021efe", "fileName": "BW0571_43_detail.jpg" },
+      { "id": "dw20d0020e", "fileName": "BW0571_01_standard.jpg" }
     ]
   },
   {
@@ -545,15 +545,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/crazy-explosive-low-shoes/BB8364.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw78aca9eb/zoom/BB8364_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw2ab77c9c/zoom/BB8364_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw8d2d117a/zoom/BB8364_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw5fc61a2e/zoom/BB8364_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw850517a2/zoom/BB8364_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwb5b324e2/zoom/BB8364_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwb9f58b19/zoom/BB8364_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw3b811626/zoom/BB8364_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw78aca9eb/zoom/BB8364_01_standard.jpg"
+      { "id": "dw78aca9eb", "fileName": "BB8364_01_standard.jpg" },
+      { "id": "dw2ab77c9c", "fileName": "BB8364_02_standard.jpg" },
+      { "id": "dw8d2d117a", "fileName": "BB8364_03_standard.jpg" },
+      { "id": "dw5fc61a2e", "fileName": "BB8364_04_standard.jpg" },
+      { "id": "dw850517a2", "fileName": "BB8364_05_standard.jpg" },
+      { "id": "dwb5b324e2", "fileName": "BB8364_41_detail.jpg" },
+      { "id": "dwb9f58b19", "fileName": "BB8364_42_detail.jpg" },
+      { "id": "dw3b811626", "fileName": "BB8364_43_detail.jpg" },
+      { "id": "dw78aca9eb", "fileName": "BB8364_01_standard.jpg" }
     ]
   },
   {
@@ -563,15 +563,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/d-rose-7-shoes/B49511.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd0049a9f/zoom/B49511_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw56503ec3/zoom/B49511_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd348d67c/zoom/B49511_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9c9567df/zoom/B49511_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwb5abaeb5/zoom/B49511_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa986f3c1/zoom/B49511_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw52322082/zoom/B49511_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw7be7855b/zoom/B49511_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd0049a9f/zoom/B49511_01_standard.jpg"
+      { "id": "dwd0049a9f", "fileName": "B49511_01_standard.jpg" },
+      { "id": "dw56503ec3", "fileName": "B49511_02_standard.jpg" },
+      { "id": "dwd348d67c", "fileName": "B49511_03_standard.jpg" },
+      { "id": "dw9c9567df", "fileName": "B49511_04_standard.jpg" },
+      { "id": "dwb5abaeb5", "fileName": "B49511_05_standard.jpg" },
+      { "id": "dwa986f3c1", "fileName": "B49511_41_detail.jpg" },
+      { "id": "dw52322082", "fileName": "B49511_42_detail.jpg" },
+      { "id": "dw7be7855b", "fileName": "B49511_43_detail.jpg" },
+      { "id": "dwd0049a9f", "fileName": "B49511_01_standard.jpg" }
     ]
   },
   {
@@ -581,15 +581,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/d-rose-7-shoes/BY3475.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw969c680a/zoom/BY3475_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw3715216e/zoom/BY3475_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd943099e/zoom/BY3475_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwb109dd08/zoom/BY3475_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw4ec8aadb/zoom/BY3475_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa1b18e19/zoom/BY3475_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwc65f3603/zoom/BY3475_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa3e74213/zoom/BY3475_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw969c680a/zoom/BY3475_01_standard.jpg"
+      { "id": "dw969c680a", "fileName": "BY3475_01_standard.jpg" },
+      { "id": "dw3715216e", "fileName": "BY3475_02_standard.jpg" },
+      { "id": "dwd943099e", "fileName": "BY3475_03_standard.jpg" },
+      { "id": "dwb109dd08", "fileName": "BY3475_04_standard.jpg" },
+      { "id": "dw4ec8aadb", "fileName": "BY3475_05_standard.jpg" },
+      { "id": "dwa1b18e19", "fileName": "BY3475_41_detail.jpg" },
+      { "id": "dwc65f3603", "fileName": "BY3475_42_detail.jpg" },
+      { "id": "dwa3e74213", "fileName": "BY3475_43_detail.jpg" },
+      { "id": "dw969c680a", "fileName": "BY3475_01_standard.jpg" }
     ]
   },
   {
@@ -599,15 +599,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/d-rose-7-shoes/BB8212.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw3636caec/zoom/BB8212_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwbc205486/zoom/BB8212_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw98af9b8e/zoom/BB8212_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw4610c77c/zoom/BB8212_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw2b1a6a65/zoom/BB8212_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw26ab0c14/zoom/BB8212_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwbb48f975/zoom/BB8212_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dwe2792d0c/zoom/BB8212_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/default/dw3636caec/zoom/BB8212_01_standard.jpg"
+      { "id": "dw3636caec", "fileName": "BB8212_01_standard.jpg" },
+      { "id": "dwbc205486", "fileName": "BB8212_02_standard.jpg" },
+      { "id": "dw98af9b8e", "fileName": "BB8212_03_standard.jpg" },
+      { "id": "dw4610c77c", "fileName": "BB8212_04_standard.jpg" },
+      { "id": "dw2b1a6a65", "fileName": "BB8212_05_standard.jpg" },
+      { "id": "dw26ab0c14", "fileName": "BB8212_41_detail.jpg" },
+      { "id": "dwbb48f975", "fileName": "BB8212_42_detail.jpg" },
+      { "id": "dwe2792d0c", "fileName": "BB8212_43_detail.jpg" },
+      { "id": "dw3636caec", "fileName": "BB8212_01_standard.jpg" }
     ]
   },
   {
@@ -617,15 +617,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/crazy-team-2017-shoes/BY3524.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw4d23ce95/zoom/BY3524_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw2196141c/zoom/BY3524_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwca79a74d/zoom/BY3524_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw60d330e8/zoom/BY3524_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwe5c57419/zoom/BY3524_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw5ffb963f/zoom/BY3524_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa40d0928/zoom/BY3524_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw92b3e7f4/zoom/BY3524_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw4d23ce95/zoom/BY3524_01_standard.jpg"
+      { "id": "dw4d23ce95", "fileName": "BY3524_01_standard.jpg" },
+      { "id": "dw2196141c", "fileName": "BY3524_02_standard.jpg" },
+      { "id": "dwca79a74d", "fileName": "BY3524_03_standard.jpg" },
+      { "id": "dw60d330e8", "fileName": "BY3524_04_standard.jpg" },
+      { "id": "dwe5c57419", "fileName": "BY3524_05_standard.jpg" },
+      { "id": "dw5ffb963f", "fileName": "BY3524_41_detail.jpg" },
+      { "id": "dwa40d0928", "fileName": "BY3524_42_detail.jpg" },
+      { "id": "dw92b3e7f4", "fileName": "BY3524_43_detail.jpg" },
+      { "id": "dw4d23ce95", "fileName": "BY3524_01_standard.jpg" }
     ]
   },
   {
@@ -635,15 +635,15 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/crazylight-boost-low-2016-shoes/AQ7761.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd7d4fec8/zoom/AQ7761_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw0097f5af/zoom/AQ7761_02_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw8f8dff51/zoom/AQ7761_03_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw04fe8f2b/zoom/AQ7761_04_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwb51b31a7/zoom/AQ7761_05_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw123f361a/zoom/AQ7761_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw10393deb/zoom/AQ7761_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw500ab3a6/zoom/AQ7761_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd7d4fec8/zoom/AQ7761_01_standard.jpg"
+      { "id": "dwd7d4fec8", "fileName": "AQ7761_01_standard.jpg" },
+      { "id": "dw0097f5af", "fileName": "AQ7761_02_standard.jpg" },
+      { "id": "dw8f8dff51", "fileName": "AQ7761_03_standard.jpg" },
+      { "id": "dw04fe8f2b", "fileName": "AQ7761_04_standard.jpg" },
+      { "id": "dwb51b31a7", "fileName": "AQ7761_05_standard.jpg" },
+      { "id": "dw123f361a", "fileName": "AQ7761_41_detail.jpg" },
+      { "id": "dw10393deb", "fileName": "AQ7761_42_detail.jpg" },
+      { "id": "dw500ab3a6", "fileName": "AQ7761_43_detail.jpg" },
+      { "id": "dwd7d4fec8", "fileName": "AQ7761_01_standard.jpg" }
     ]
   }
 ]

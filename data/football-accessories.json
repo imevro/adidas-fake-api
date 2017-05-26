@@ -6,11 +6,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-5-star-6.0-primeknit/CH9076.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9f5256c3/zoom/CH9076_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwb2674a10/zoom/CH9076_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw3bcd939e/zoom/CH9076_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw31759d17/zoom/CH9076_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9f5256c3/zoom/CH9076_01_standard.jpg"
+      { "id": "dw9f5256c3", "fileName": "CH9076_01_standard.jpg" },
+      { "id": "dwb2674a10", "fileName": "CH9076_41_detail.jpg" },
+      { "id": "dw3bcd939e", "fileName": "CH9076_42_detail.jpg" },
+      { "id": "dw31759d17", "fileName": "CH9076_43_detail.jpg" },
+      { "id": "dw9f5256c3", "fileName": "CH9076_01_standard.jpg" }
     ]
   },
   {
@@ -20,11 +20,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/freak-3.0/CH9095.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw12ed4619/zoom/CH9095_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw39ee86c0/zoom/CH9095_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw05fec561/zoom/CH9095_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwcb554db9/zoom/CH9095_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw12ed4619/zoom/CH9095_01_standard.jpg"
+      { "id": "dw12ed4619", "fileName": "CH9095_01_standard.jpg" },
+      { "id": "dw39ee86c0", "fileName": "CH9095_41_detail.jpg" },
+      { "id": "dw05fec561", "fileName": "CH9095_42_detail.jpg" },
+      { "id": "dwcb554db9", "fileName": "CH9095_43_detail.jpg" },
+      { "id": "dw12ed4619", "fileName": "CH9095_01_standard.jpg" }
     ]
   },
   {
@@ -34,11 +34,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-five-star-5.0-uncaged-gloves/CI4593.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw11f24e36/zoom/CI4593_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa8764f74/zoom/CI4593_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd830d8a5/zoom/CI4593_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw66443787/zoom/CI4593_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw11f24e36/zoom/CI4593_01_standard.jpg"
+      { "id": "dw11f24e36", "fileName": "CI4593_01_standard.jpg" },
+      { "id": "dwa8764f74", "fileName": "CI4593_41_detail.jpg" },
+      { "id": "dwd830d8a5", "fileName": "CI4593_42_detail.jpg" },
+      { "id": "dw66443787", "fileName": "CI4593_43_detail.jpg" },
+      { "id": "dw11f24e36", "fileName": "CI4593_01_standard.jpg" }
     ]
   },
   {
@@ -48,11 +48,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-five-star-5.0-uncaged-gloves/CH9101.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw81432468/zoom/CH9101_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw4f428e34/zoom/CH9101_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw76d22fa4/zoom/CH9101_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa5402191/zoom/CH9101_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw81432468/zoom/CH9101_01_standard.jpg"
+      { "id": "dw81432468", "fileName": "CH9101_01_standard.jpg" },
+      { "id": "dw4f428e34", "fileName": "CH9101_41_detail.jpg" },
+      { "id": "dw76d22fa4", "fileName": "CH9101_42_detail.jpg" },
+      { "id": "dwa5402191", "fileName": "CH9101_43_detail.jpg" },
+      { "id": "dw81432468", "fileName": "CH9101_01_standard.jpg" }
     ]
   },
   {
@@ -62,11 +62,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/freak-3.0/CH9094.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw8cfd4056/zoom/CH9094_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw1dee4fe6/zoom/CH9094_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9099d2e8/zoom/CH9094_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw1bb6a9d7/zoom/CH9094_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw8cfd4056/zoom/CH9094_01_standard.jpg"
+      { "id": "dw8cfd4056", "fileName": "CH9094_01_standard.jpg" },
+      { "id": "dw1dee4fe6", "fileName": "CH9094_41_detail.jpg" },
+      { "id": "dw9099d2e8", "fileName": "CH9094_42_detail.jpg" },
+      { "id": "dw1bb6a9d7", "fileName": "CH9094_43_detail.jpg" },
+      { "id": "dw8cfd4056", "fileName": "CH9094_01_standard.jpg" }
     ]
   },
   {
@@ -76,11 +76,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-5-star-6.0-primeknit/CH9075.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw67678213/zoom/CH9075_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwbc17e254/zoom/CH9075_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw418a3f06/zoom/CH9075_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwb5050c28/zoom/CH9075_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw67678213/zoom/CH9075_01_standard.jpg"
+      { "id": "dw67678213", "fileName": "CH9075_01_standard.jpg" },
+      { "id": "dwbc17e254", "fileName": "CH9075_41_detail.jpg" },
+      { "id": "dw418a3f06", "fileName": "CH9075_42_detail.jpg" },
+      { "id": "dwb5050c28", "fileName": "CH9075_43_detail.jpg" },
+      { "id": "dw67678213", "fileName": "CH9075_01_standard.jpg" }
     ]
   },
   {
@@ -90,11 +90,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-5-star-6.0/CH9080.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwc0b9083e/zoom/CH9080_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw615913f2/zoom/CH9080_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw0d71cc32/zoom/CH9080_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw61c3a4d2/zoom/CH9080_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwc0b9083e/zoom/CH9080_01_standard.jpg"
+      { "id": "dwc0b9083e", "fileName": "CH9080_01_standard.jpg" },
+      { "id": "dw615913f2", "fileName": "CH9080_41_detail.jpg" },
+      { "id": "dw0d71cc32", "fileName": "CH9080_42_detail.jpg" },
+      { "id": "dw61c3a4d2", "fileName": "CH9080_43_detail.jpg" },
+      { "id": "dwc0b9083e", "fileName": "CH9080_01_standard.jpg" }
     ]
   },
   {
@@ -104,11 +104,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-5-star-6.0/CH9081.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw23b5dedb/zoom/CH9081_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwed9772d2/zoom/CH9081_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw478ce3e2/zoom/CH9081_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw58a4a4f3/zoom/CH9081_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw23b5dedb/zoom/CH9081_01_standard.jpg"
+      { "id": "dw23b5dedb", "fileName": "CH9081_01_standard.jpg" },
+      { "id": "dwed9772d2", "fileName": "CH9081_41_detail.jpg" },
+      { "id": "dw478ce3e2", "fileName": "CH9081_42_detail.jpg" },
+      { "id": "dw58a4a4f3", "fileName": "CH9081_43_detail.jpg" },
+      { "id": "dw23b5dedb", "fileName": "CH9081_01_standard.jpg" }
     ]
   },
   {
@@ -118,11 +118,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-5-star-6.0--paisley/CI4597.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwc843ca99/zoom/CI4597_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw3d97948a/zoom/CI4597_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw2c393dbf/zoom/CI4597_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw4047b8a2/zoom/CI4597_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwc843ca99/zoom/CI4597_01_standard.jpg"
+      { "id": "dwc843ca99", "fileName": "CI4597_01_standard.jpg" },
+      { "id": "dw3d97948a", "fileName": "CI4597_41_detail.jpg" },
+      { "id": "dw2c393dbf", "fileName": "CI4597_42_detail.jpg" },
+      { "id": "dw4047b8a2", "fileName": "CI4597_43_detail.jpg" },
+      { "id": "dwc843ca99", "fileName": "CI4597_01_standard.jpg" }
     ]
   },
   {
@@ -132,11 +132,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-5-star-6.0--paisley/CI4598.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwde8ce991/zoom/CI4598_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw3c4c6f74/zoom/CI4598_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwad64905a/zoom/CI4598_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw3e230a51/zoom/CI4598_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwde8ce991/zoom/CI4598_01_standard.jpg"
+      { "id": "dwde8ce991", "fileName": "CI4598_01_standard.jpg" },
+      { "id": "dw3c4c6f74", "fileName": "CI4598_41_detail.jpg" },
+      { "id": "dwad64905a", "fileName": "CI4598_42_detail.jpg" },
+      { "id": "dw3e230a51", "fileName": "CI4598_43_detail.jpg" },
+      { "id": "dwde8ce991", "fileName": "CI4598_01_standard.jpg" }
     ]
   },
   {
@@ -146,11 +146,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-five-star-5.0-uncaged-gloves/CI4594.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwbda1ef7e/zoom/CI4594_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9c29e308/zoom/CI4594_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwf979f637/zoom/CI4594_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd0985773/zoom/CI4594_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwbda1ef7e/zoom/CI4594_01_standard.jpg"
+      { "id": "dwbda1ef7e", "fileName": "CI4594_01_standard.jpg" },
+      { "id": "dw9c29e308", "fileName": "CI4594_41_detail.jpg" },
+      { "id": "dwf979f637", "fileName": "CI4594_42_detail.jpg" },
+      { "id": "dwd0985773", "fileName": "CI4594_43_detail.jpg" },
+      { "id": "dwbda1ef7e", "fileName": "CI4594_01_standard.jpg" }
     ]
   },
   {
@@ -160,11 +160,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-five-star-5.0-uncaged-gloves/CH9100.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwe4d6208c/zoom/CH9100_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwe3895284/zoom/CH9100_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dweef19ef2/zoom/CH9100_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw1c15cb54/zoom/CH9100_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwe4d6208c/zoom/CH9100_01_standard.jpg"
+      { "id": "dwe4d6208c", "fileName": "CH9100_01_standard.jpg" },
+      { "id": "dwe3895284", "fileName": "CH9100_41_detail.jpg" },
+      { "id": "dweef19ef2", "fileName": "CH9100_42_detail.jpg" },
+      { "id": "dw1c15cb54", "fileName": "CH9100_43_detail.jpg" },
+      { "id": "dwe4d6208c", "fileName": "CH9100_01_standard.jpg" }
     ]
   },
   {
@@ -174,11 +174,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-5-star-6.0/CH9082.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw0a86666c/zoom/CH9082_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw12097eaf/zoom/CH9082_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw6e838ed4/zoom/CH9082_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw52e375f5/zoom/CH9082_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw0a86666c/zoom/CH9082_01_standard.jpg"
+      { "id": "dw0a86666c", "fileName": "CH9082_01_standard.jpg" },
+      { "id": "dw12097eaf", "fileName": "CH9082_41_detail.jpg" },
+      { "id": "dw6e838ed4", "fileName": "CH9082_42_detail.jpg" },
+      { "id": "dw52e375f5", "fileName": "CH9082_43_detail.jpg" },
+      { "id": "dw0a86666c", "fileName": "CH9082_01_standard.jpg" }
     ]
   },
   {
@@ -188,11 +188,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-5-star-6.0--paisley/CI4599.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa2509bc1/zoom/CI4599_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9e5a4598/zoom/CI4599_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw5a3cf4e4/zoom/CI4599_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw87e4c155/zoom/CI4599_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa2509bc1/zoom/CI4599_01_standard.jpg"
+      { "id": "dwa2509bc1", "fileName": "CI4599_01_standard.jpg" },
+      { "id": "dw9e5a4598", "fileName": "CI4599_41_detail.jpg" },
+      { "id": "dw5a3cf4e4", "fileName": "CI4599_42_detail.jpg" },
+      { "id": "dw87e4c155", "fileName": "CI4599_43_detail.jpg" },
+      { "id": "dwa2509bc1", "fileName": "CI4599_01_standard.jpg" }
     ]
   },
   {
@@ -202,11 +202,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-five-star-5.0-uncaged-gloves/CI4592.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw3c6e36ce/zoom/CI4592_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwce4fd4fe/zoom/CI4592_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw92efb5d4/zoom/CI4592_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw67993d6d/zoom/CI4592_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw3c6e36ce/zoom/CI4592_01_standard.jpg"
+      { "id": "dw3c6e36ce", "fileName": "CI4592_01_standard.jpg" },
+      { "id": "dwce4fd4fe", "fileName": "CI4592_41_detail.jpg" },
+      { "id": "dw92efb5d4", "fileName": "CI4592_42_detail.jpg" },
+      { "id": "dw67993d6d", "fileName": "CI4592_43_detail.jpg" },
+      { "id": "dw3c6e36ce", "fileName": "CI4592_01_standard.jpg" }
     ]
   },
   {
@@ -216,11 +216,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-five-star-5.0-uncaged-gloves/CI4601.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwf645aab4/zoom/CI4601_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd17a33df/zoom/CI4601_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw5c2c3a79/zoom/CI4601_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw75ddc018/zoom/CI4601_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwf645aab4/zoom/CI4601_01_standard.jpg"
+      { "id": "dwf645aab4", "fileName": "CI4601_01_standard.jpg" },
+      { "id": "dwd17a33df", "fileName": "CI4601_41_detail.jpg" },
+      { "id": "dw5c2c3a79", "fileName": "CI4601_42_detail.jpg" },
+      { "id": "dw75ddc018", "fileName": "CI4601_43_detail.jpg" },
+      { "id": "dwf645aab4", "fileName": "CI4601_01_standard.jpg" }
     ]
   },
   {
@@ -230,11 +230,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-five-star-5.0-uncaged-gloves/CH9099.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa997093f/zoom/CH9099_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw06d644a2/zoom/CH9099_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd585ce21/zoom/CH9099_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9ce1a69b/zoom/CH9099_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa997093f/zoom/CH9099_01_standard.jpg"
+      { "id": "dwa997093f", "fileName": "CH9099_01_standard.jpg" },
+      { "id": "dw06d644a2", "fileName": "CH9099_41_detail.jpg" },
+      { "id": "dwd585ce21", "fileName": "CH9099_42_detail.jpg" },
+      { "id": "dw9ce1a69b", "fileName": "CH9099_43_detail.jpg" },
+      { "id": "dwa997093f", "fileName": "CH9099_01_standard.jpg" }
     ]
   },
   {
@@ -244,11 +244,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-5-star-6.0-pk-sundays-best-prom/CI4595.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa54413cf/zoom/CI4595_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw5fce5b3d/zoom/CI4595_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa96b4513/zoom/CI4595_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwae75a050/zoom/CI4595_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa54413cf/zoom/CI4595_01_standard.jpg"
+      { "id": "dwa54413cf", "fileName": "CI4595_01_standard.jpg" },
+      { "id": "dw5fce5b3d", "fileName": "CI4595_41_detail.jpg" },
+      { "id": "dwa96b4513", "fileName": "CI4595_42_detail.jpg" },
+      { "id": "dwae75a050", "fileName": "CI4595_43_detail.jpg" },
+      { "id": "dwa54413cf", "fileName": "CI4595_01_standard.jpg" }
     ]
   },
   {
@@ -258,11 +258,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-5-star-6.0/CH9086.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa3ac3024/zoom/CH9086_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw1e72b6ba/zoom/CH9086_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwb8b1d04e/zoom/CH9086_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw4d164d32/zoom/CH9086_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa3ac3024/zoom/CH9086_01_standard.jpg"
+      { "id": "dwa3ac3024", "fileName": "CH9086_01_standard.jpg" },
+      { "id": "dw1e72b6ba", "fileName": "CH9086_41_detail.jpg" },
+      { "id": "dwb8b1d04e", "fileName": "CH9086_42_detail.jpg" },
+      { "id": "dw4d164d32", "fileName": "CH9086_43_detail.jpg" },
+      { "id": "dwa3ac3024", "fileName": "CH9086_01_standard.jpg" }
     ]
   },
   {
@@ -272,11 +272,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-5-star-6.0/CH9078.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa38a3ff1/zoom/CH9078_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw2f44190d/zoom/CH9078_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw1c4ef362/zoom/CH9078_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw03eb38cd/zoom/CH9078_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwa38a3ff1/zoom/CH9078_01_standard.jpg"
+      { "id": "dwa38a3ff1", "fileName": "CH9078_01_standard.jpg" },
+      { "id": "dw2f44190d", "fileName": "CH9078_41_detail.jpg" },
+      { "id": "dw1c4ef362", "fileName": "CH9078_42_detail.jpg" },
+      { "id": "dw03eb38cd", "fileName": "CH9078_43_detail.jpg" },
+      { "id": "dwa38a3ff1", "fileName": "CH9078_01_standard.jpg" }
     ]
   },
   {
@@ -286,11 +286,11 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-5-star-6.0/CH9077.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw295bb481/zoom/CH9077_01_standard.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw34df5240/zoom/CH9077_41_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dwd295402f/zoom/CH9077_42_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw8b1c8d52/zoom/CH9077_43_detail.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw295bb481/zoom/CH9077_01_standard.jpg"
+      { "id": "dw295bb481", "fileName": "CH9077_01_standard.jpg" },
+      { "id": "dw34df5240", "fileName": "CH9077_41_detail.jpg" },
+      { "id": "dwd295402f", "fileName": "CH9077_42_detail.jpg" },
+      { "id": "dw8b1c8d52", "fileName": "CH9077_43_detail.jpg" },
+      { "id": "dw295bb481", "fileName": "CH9077_01_standard.jpg" }
     ]
   },
   {
@@ -300,9 +300,9 @@
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/graphic-knee-pad/O25470.html",
     "images": [
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9dbd3598/zoom/O25470_01.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9d5d0036/zoom/O25470_02.jpg",
-      "http://demandware.edgesuite.net/sits_pod20-adidas/dw/image/v2/aaqx_prd/on/demandware.static/-/Sites-adidas-products/en_US/dw9dbd3598/zoom/O25470_01.jpg"
+      { "id": "dw9dbd3598", "fileName": "O25470_01.jpg" },
+      { "id": "dw9d5d0036", "fileName": "O25470_02.jpg" },
+      { "id": "dw9dbd3598", "fileName": "O25470_01.jpg" }
     ]
   }
 ]
