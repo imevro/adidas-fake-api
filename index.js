@@ -53,7 +53,7 @@ router.get('/products/:group/:type/:id', (req, res) => {
 app.use('/v1', router);
 app.get('/', (req, res) => {
   res.send({
-    docs: 'https://github.com/evgenyrodionov/adidas-api-demo',
+    docs: 'https://github.com/evgenyrodionov/adidas-fake-api',
     version: `1.0.0-${process.env.BUILD_DATE || 'local'}`,
   });
 });

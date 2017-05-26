@@ -11,8 +11,13 @@
     "eslint-config-airbnb-base": "^11.2.0",
     "husky": "^0.13.3"
   },
+  "now": {
+    "alias": "erodionov-adidas-fake-api"
+  },
   "scripts": {
     "start": "node index.js",
-    "prepush": "BUILD_DATE=(date +%Y%m%d%H%M) now --public"
+    "deploy": "now --public -e BUILD_DATE=$(date +%Y%m%d%H%M) -e NODE_ENV=production",
+    "alias": "now alias",
+    "prepush": "npm run deploy && npm run alias"
   }
 }
