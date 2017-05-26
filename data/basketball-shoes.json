@@ -2,7 +2,7 @@
   {
     "title": "Dame 3 On Tour Shoes",
     "id": "BB8269",
-    "price": "115",
+    "price": 11500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-on-tour-shoes/BB8269.html",
     "images": [
@@ -20,7 +20,7 @@
   {
     "title": "Dame 3 Florist City Shoes",
     "id": "B49509",
-    "price": "115",
+    "price": 11500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-florist-city-shoes/B49509.html",
     "images": [
@@ -38,7 +38,7 @@
   {
     "title": "Dame 3 By Any Means Shoes",
     "id": "BB8271",
-    "price": "115",
+    "price": 11500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-by-any-means-shoes/BB8271.html",
     "images": [
@@ -56,7 +56,7 @@
   {
     "title": "Harden Vol. 1 Shoes",
     "id": "BW0546",
-    "price": "140",
+    "price": 14000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/harden-vol.-1-shoes/BW0546.html",
     "images": [
@@ -74,7 +74,7 @@
   {
     "title": "Harden Vol. 1 Shoes",
     "id": "BW0550",
-    "price": "140",
+    "price": 14000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/harden-vol.-1-shoes/BW0550.html",
     "images": [
@@ -92,7 +92,7 @@
   {
     "title": "Harden Vol. 1 Shoes",
     "id": "BW0547",
-    "price": "140",
+    "price": 14000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/harden-vol.-1-shoes/BW0547.html",
     "images": [
@@ -110,7 +110,7 @@
   {
     "title": "Harden Vol. 1 Shoes",
     "id": "B39501",
-    "price": "140",
+    "price": 14000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/harden-vol.-1-shoes/B39501.html",
     "images": [
@@ -128,7 +128,7 @@
   {
     "title": "Harden Vol. 1 Shoes",
     "id": "B39495",
-    "price": "160",
+    "price": 16000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/harden-vol.-1-shoes/B39495.html",
     "images": [
@@ -146,7 +146,7 @@
   {
     "title": "Harden Vol. 1 Shoes",
     "id": "BW0545",
-    "price": "160",
+    "price": 16000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/harden-vol.-1-shoes/BW0545.html",
     "images": [
@@ -164,7 +164,7 @@
   {
     "title": "Dame 3 Legacy Shoes",
     "id": "BW0323",
-    "price": "115",
+    "price": 11500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-legacy-shoes/BW0323.html",
     "images": [
@@ -182,7 +182,7 @@
   {
     "title": "Dame 3 Roots Shoes",
     "id": "BB8337",
-    "price": "115",
+    "price": 11500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-roots-shoes/BB8337.html",
     "images": [
@@ -200,7 +200,7 @@
   {
     "title": "Dame 3 Lights Out Shoes",
     "id": "BY3206",
-    "price": "115",
+    "price": 11500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-lights-out-shoes/BY3206.html",
     "images": [
@@ -218,7 +218,7 @@
   {
     "title": "Dame 3 West Campus Shoes",
     "id": "BW0326",
-    "price": "115",
+    "price": 11500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-west-campus-shoes/BW0326.html",
     "images": [
@@ -236,7 +236,7 @@
   {
     "title": "D Rose 7 Primeknit Shoes",
     "id": "B49512",
-    "price": "160",
+    "price": 16000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/d-rose-7-primeknit-shoes/B49512.html",
     "images": [
@@ -254,7 +254,7 @@
   {
     "title": "D Rose 7 Primeknit Shoes",
     "id": "B72720",
-    "price": "160",
+    "price": 16000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/d-rose-7-primeknit-shoes/B72720.html",
     "images": [
@@ -272,7 +272,7 @@
   {
     "title": "D Rose 7 Shoes",
     "id": "BB8290",
-    "price": "140",
+    "price": 14000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/d-rose-7-shoes/BB8290.html",
     "images": [
@@ -290,7 +290,7 @@
   {
     "title": "Harden Vol. 1 Shoes",
     "id": "BW0548",
-    "price": "140",
+    "price": 14000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/harden-vol.-1-shoes/BW0548.html",
     "images": [
@@ -308,7 +308,7 @@
   {
     "title": "Dame 3 Shoes",
     "id": "BW0536",
-    "price": "90",
+    "price": 9000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-shoes/BW0536.html",
     "images": [
@@ -326,7 +326,7 @@
   {
     "title": "Dame 3 Shoes",
     "id": "B49590",
-    "price": "90",
+    "price": 9000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-shoes/B49590.html",
     "images": [
@@ -344,7 +344,7 @@
   {
     "title": "Dame 3 By Any Means Shoes",
     "id": "B49597",
-    "price": "60",
+    "price": 6000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-by-any-means-shoes/B49597.html",
     "images": [
@@ -362,7 +362,7 @@
   {
     "title": "Dame 3 Shoes",
     "id": "BB8279",
-    "price": "65",
+    "price": 6500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-shoes/BB8279.html",
     "images": [
@@ -380,7 +380,7 @@
   {
     "title": "Dame 3 Shoes",
     "id": "BB8282",
-    "price": "65",
+    "price": 6500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-shoes/BB8282.html",
     "images": [
@@ -398,7 +398,7 @@
   {
     "title": "Dame 3 RIP City Shoes",
     "id": "BB8268",
-    "price": "115",
+    "price": 11500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-rip-city-shoes/BB8268.html",
     "images": [
@@ -416,7 +416,7 @@
   {
     "title": "Dame 3 Shoes",
     "id": "BB8270",
-    "price": "115",
+    "price": 11500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dame-3-shoes/BB8270.html",
     "images": [
@@ -434,7 +434,7 @@
   {
     "title": "Crazy Explosive Low Primeknit Shoes",
     "id": "BY3469",
-    "price": "140",
+    "price": 14000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/crazy-explosive-low-primeknit-shoes/BY3469.html",
     "images": [
@@ -452,7 +452,7 @@
   {
     "title": "Crazy Explosive Low Primeknit Shoes",
     "id": "BB8346",
-    "price": "140",
+    "price": 14000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/crazy-explosive-low-primeknit-shoes/BB8346.html",
     "images": [
@@ -470,7 +470,7 @@
   {
     "title": "Crazy Explosive Low Shoes",
     "id": "BB8365",
-    "price": "120",
+    "price": 12000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/crazy-explosive-low-shoes/BB8365.html",
     "images": [
@@ -488,7 +488,7 @@
   {
     "title": "Crazy Explosive Shoes",
     "id": "BB8345",
-    "price": "130",
+    "price": 13000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/crazy-explosive-shoes/BB8345.html",
     "images": [
@@ -506,7 +506,7 @@
   {
     "title": "ADO Crazy Explosive Shoes",
     "id": "BY2868",
-    "price": "200",
+    "price": 20000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ado-crazy-explosive-shoes/BY2868.html",
     "images": [
@@ -523,7 +523,7 @@
   {
     "title": "Crazy Explosive Low Shoes",
     "id": "BW0571",
-    "price": "120",
+    "price": 12000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/crazy-explosive-low-shoes/BW0571.html",
     "images": [
@@ -541,7 +541,7 @@
   {
     "title": "Crazy Explosive Low Shoes",
     "id": "BB8364",
-    "price": "120",
+    "price": 12000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/crazy-explosive-low-shoes/BB8364.html",
     "images": [
@@ -559,7 +559,7 @@
   {
     "title": "D Rose 7 Shoes",
     "id": "B49511",
-    "price": "140",
+    "price": 14000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/d-rose-7-shoes/B49511.html",
     "images": [
@@ -577,7 +577,7 @@
   {
     "title": "D Rose 7 Shoes",
     "id": "BY3475",
-    "price": "140",
+    "price": 14000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/d-rose-7-shoes/BY3475.html",
     "images": [
@@ -595,7 +595,7 @@
   {
     "title": "D Rose 7 Shoes",
     "id": "BB8212",
-    "price": "140",
+    "price": 14000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/d-rose-7-shoes/BB8212.html",
     "images": [
@@ -613,7 +613,7 @@
   {
     "title": "Crazy Team 2017 Shoes",
     "id": "BY3524",
-    "price": "46",
+    "price": 4600,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/crazy-team-2017-shoes/BY3524.html",
     "images": [
@@ -631,7 +631,7 @@
   {
     "title": "Crazylight Boost Low 2016 Shoes",
     "id": "AQ7761",
-    "price": "65",
+    "price": 6500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/crazylight-boost-low-2016-shoes/AQ7761.html",
     "images": [

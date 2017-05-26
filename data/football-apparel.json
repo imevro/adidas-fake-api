@@ -2,7 +2,7 @@
   {
     "title": "Ultimate Tee",
     "id": "BP9731",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultimate-tee/BP9731.html",
     "images": [
@@ -20,7 +20,7 @@
   {
     "title": "Ultimate Tee",
     "id": "BP9745",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultimate-tee/BP9745.html",
     "images": [
@@ -38,7 +38,7 @@
   {
     "title": "Techfit Base Tights",
     "id": "AI3370",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-base-tights/AI3370.html",
     "images": [
@@ -59,7 +59,7 @@
   {
     "title": "Techfit Base Tee",
     "id": "AJ5219",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-base-tee/AJ5219.html",
     "images": [
@@ -80,7 +80,7 @@
   {
     "title": "Techfit Base Tee",
     "id": "AJ5220",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-base-tee/AJ5220.html",
     "images": [
@@ -101,7 +101,7 @@
   {
     "title": "Techfit Base Tee",
     "id": "AJ5016",
-    "price": "30",
+    "price": 3000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-base-tee/AJ5016.html",
     "images": [
@@ -122,7 +122,7 @@
   {
     "title": "Techfit Base Short Tights",
     "id": "AJ5037",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-base-short-tights/AJ5037.html",
     "images": [
@@ -142,7 +142,7 @@
   {
     "title": "Ultimate Tee",
     "id": "BP9732",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultimate-tee/BP9732.html",
     "images": [
@@ -160,7 +160,7 @@
   {
     "title": "Ultimate Tee",
     "id": "BP5770",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultimate-tee/BP5770.html",
     "images": [
@@ -178,7 +178,7 @@
   {
     "title": "Techfit Base Tee",
     "id": "BK3653",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-base-tee/BK3653.html",
     "images": [
@@ -196,7 +196,7 @@
   {
     "title": "Techfit Base Tee",
     "id": "AJ4966",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-base-tee/AJ4966.html",
     "images": [
@@ -217,7 +217,7 @@
   {
     "title": "Techfit Base Tee",
     "id": "AI3353",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-base-tee/AI3353.html",
     "images": [
@@ -238,7 +238,7 @@
   {
     "title": "Techfit Base Tee",
     "id": "AI3352",
-    "price": "30",
+    "price": 3000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-base-tee/AI3352.html",
     "images": [
@@ -259,7 +259,7 @@
   {
     "title": "Techfit Base Tee",
     "id": "AJ4967",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-base-tee/AJ4967.html",
     "images": [
@@ -280,7 +280,7 @@
   {
     "title": "Techfit Base Tee",
     "id": "AJ4975",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-base-tee/AJ4975.html",
     "images": [
@@ -301,7 +301,7 @@
   {
     "title": "Techfit Base Tee",
     "id": "AJ4968",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-base-tee/AJ4968.html",
     "images": [
@@ -322,7 +322,7 @@
   {
     "title": "Techfit Base Tee",
     "id": "AJ4971",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-base-tee/AJ4971.html",
     "images": [
@@ -343,7 +343,7 @@
   {
     "title": "Techfit Base Short Tights",
     "id": "AJ5038",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-base-short-tights/AJ5038.html",
     "images": [
@@ -364,7 +364,7 @@
   {
     "title": "Techfit Uncaged Shark Tights",
     "id": "CE9406",
-    "price": "40",
+    "price": 4000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-uncaged-shark-tights/CE9406.html",
     "images": [
@@ -382,7 +382,7 @@
   {
     "title": "Techfit Uncaged Tiger Tights",
     "id": "CE9410",
-    "price": "40",
+    "price": 4000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-uncaged-tiger-tights/CE9410.html",
     "images": [
@@ -400,7 +400,7 @@
   {
     "title": "Techfit Uncaged Cheetah-Print Tights",
     "id": "CD1064",
-    "price": "40",
+    "price": 4000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-uncaged-cheetah-print-tights/CD1064.html",
     "images": [
@@ -418,7 +418,7 @@
   {
     "title": "Techfit Uncaged Tiger Tee",
     "id": "CE9408",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-uncaged-tiger-tee/CE9408.html",
     "images": [
@@ -436,7 +436,7 @@
   {
     "title": "Techfit Uncaged Cheetah-Print Compression Shorts",
     "id": "CD1066",
-    "price": "30",
+    "price": 3000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-uncaged-cheetah-print-compression-shorts/CD1066.html",
     "images": [
@@ -454,7 +454,7 @@
   {
     "title": "Techfit Uncaged Cheetah-Print Tee",
     "id": "CD1065",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-uncaged-cheetah-print-tee/CD1065.html",
     "images": [
@@ -472,7 +472,7 @@
   {
     "title": "Techfit Uncaged Shark Tee",
     "id": "CE9407",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-uncaged-shark-tee/CE9407.html",
     "images": [
@@ -490,7 +490,7 @@
   {
     "title": "Ultimate Tee",
     "id": "BP9733",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultimate-tee/BP9733.html",
     "images": [
@@ -508,7 +508,7 @@
   {
     "title": "Ultimate Tee",
     "id": "BP9738",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultimate-tee/BP9738.html",
     "images": [
@@ -526,7 +526,7 @@
   {
     "title": "Ultimate Tee",
     "id": "BP9728",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultimate-tee/BP9728.html",
     "images": [
@@ -544,7 +544,7 @@
   {
     "title": "Techfit Base Short Tights",
     "id": "AI3354",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-base-short-tights/AI3354.html",
     "images": [
@@ -565,7 +565,7 @@
   {
     "title": "Atlanta United Home Replica Jersey",
     "id": "BR9780",
-    "price": "75",
+    "price": 7500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/atlanta-united-home-replica-jersey/BR9780.html",
     "images": [
@@ -583,7 +583,7 @@
   {
     "title": "Timbers Away Authentic Jersey",
     "id": "BQ3495",
-    "price": "120",
+    "price": 12000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/timbers-away-authentic-jersey/BQ3495.html",
     "images": [
@@ -595,7 +595,7 @@
   {
     "title": "Red Bulls Away Authentic Jersey",
     "id": "AB9429",
-    "price": "120",
+    "price": 12000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/red-bulls-away-authentic-jersey/AB9429.html",
     "images": [
@@ -613,7 +613,7 @@
   {
     "title": "NYC FC Away Authentic Jersey",
     "id": "AC0337",
-    "price": "120",
+    "price": 12000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/nyc-fc-away-authentic-jersey/AC0337.html",
     "images": [
@@ -631,7 +631,7 @@
   {
     "title": "Dynamo Away Authentic Jersey",
     "id": "AB9332",
-    "price": "120",
+    "price": 12000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/dynamo-away-authentic-jersey/AB9332.html",
     "images": [
@@ -649,7 +649,7 @@
   {
     "title": "Fire Home Replica Jersey",
     "id": "BP6067",
-    "price": "85",
+    "price": 8500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/fire-home-replica-jersey/BP6067.html",
     "images": [
@@ -667,7 +667,7 @@
   {
     "title": "Atlanta United Home Replica Jersey",
     "id": "BR9776",
-    "price": "65",
+    "price": 6500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/atlanta-united-home-replica-jersey/BR9776.html",
     "images": [
@@ -679,7 +679,7 @@
   {
     "title": "Rapids Home Replica Jersey",
     "id": "BR9787",
-    "price": "85",
+    "price": 8500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/rapids-home-replica-jersey/BR9787.html",
     "images": [
@@ -697,7 +697,7 @@
   {
     "title": "Union Home Replica Jersey",
     "id": "AB9442",
-    "price": "65",
+    "price": 6500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/union-home-replica-jersey/AB9442.html",
     "images": [
@@ -709,7 +709,7 @@
   {
     "title": "Whitecaps Away Replica Jersey",
     "id": "AB9652",
-    "price": "85",
+    "price": 8500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/whitecaps-away-replica-jersey/AB9652.html",
     "images": [
@@ -727,7 +727,7 @@
   {
     "title": "MIN PRIMARY AUTHENTIC JSY",
     "id": "CC2667",
-    "price": "120",
+    "price": 12000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/min-primary-authentic-jsy/CC2667.html",
     "images": [
@@ -739,7 +739,7 @@
   {
     "title": "Techfit Ironskin Five-Pad Girdle",
     "id": "AU8826",
-    "price": "90",
+    "price": 9000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-ironskin-five-pad-girdle/AU8826.html",
     "images": [
@@ -757,7 +757,7 @@
   {
     "title": "Impact Montreal Away Replica Jersey",
     "id": "AY6913",
-    "price": "85",
+    "price": 8500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/impact-montreal-away-replica-jersey/AY6913.html",
     "images": [
@@ -769,7 +769,7 @@
   {
     "title": "Sporting Kansas City Home Replica Jersey",
     "id": "AY6419",
-    "price": "85",
+    "price": 8500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/sporting-kansas-city-home-replica-jersey/AY6419.html",
     "images": [
@@ -781,7 +781,7 @@
   {
     "title": "Techfit Base Tights",
     "id": "AP6607",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-base-tights/AP6607.html",
     "images": [
@@ -802,7 +802,7 @@
   {
     "title": "Atlanta United Home Replica Jersey",
     "id": "BR9775",
-    "price": "85",
+    "price": 8500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/atlanta-united-home-replica-jersey/BR9775.html",
     "images": [
@@ -818,7 +818,7 @@
   {
     "title": "Techfit Ironskin Five-Pad Girdle",
     "id": "AU8825",
-    "price": "90",
+    "price": 9000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-ironskin-five-pad-girdle/AU8825.html",
     "images": [
@@ -836,7 +836,7 @@
   {
     "title": "Techfit Ironskin Five-Pad Shirt",
     "id": "AT8854",
-    "price": "85",
+    "price": 8500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-ironskin-five-pad-shirt/AT8854.html",
     "images": [
@@ -854,7 +854,7 @@
   {
     "title": "Techfit Ironskin Five-Pad Shirt",
     "id": "AV6667",
-    "price": "90",
+    "price": 9000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-ironskin-five-pad-shirt/AV6667.html",
     "images": [
@@ -872,7 +872,7 @@
   {
     "title": "Jayhawks Coach Polo Shirt",
     "id": "AT2063",
-    "price": "65",
+    "price": 6500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/jayhawks-coach-polo-shirt/AT2063.html",
     "images": [
@@ -893,7 +893,7 @@
   {
     "title": "Jayhawks Top",
     "id": "AT2006",
-    "price": "70",
+    "price": 7000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/jayhawks-top/AT2006.html",
     "images": [
@@ -914,7 +914,7 @@
   {
     "title": "Techfit Base Tee",
     "id": "BK3652",
-    "price": "14",
+    "price": 1400,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-base-tee/BK3652.html",
     "images": [
@@ -932,7 +932,7 @@
   {
     "title": "Techfit Base Tights",
     "id": "AJ5207",
-    "price": "18",
+    "price": 1800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/techfit-base-tights/AJ5207.html",
     "images": [

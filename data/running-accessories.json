@@ -2,7 +2,7 @@
   {
     "title": "Ankle Socks 2 Pairs",
     "id": "AZ2206",
-    "price": "30",
+    "price": 3000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ankle-socks-2-pairs/AZ2206.html",
     "images": [
@@ -13,7 +13,7 @@
   {
     "title": "adiZero II Visor",
     "id": "Q31073",
-    "price": "18",
+    "price": 1800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-ii-visor/Q31073.html",
     "images": [
@@ -25,7 +25,7 @@
   {
     "title": "Energy Running Mid Crew Socks 1 Pair S",
     "id": "H77394",
-    "price": "14",
+    "price": 1400,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/energy-running-mid-crew-socks-1-pair-s/H77394.html",
     "images": [
@@ -41,7 +41,7 @@
   {
     "title": "Run Belt",
     "id": "BP6747",
-    "price": "50",
+    "price": 5000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/run-belt/BP6747.html",
     "images": [
@@ -60,7 +60,7 @@
   {
     "title": "adizero II Cap",
     "id": "Q30996",
-    "price": "22",
+    "price": 2200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-ii-cap/Q30996.html",
     "images": [
@@ -77,7 +77,7 @@
   {
     "title": "adizero II Cap",
     "id": "Q30985",
-    "price": "22",
+    "price": 2200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-ii-cap/Q30985.html",
     "images": [
@@ -94,7 +94,7 @@
   {
     "title": "adizero 2 Hat",
     "id": "Q31003",
-    "price": "22",
+    "price": 2200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-2-hat/Q31003.html",
     "images": [
@@ -111,7 +111,7 @@
   {
     "title": "Visor",
     "id": "Q31079",
-    "price": "18",
+    "price": 1800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/visor/Q31079.html",
     "images": [
@@ -128,7 +128,7 @@
   {
     "title": "adizero 2 Visor",
     "id": "Q31020",
-    "price": "18",
+    "price": 1800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-2-visor/Q31020.html",
     "images": [

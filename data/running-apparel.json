@@ -2,7 +2,7 @@
   {
     "title": "Supernova Parley Shorts",
     "id": "BK7950",
-    "price": "50",
+    "price": 5000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-parley-shorts/BK7950.html",
     "images": [
@@ -18,7 +18,7 @@
   {
     "title": "Primeknit Parley Tee",
     "id": "AZ2920",
-    "price": "75",
+    "price": 7500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/primeknit-parley-tee/AZ2920.html",
     "images": [
@@ -30,7 +30,7 @@
   {
     "title": "Ultimate Tee",
     "id": "BP9731",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultimate-tee/BP9731.html",
     "images": [
@@ -48,7 +48,7 @@
   {
     "title": "Ultimate Tee",
     "id": "BP9745",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultimate-tee/BP9745.html",
     "images": [
@@ -66,7 +66,7 @@
   {
     "title": "Supernova Storm Sweatshirt",
     "id": "S97991",
-    "price": "75",
+    "price": 7500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-storm-sweatshirt/S97991.html",
     "images": [
@@ -84,7 +84,7 @@
   {
     "title": "Supernova Tee",
     "id": "S97948",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tee/S97948.html",
     "images": [
@@ -102,7 +102,7 @@
   {
     "title": "Supernova Singlet",
     "id": "S94375",
-    "price": "40",
+    "price": 4000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-singlet/S94375.html",
     "images": [
@@ -124,7 +124,7 @@
   {
     "title": "Supernova TKO Flock-Print Jacket",
     "id": "BQ2303",
-    "price": "90",
+    "price": 9000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-flock-print-jacket/BQ2303.html",
     "images": [
@@ -142,7 +142,7 @@
   {
     "title": "Supernova Dual Shorts",
     "id": "AZ2994",
-    "price": "50",
+    "price": 5000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-dual-shorts/AZ2994.html",
     "images": [
@@ -160,7 +160,7 @@
   {
     "title": "Supernova Shorts",
     "id": "S98000",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-shorts/S98000.html",
     "images": [
@@ -176,7 +176,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BS3677",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BS3677.html",
     "images": [
@@ -194,7 +194,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BS3676",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BS3676.html",
     "images": [
@@ -212,7 +212,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BS3674",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BS3674.html",
     "images": [
@@ -230,7 +230,7 @@
   {
     "title": "Response Track Pants",
     "id": "S99007",
-    "price": "60",
+    "price": 6000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-track-pants/S99007.html",
     "images": [
@@ -248,7 +248,7 @@
   {
     "title": "Response Sweatshirt",
     "id": "B47699",
-    "price": "50",
+    "price": 5000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-sweatshirt/B47699.html",
     "images": [
@@ -266,7 +266,7 @@
   {
     "title": "Response Tee",
     "id": "BP7424",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-tee/BP7424.html",
     "images": [
@@ -282,7 +282,7 @@
   {
     "title": "Response Tee",
     "id": "BP7416",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-tee/BP7416.html",
     "images": [
@@ -300,7 +300,7 @@
   {
     "title": "Response Tee",
     "id": "BR2455",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-tee/BR2455.html",
     "images": [
@@ -318,7 +318,7 @@
   {
     "title": "Response Tee",
     "id": "BP7430",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-tee/BP7430.html",
     "images": [
@@ -336,7 +336,7 @@
   {
     "title": "Response Tee",
     "id": "BP7427",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-tee/BP7427.html",
     "images": [
@@ -353,7 +353,7 @@
   {
     "title": "Response Tee",
     "id": "BP7485",
-    "price": "40",
+    "price": 4000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-tee/BP7485.html",
     "images": [
@@ -371,7 +371,7 @@
   {
     "title": "Response Tee",
     "id": "BP7488",
-    "price": "40",
+    "price": 4000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-tee/BP7488.html",
     "images": [
@@ -387,7 +387,7 @@
   {
     "title": "Response Astro Hoodie",
     "id": "BK3146",
-    "price": "65",
+    "price": 6500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-astro-hoodie/BK3146.html",
     "images": [
@@ -404,7 +404,7 @@
   {
     "title": "Response Astro Hoodie",
     "id": "BK3150",
-    "price": "65",
+    "price": 6500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-astro-hoodie/BK3150.html",
     "images": [
@@ -420,7 +420,7 @@
   {
     "title": "Response Hooded Wind Jacket",
     "id": "BQ2152",
-    "price": "70",
+    "price": 7000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-hooded-wind-jacket/BQ2152.html",
     "images": [
@@ -438,7 +438,7 @@
   {
     "title": "Response Wind Pants",
     "id": "B47707",
-    "price": "55",
+    "price": 5500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-wind-pants/B47707.html",
     "images": [
@@ -456,7 +456,7 @@
   {
     "title": "Response Tee",
     "id": "BP7408",
-    "price": "33",
+    "price": 3300,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-tee/BP7408.html",
     "images": [
@@ -472,7 +472,7 @@
   {
     "title": "Response Tee",
     "id": "BP7411",
-    "price": "33",
+    "price": 3300,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-tee/BP7411.html",
     "images": [
@@ -488,7 +488,7 @@
   {
     "title": "Response Tee",
     "id": "BP7405",
-    "price": "33",
+    "price": 3300,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-tee/BP7405.html",
     "images": [
@@ -504,7 +504,7 @@
   {
     "title": "Response Tee",
     "id": "BP7410",
-    "price": "33",
+    "price": 3300,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-tee/BP7410.html",
     "images": [
@@ -520,7 +520,7 @@
   {
     "title": "RS Shorts",
     "id": "BJ9339",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/rs-shorts/BJ9339.html",
     "images": [
@@ -538,7 +538,7 @@
   {
     "title": "Response Long Tights",
     "id": "S98114",
-    "price": "55",
+    "price": 5500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-long-tights/S98114.html",
     "images": [
@@ -556,7 +556,7 @@
   {
     "title": "Response Long Tights",
     "id": "B47717",
-    "price": "55",
+    "price": 5500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-long-tights/B47717.html",
     "images": [
@@ -574,7 +574,7 @@
   {
     "title": "Response Long Tights",
     "id": "B47720",
-    "price": "55",
+    "price": 5500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-long-tights/B47720.html",
     "images": [
@@ -592,7 +592,7 @@
   {
     "title": "Response Long Tights",
     "id": "B47715",
-    "price": "55",
+    "price": 5500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-long-tights/B47715.html",
     "images": [
@@ -608,7 +608,7 @@
   {
     "title": "RS Shorts",
     "id": "BR2452",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/rs-shorts/BR2452.html",
     "images": [
@@ -626,7 +626,7 @@
   {
     "title": "RS Shorts",
     "id": "B47725",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/rs-shorts/B47725.html",
     "images": [
@@ -644,7 +644,7 @@
   {
     "title": "Ultra Energy Shorts",
     "id": "BK7356",
-    "price": "60",
+    "price": 6000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultra-energy-shorts/BK7356.html",
     "images": [
@@ -661,7 +661,7 @@
   {
     "title": "Aktiv Dual Two-in-One Shorts",
     "id": "B28206",
-    "price": "55",
+    "price": 5500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/aktiv-dual-two-in-one-shorts/B28206.html",
     "images": [
@@ -679,7 +679,7 @@
   {
     "title": "DAY ONE No-Stain Leggings",
     "id": "BR1783",
-    "price": "140",
+    "price": 14000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/day-one-no-stain-leggings/BR1783.html",
     "images": [
@@ -698,7 +698,7 @@
   {
     "title": "DAY ONE Running Shorts",
     "id": "BR1782",
-    "price": "140",
+    "price": 14000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/day-one-running-shorts/BR1782.html",
     "images": [
@@ -715,7 +715,7 @@
   {
     "title": "No Sweat Tee",
     "id": "CD1610",
-    "price": "110",
+    "price": 11000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/no-sweat-tee/CD1610.html",
     "images": [
@@ -734,7 +734,7 @@
   {
     "title": "DAY ONE Mesh Singlet",
     "id": "BR1784",
-    "price": "90",
+    "price": 9000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/day-one-mesh-singlet/BR1784.html",
     "images": [
@@ -751,7 +751,7 @@
   {
     "title": "Ultimate Tee",
     "id": "BP9732",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultimate-tee/BP9732.html",
     "images": [
@@ -769,7 +769,7 @@
   {
     "title": "Ultimate Tee",
     "id": "BP5770",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultimate-tee/BP5770.html",
     "images": [
@@ -785,9 +785,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Flag Tee",
+    "title": "Boston Marathon® Flag Tee",
     "id": "CD4190",
-    "price": "30",
+    "price": 3000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-flag-tee/CD4190.html",
     "images": [
@@ -803,9 +803,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Irish Tee",
+    "title": "Boston Marathon® Irish Tee",
     "id": "CD4191",
-    "price": "30",
+    "price": 3000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-irish-tee/CD4191.html",
     "images": [
@@ -823,7 +823,7 @@
   {
     "title": "Three-Quarter Compression Tights",
     "id": "BS3100",
-    "price": "130",
+    "price": 13000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/three-quarter-compression-tights/BS3100.html",
     "images": [
@@ -842,7 +842,7 @@
   {
     "title": "Seamless Shorts",
     "id": "BS3105",
-    "price": "150",
+    "price": 15000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/seamless-shorts/BS3105.html",
     "images": [
@@ -861,7 +861,7 @@
   {
     "title": "Seamless Tank Top",
     "id": "BS3104",
-    "price": "130",
+    "price": 13000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/seamless-tank-top/BS3104.html",
     "images": [
@@ -880,7 +880,7 @@
   {
     "title": "Compression Tee",
     "id": "BS3098",
-    "price": "130",
+    "price": 13000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/compression-tee/BS3098.html",
     "images": [
@@ -899,7 +899,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BS3693",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BS3693.html",
     "images": [
@@ -917,7 +917,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BK0348",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BK0348.html",
     "images": [
@@ -935,7 +935,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BS3678",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BS3678.html",
     "images": [
@@ -953,7 +953,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BP9704",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BP9704.html",
     "images": [
@@ -971,7 +971,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BQ2718",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BQ2718.html",
     "images": [
@@ -989,7 +989,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BQ2719",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BQ2719.html",
     "images": [
@@ -1007,7 +1007,7 @@
   {
     "title": "Ultimate Tee",
     "id": "BP9733",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultimate-tee/BP9733.html",
     "images": [
@@ -1025,7 +1025,7 @@
   {
     "title": "Ultimate Tee",
     "id": "BP9738",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultimate-tee/BP9738.html",
     "images": [
@@ -1043,7 +1043,7 @@
   {
     "title": "Ultimate Tee",
     "id": "BP9728",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultimate-tee/BP9728.html",
     "images": [
@@ -1061,7 +1061,7 @@
   {
     "title": "M10 Energized Parley Shorts",
     "id": "AZ8455",
-    "price": "40",
+    "price": 4000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/m10-energized-parley-shorts/AZ8455.html",
     "images": [
@@ -1073,7 +1073,7 @@
   {
     "title": "Primeknit Parley Tank Top",
     "id": "AZ2919",
-    "price": "65",
+    "price": 6500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/primeknit-parley-tank-top/AZ2919.html",
     "images": [
@@ -1085,7 +1085,7 @@
   {
     "title": "Supernova Glide Shorts",
     "id": "BP6755",
-    "price": "40",
+    "price": 4000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-glide-shorts/BP6755.html",
     "images": [
@@ -1103,7 +1103,7 @@
   {
     "title": "Supernova Glide Slim Shorts",
     "id": "BJ9535",
-    "price": "40",
+    "price": 4000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-glide-slim-shorts/BJ9535.html",
     "images": [
@@ -1121,7 +1121,7 @@
   {
     "title": "Supernova Three-Quarter Tights",
     "id": "S97942",
-    "price": "65",
+    "price": 6500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-three-quarter-tights/S97942.html",
     "images": [
@@ -1139,7 +1139,7 @@
   {
     "title": "Supernova Three-Quarter Tights",
     "id": "S97941",
-    "price": "65",
+    "price": 6500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-three-quarter-tights/S97941.html",
     "images": [
@@ -1157,7 +1157,7 @@
   {
     "title": "Supernova Long Tights",
     "id": "S97937",
-    "price": "70",
+    "price": 7000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-long-tights/S97937.html",
     "images": [
@@ -1175,7 +1175,7 @@
   {
     "title": "Supernova Glide Slim Shorts",
     "id": "BJ9531",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-glide-slim-shorts/BJ9531.html",
     "images": [
@@ -1193,7 +1193,7 @@
   {
     "title": "Supernova Three-Quarter Tights",
     "id": "S97978",
-    "price": "60",
+    "price": 6000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-three-quarter-tights/S97978.html",
     "images": [
@@ -1211,7 +1211,7 @@
   {
     "title": "Cross Tank Top",
     "id": "BR0316",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/cross-tank-top/BR0316.html",
     "images": [
@@ -1229,7 +1229,7 @@
   {
     "title": "Cross Tank Top",
     "id": "BR0319",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/cross-tank-top/BR0319.html",
     "images": [
@@ -1247,7 +1247,7 @@
   {
     "title": "Cross Tank Top",
     "id": "BR0317",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/cross-tank-top/BR0317.html",
     "images": [
@@ -1265,7 +1265,7 @@
   {
     "title": "M10 3-Stripes Shorts",
     "id": "AZ0776",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/m10-3-stripes-shorts/AZ0776.html",
     "images": [
@@ -1286,7 +1286,7 @@
   {
     "title": "M10 3-Stripes Shorts",
     "id": "AZ2944",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/m10-3-stripes-shorts/AZ2944.html",
     "images": [
@@ -1304,7 +1304,7 @@
   {
     "title": "M10 3-Stripes Shorts",
     "id": "BQ5663",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/m10-3-stripes-shorts/BQ5663.html",
     "images": [
@@ -1322,7 +1322,7 @@
   {
     "title": "M10 3-Stripes Shorts",
     "id": "B43401",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/m10-3-stripes-shorts/B43401.html",
     "images": [
@@ -1343,7 +1343,7 @@
   {
     "title": "M10 Graphic Shorts",
     "id": "AZ8461",
-    "price": "32",
+    "price": 3200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/m10-graphic-shorts/AZ8461.html",
     "images": [
@@ -1361,7 +1361,7 @@
   {
     "title": "M10 Graphic Shorts",
     "id": "AZ8460",
-    "price": "32",
+    "price": 3200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/m10-graphic-shorts/AZ8460.html",
     "images": [
@@ -1379,7 +1379,7 @@
   {
     "title": "M10 Graphic Shorts",
     "id": "AZ8459",
-    "price": "32",
+    "price": 3200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/m10-graphic-shorts/AZ8459.html",
     "images": [
@@ -1395,7 +1395,7 @@
   {
     "title": "M10 Dual Shorts",
     "id": "AZ2938",
-    "price": "38",
+    "price": 3800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/m10-dual-shorts/AZ2938.html",
     "images": [
@@ -1411,7 +1411,7 @@
   {
     "title": "M10 Aktiv Shorts",
     "id": "CE4783",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/m10-aktiv-shorts/CE4783.html",
     "images": [
@@ -1429,7 +1429,7 @@
   {
     "title": "M10 Aktiv Shorts",
     "id": "CE4782",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/m10-aktiv-shorts/CE4782.html",
     "images": [
@@ -1447,7 +1447,7 @@
   {
     "title": "Primeknit Wool Dip-Dye Tee",
     "id": "AZ2894",
-    "price": "80",
+    "price": 8000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/primeknit-wool-dip-dye-tee/AZ2894.html",
     "images": [
@@ -1465,7 +1465,7 @@
   {
     "title": "Primeknit Wool Dip-Dye Tee",
     "id": "AZ2896",
-    "price": "80",
+    "price": 8000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/primeknit-wool-dip-dye-tee/AZ2896.html",
     "images": [
@@ -1484,7 +1484,7 @@
   {
     "title": "City Run Knit Jacket",
     "id": "BR2439",
-    "price": "100",
+    "price": 10000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/city-run-knit-jacket/BR2439.html",
     "images": [
@@ -1502,7 +1502,7 @@
   {
     "title": "Primeknit Wool Tee",
     "id": "AZ2872",
-    "price": "75",
+    "price": 7500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/primeknit-wool-tee/AZ2872.html",
     "images": [
@@ -1519,7 +1519,7 @@
   {
     "title": "Response Long Tights",
     "id": "CE2459",
-    "price": "50",
+    "price": 5000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-long-tights/CE2459.html",
     "images": [
@@ -1537,7 +1537,7 @@
   {
     "title": "Response Long Tights",
     "id": "B47762",
-    "price": "55",
+    "price": 5500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-long-tights/B47762.html",
     "images": [
@@ -1555,7 +1555,7 @@
   {
     "title": "Response Three-Quarter Tights",
     "id": "D85485",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-three-quarter-tights/D85485.html",
     "images": [
@@ -1567,7 +1567,7 @@
   {
     "title": "Response Tee",
     "id": "BP7463",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-tee/BP7463.html",
     "images": [
@@ -1585,7 +1585,7 @@
   {
     "title": "Response Three-Quarter Tights",
     "id": "B47765",
-    "price": "50",
+    "price": 5000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-three-quarter-tights/B47765.html",
     "images": [
@@ -1603,7 +1603,7 @@
   {
     "title": "adizero Tank Top",
     "id": "S98010",
-    "price": "60",
+    "price": 6000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-tank-top/S98010.html",
     "images": [
@@ -1621,7 +1621,7 @@
   {
     "title": "adizero Tank Top",
     "id": "S98008",
-    "price": "60",
+    "price": 6000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-tank-top/S98008.html",
     "images": [
@@ -1639,7 +1639,7 @@
   {
     "title": "Run Sprintweb Tights",
     "id": "S99227",
-    "price": "120",
+    "price": 12000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/run-sprintweb-tights/S99227.html",
     "images": [
@@ -1658,7 +1658,7 @@
   {
     "title": "Run Floral Pull-On",
     "id": "S99247",
-    "price": "185",
+    "price": 18500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/run-floral-pull-on/S99247.html",
     "images": [
@@ -1677,7 +1677,7 @@
   {
     "title": "Run Floral Two-in-One Shorts",
     "id": "S99223",
-    "price": "75",
+    "price": 7500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/run-floral-two-in-one-shorts/S99223.html",
     "images": [
@@ -1696,7 +1696,7 @@
   {
     "title": "Run adizero Tank Top",
     "id": "S99213",
-    "price": "90",
+    "price": 9000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/run-adizero-tank-top/S99213.html",
     "images": [
@@ -1714,7 +1714,7 @@
   {
     "title": "Run adizero Tank Top",
     "id": "S99214",
-    "price": "90",
+    "price": 9000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/run-adizero-tank-top/S99214.html",
     "images": [
@@ -1733,7 +1733,7 @@
   {
     "title": "Run Three-Quarter Tights",
     "id": "S99231",
-    "price": "90",
+    "price": 9000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/run-three-quarter-tights/S99231.html",
     "images": [
@@ -1749,7 +1749,7 @@
   {
     "title": "Run Tights",
     "id": "S99233",
-    "price": "95",
+    "price": 9500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/run-tights/S99233.html",
     "images": [
@@ -1762,7 +1762,7 @@
   {
     "title": "Run Jacket",
     "id": "S99199",
-    "price": "190",
+    "price": 19000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/run-jacket/S99199.html",
     "images": [
@@ -1781,7 +1781,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BS3684",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BS3684.html",
     "images": [
@@ -1799,7 +1799,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BQ5139",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BQ5139.html",
     "images": [
@@ -1815,7 +1815,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BK0350",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BK0350.html",
     "images": [
@@ -1833,7 +1833,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BS3685",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BS3685.html",
     "images": [
@@ -1851,7 +1851,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BQ5141",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BQ5141.html",
     "images": [
@@ -1869,7 +1869,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BS3682",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BS3682.html",
     "images": [
@@ -1887,7 +1887,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BQ2724",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BQ2724.html",
     "images": [
@@ -1905,7 +1905,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BS3680",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BS3680.html",
     "images": [
@@ -1923,7 +1923,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BS3681",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BS3681.html",
     "images": [
@@ -1941,7 +1941,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BQ2722",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BQ2722.html",
     "images": [
@@ -1959,7 +1959,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "CF1153",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/CF1153.html",
     "images": [
@@ -1977,7 +1977,7 @@
   {
     "title": "Tiro 17 Training Pants",
     "id": "BQ5142",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/tiro-17-training-pants/BQ5142.html",
     "images": [
@@ -1995,7 +1995,7 @@
   {
     "title": "RS Shorts",
     "id": "S98112",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/rs-shorts/S98112.html",
     "images": [
@@ -2013,7 +2013,7 @@
   {
     "title": "RS Shorts",
     "id": "BR2450",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/rs-shorts/BR2450.html",
     "images": [
@@ -2031,7 +2031,7 @@
   {
     "title": "Supernova TKO Reversible Shorts",
     "id": "B28259",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-reversible-shorts/B28259.html",
     "images": [
@@ -2048,7 +2048,7 @@
   {
     "title": "Supernova Shorts",
     "id": "S94400",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-shorts/S94400.html",
     "images": [
@@ -2069,7 +2069,7 @@
   {
     "title": "adizero Split Shorts",
     "id": "S99694",
-    "price": "55",
+    "price": 5500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-split-shorts/S99694.html",
     "images": [
@@ -2087,7 +2087,7 @@
   {
     "title": "Supernova Tee",
     "id": "B43384",
-    "price": "31",
+    "price": 3100,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tee/B43384.html",
     "images": [
@@ -2109,7 +2109,7 @@
   {
     "title": "Supernova TKO Cool Tee",
     "id": "B28245",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-cool-tee/B28245.html",
     "images": [
@@ -2125,9 +2125,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Celebration Jacket",
+    "title": "Boston Marathon® Celebration Jacket",
     "id": "BK3026",
-    "price": "55",
+    "price": 5500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-celebration-jacket/BK3026.html",
     "images": [
@@ -2145,7 +2145,7 @@
   {
     "title": "Supernova Three-Quarter Tights",
     "id": "S94402",
-    "price": "30",
+    "price": 3000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-three-quarter-tights/S94402.html",
     "images": [
@@ -2166,7 +2166,7 @@
   {
     "title": "Supernova Storm Jacket",
     "id": "S97996",
-    "price": "63",
+    "price": 6300,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-storm-jacket/S97996.html",
     "images": [
@@ -2184,7 +2184,7 @@
   {
     "title": "Climachill Speed Stripes FreeLift Tee",
     "id": "B45900",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-speed-stripes-freelift-tee/B45900.html",
     "images": [
@@ -2203,7 +2203,7 @@
   {
     "title": "Climachill Tee",
     "id": "BK1767",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-tee/BK1767.html",
     "images": [
@@ -2221,7 +2221,7 @@
   {
     "title": "FreeLift Climachill Tee",
     "id": "B45897",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/freelift-climachill-tee/B45897.html",
     "images": [
@@ -2239,7 +2239,7 @@
   {
     "title": "Climachill Blurred Camo Tee",
     "id": "B45906",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-blurred-camo-tee/B45906.html",
     "images": [
@@ -2255,7 +2255,7 @@
   {
     "title": "Supernova Shorts",
     "id": "S98001",
-    "price": "31",
+    "price": 3100,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-shorts/S98001.html",
     "images": [
@@ -2271,7 +2271,7 @@
   {
     "title": "Supernova Tee",
     "id": "S97947",
-    "price": "31",
+    "price": 3100,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tee/S97947.html",
     "images": [
@@ -2289,7 +2289,7 @@
   {
     "title": "Supernova Singlet",
     "id": "S97985",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-singlet/S97985.html",
     "images": [
@@ -2307,7 +2307,7 @@
   {
     "title": "Climachill Shorts",
     "id": "BQ1358",
-    "price": "31",
+    "price": 3100,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-shorts/BQ1358.html",
     "images": [
@@ -2325,7 +2325,7 @@
   {
     "title": "Climachill Shorts",
     "id": "BQ1361",
-    "price": "22",
+    "price": 2200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-shorts/BQ1361.html",
     "images": [
@@ -2341,7 +2341,7 @@
   {
     "title": "Supernova TKO Cool Shorts",
     "id": "B28232",
-    "price": "22",
+    "price": 2200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-cool-shorts/B28232.html",
     "images": [
@@ -2360,7 +2360,7 @@
   {
     "title": "Supernova TKO Reversible Tee",
     "id": "BQ2207",
-    "price": "22",
+    "price": 2200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-reversible-tee/BQ2207.html",
     "images": [
@@ -2380,7 +2380,7 @@
   {
     "title": "Primeknit Wool Dip-Dye Tee",
     "id": "AZ2897",
-    "price": "49",
+    "price": 4900,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/primeknit-wool-dip-dye-tee/AZ2897.html",
     "images": [
@@ -2396,7 +2396,7 @@
   {
     "title": "Supernova Tee",
     "id": "S97988",
-    "price": "31",
+    "price": 3100,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tee/S97988.html",
     "images": [
@@ -2414,7 +2414,7 @@
   {
     "title": "Response Sweatshirt",
     "id": "B47700",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-sweatshirt/B47700.html",
     "images": [
@@ -2432,7 +2432,7 @@
   {
     "title": "Response Tee",
     "id": "BP7422",
-    "price": "24",
+    "price": 2400,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-tee/BP7422.html",
     "images": [
@@ -2450,7 +2450,7 @@
   {
     "title": "Response Track Pants",
     "id": "BQ7575",
-    "price": "42",
+    "price": 4200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-track-pants/BQ7575.html",
     "images": [
@@ -2468,7 +2468,7 @@
   {
     "title": "Climachill Speed Stripes FreeLift Tee",
     "id": "B45901",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-speed-stripes-freelift-tee/B45901.html",
     "images": [
@@ -2484,7 +2484,7 @@
   {
     "title": "Climachill Speed Stripes FreeLift Tee",
     "id": "S98658",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-speed-stripes-freelift-tee/S98658.html",
     "images": [
@@ -2502,7 +2502,7 @@
   {
     "title": "FreeLift Climachill Tee",
     "id": "S98656",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/freelift-climachill-tee/S98656.html",
     "images": [
@@ -2520,7 +2520,7 @@
   {
     "title": "Climachill Tee",
     "id": "B45912",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-tee/B45912.html",
     "images": [
@@ -2539,7 +2539,7 @@
   {
     "title": "Climachill Tee",
     "id": "B45910",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-tee/B45910.html",
     "images": [
@@ -2556,7 +2556,7 @@
   {
     "title": "Climachill Blurred Camo Tee",
     "id": "B45905",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-blurred-camo-tee/B45905.html",
     "images": [
@@ -2572,7 +2572,7 @@
   {
     "title": "Climachill Shorts",
     "id": "B45909",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-shorts/B45909.html",
     "images": [
@@ -2591,7 +2591,7 @@
   {
     "title": "Climachill Shorts",
     "id": "B45907",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-shorts/B45907.html",
     "images": [
@@ -2610,7 +2610,7 @@
   {
     "title": "Climachill Shorts",
     "id": "B45908",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-shorts/B45908.html",
     "images": [
@@ -2626,9 +2626,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg;&nbsp;Official Tee",
+    "title": "Boston Marathon®&nbsp;Official Tee",
     "id": "CD4192",
-    "price": "15",
+    "price": 1500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-official-tee/CD4192.html",
     "images": [
@@ -2644,9 +2644,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg;&nbsp;Official Tee",
+    "title": "Boston Marathon®&nbsp;Official Tee",
     "id": "CD4194",
-    "price": "15",
+    "price": 1500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-official-tee/CD4194.html",
     "images": [
@@ -2662,9 +2662,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Qualifier Tee",
+    "title": "Boston Marathon® Qualifier Tee",
     "id": "BJ9221",
-    "price": "12",
+    "price": 1200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-qualifier-tee/BJ9221.html",
     "images": [
@@ -2680,7 +2680,7 @@
   {
     "title": "Response Tee",
     "id": "BP7429",
-    "price": "18",
+    "price": 1800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-tee/BP7429.html",
     "images": [
@@ -2698,7 +2698,7 @@
   {
     "title": "Response Tee",
     "id": "BP7421",
-    "price": "24",
+    "price": 2400,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-tee/BP7421.html",
     "images": [
@@ -2716,7 +2716,7 @@
   {
     "title": "Supernova TKO Flock-Print Jacket",
     "id": "B28237",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-flock-print-jacket/B28237.html",
     "images": [
@@ -2733,7 +2733,7 @@
   {
     "title": "Supernova Tee",
     "id": "S97943",
-    "price": "31",
+    "price": 3100,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tee/S97943.html",
     "images": [
@@ -2751,7 +2751,7 @@
   {
     "title": "Supernova TKO Cool Tee",
     "id": "B28244",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-cool-tee/B28244.html",
     "images": [
@@ -2769,7 +2769,7 @@
   {
     "title": "Supernova TKO Cool Tee",
     "id": "BQ2193",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-cool-tee/BQ2193.html",
     "images": [
@@ -2787,7 +2787,7 @@
   {
     "title": "Supernova TKO Cool Tee",
     "id": "BQ2196",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-cool-tee/BQ2196.html",
     "images": [
@@ -2805,7 +2805,7 @@
   {
     "title": "Supernova TKO Cool Tee",
     "id": "B28243",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-cool-tee/B28243.html",
     "images": [
@@ -2822,9 +2822,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; BAA Elite Pure Amplify Jacket",
+    "title": "Boston Marathon® BAA Elite Pure Amplify Jacket",
     "id": "BK5401",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-baa-elite-pure-amplify-jacket/BK5401.html",
     "images": [
@@ -2842,7 +2842,7 @@
   {
     "title": "Response Astro Hoodie",
     "id": "BK3149",
-    "price": "46",
+    "price": 4600,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-astro-hoodie/BK3149.html",
     "images": [
@@ -2860,7 +2860,7 @@
   {
     "title": "Response Astro Hoodie",
     "id": "BK3147",
-    "price": "46",
+    "price": 4600,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-astro-hoodie/BK3147.html",
     "images": [
@@ -2876,9 +2876,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Z.N.E. Track Jacket",
+    "title": "Boston Marathon® Z.N.E. Track Jacket",
     "id": "BQ7551",
-    "price": "50",
+    "price": 5000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-z.n.e.-track-jacket/BQ7551.html",
     "images": [
@@ -2896,7 +2896,7 @@
   {
     "title": "Supernova TKO Reversible Tee",
     "id": "B28247",
-    "price": "22",
+    "price": 2200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-reversible-tee/B28247.html",
     "images": [
@@ -2916,7 +2916,7 @@
   {
     "title": "Supernova TKO Flock-Print Vest",
     "id": "B28240",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-flock-print-vest/B28240.html",
     "images": [
@@ -2934,7 +2934,7 @@
   {
     "title": "Supernova TKO Flock-Print Vest",
     "id": "B28239",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-flock-print-vest/B28239.html",
     "images": [
@@ -2950,7 +2950,7 @@
   {
     "title": "Supernova TKO Vest",
     "id": "B28274",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-vest/B28274.html",
     "images": [
@@ -2964,9 +2964,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Finish Line Tee",
+    "title": "Boston Marathon® Finish Line Tee",
     "id": "CD4189",
-    "price": "15",
+    "price": 1500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-finish-line-tee/CD4189.html",
     "images": [
@@ -2984,7 +2984,7 @@
   {
     "title": "Extreme Workout Pants",
     "id": "BK0943",
-    "price": "49",
+    "price": 4900,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/extreme-workout-pants/BK0943.html",
     "images": [
@@ -3002,7 +3002,7 @@
   {
     "title": "Climachill Speed Stripes FreeLift Tee",
     "id": "S98657",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-speed-stripes-freelift-tee/S98657.html",
     "images": [
@@ -3020,7 +3020,7 @@
   {
     "title": "Climachill Tee",
     "id": "B45911",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-tee/B45911.html",
     "images": [
@@ -3036,7 +3036,7 @@
   {
     "title": "RS Shorts",
     "id": "BR2551",
-    "price": "18",
+    "price": 1800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/rs-shorts/BR2551.html",
     "images": [
@@ -3054,7 +3054,7 @@
   {
     "title": "Supernova Shorts",
     "id": "S97999",
-    "price": "31",
+    "price": 3100,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-shorts/S97999.html",
     "images": [
@@ -3072,7 +3072,7 @@
   {
     "title": "Response Long Tights",
     "id": "B47714",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-long-tights/B47714.html",
     "images": [
@@ -3088,7 +3088,7 @@
   {
     "title": "Supernova TKO Cool Shorts",
     "id": "B28233",
-    "price": "22",
+    "price": 2200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-cool-shorts/B28233.html",
     "images": [
@@ -3104,7 +3104,7 @@
   {
     "title": "Ultra Energy Shorts",
     "id": "AZ2889",
-    "price": "30",
+    "price": 3000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultra-energy-shorts/AZ2889.html",
     "images": [
@@ -3121,7 +3121,7 @@
   {
     "title": "Supernova Split Shorts",
     "id": "S94399",
-    "price": "20",
+    "price": 2000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-split-shorts/S94399.html",
     "images": [
@@ -3142,7 +3142,7 @@
   {
     "title": "Supernova Long Tights",
     "id": "S94403",
-    "price": "56",
+    "price": 5600,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-long-tights/S94403.html",
     "images": [
@@ -3164,7 +3164,7 @@
   {
     "title": "Supernova Short Tights",
     "id": "S94401",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-short-tights/S94401.html",
     "images": [
@@ -3186,7 +3186,7 @@
   {
     "title": "Cross Tank Top",
     "id": "B43495",
-    "price": "14",
+    "price": 1400,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/cross-tank-top/B43495.html",
     "images": [
@@ -3205,9 +3205,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Track Jacket",
+    "title": "Boston Marathon® Track Jacket",
     "id": "BK5326",
-    "price": "50",
+    "price": 5000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-track-jacket/BK5326.html",
     "images": [
@@ -3223,9 +3223,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Celebration Jacket",
+    "title": "Boston Marathon® Celebration Jacket",
     "id": "BK3028",
-    "price": "55",
+    "price": 5500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-celebration-jacket/BK3028.html",
     "images": [
@@ -3243,7 +3243,7 @@
   {
     "title": "Ultra Seven-Eighth Tights",
     "id": "AZ2891",
-    "price": "55",
+    "price": 5500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultra-seven-eighth-tights/AZ2891.html",
     "images": [
@@ -3255,7 +3255,7 @@
   {
     "title": "Supernova Storm Jacket",
     "id": "AX7460",
-    "price": "63",
+    "price": 6300,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-storm-jacket/AX7460.html",
     "images": [
@@ -3277,7 +3277,7 @@
   {
     "title": "Supernova Tee",
     "id": "S97960",
-    "price": "31",
+    "price": 3100,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tee/S97960.html",
     "images": [
@@ -3295,7 +3295,7 @@
   {
     "title": "Supernova Tee",
     "id": "S97958",
-    "price": "31",
+    "price": 3100,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tee/S97958.html",
     "images": [
@@ -3313,7 +3313,7 @@
   {
     "title": "Supernova Glide Graphic Shorts",
     "id": "S97977",
-    "price": "31",
+    "price": 3100,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-glide-graphic-shorts/S97977.html",
     "images": [
@@ -3331,7 +3331,7 @@
   {
     "title": "Supernova Long Tights",
     "id": "S97983",
-    "price": "32",
+    "price": 3200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-long-tights/S97983.html",
     "images": [
@@ -3347,7 +3347,7 @@
   {
     "title": "Supernova TKO Jacket",
     "id": "B28261",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-jacket/B28261.html",
     "images": [
@@ -3365,7 +3365,7 @@
   {
     "title": "Climachill Tee",
     "id": "B45814",
-    "price": "31",
+    "price": 3100,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-tee/B45814.html",
     "images": [
@@ -3383,7 +3383,7 @@
   {
     "title": "Climachill Striped Tank Top",
     "id": "BP8487",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-striped-tank-top/BP8487.html",
     "images": [
@@ -3401,7 +3401,7 @@
   {
     "title": "Supernova TKO Reversible Three-Quarter Tights",
     "id": "B28256",
-    "price": "30",
+    "price": 3000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-reversible-three-quarter-tights/B28256.html",
     "images": [
@@ -3420,7 +3420,7 @@
   {
     "title": "Supernova Tee",
     "id": "S94377",
-    "price": "22",
+    "price": 2200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tee/S94377.html",
     "images": [
@@ -3441,7 +3441,7 @@
   {
     "title": "Supernova Tee",
     "id": "S97962",
-    "price": "22",
+    "price": 2200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tee/S97962.html",
     "images": [
@@ -3459,7 +3459,7 @@
   {
     "title": "Supernova TKO Two-Layer Tee",
     "id": "B28277",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-two-layer-tee/B28277.html",
     "images": [
@@ -3477,7 +3477,7 @@
   {
     "title": "Climachill Shorts",
     "id": "B45808",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-shorts/B45808.html",
     "images": [
@@ -3495,7 +3495,7 @@
   {
     "title": "Climachill Tights",
     "id": "B45813",
-    "price": "49",
+    "price": 4900,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-tights/B45813.html",
     "images": [
@@ -3510,7 +3510,7 @@
   {
     "title": "Supernova Three-Quarter Tights",
     "id": "S97939",
-    "price": "32",
+    "price": 3200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-three-quarter-tights/S97939.html",
     "images": [
@@ -3528,7 +3528,7 @@
   {
     "title": "Cross Tank Top",
     "id": "BR0315",
-    "price": "20",
+    "price": 2000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/cross-tank-top/BR0315.html",
     "images": [
@@ -3546,7 +3546,7 @@
   {
     "title": "M10 3-Stripes Shorts",
     "id": "AZ2947",
-    "price": "20",
+    "price": 2000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/m10-3-stripes-shorts/AZ2947.html",
     "images": [
@@ -3564,7 +3564,7 @@
   {
     "title": "M10 3-Stripes Shorts",
     "id": "AZ2946",
-    "price": "20",
+    "price": 2000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/m10-3-stripes-shorts/AZ2946.html",
     "images": [
@@ -3582,7 +3582,7 @@
   {
     "title": "Chill Three-Quarter Tights",
     "id": "AZ2930",
-    "price": "42",
+    "price": 4200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/chill-three-quarter-tights/AZ2930.html",
     "images": [
@@ -3599,7 +3599,7 @@
   {
     "title": "Response Long Tights",
     "id": "S98120",
-    "price": "42",
+    "price": 4200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-long-tights/S98120.html",
     "images": [
@@ -3615,7 +3615,7 @@
   {
     "title": "Response Three-Quarter Tights",
     "id": "AZ2840",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-three-quarter-tights/AZ2840.html",
     "images": [
@@ -3631,7 +3631,7 @@
   {
     "title": "Response Three-Quarter Tights",
     "id": "AZ7335",
-    "price": "38",
+    "price": 3800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-three-quarter-tights/AZ7335.html",
     "images": [
@@ -3649,7 +3649,7 @@
   {
     "title": "Climachill Tights",
     "id": "BP6719",
-    "price": "49",
+    "price": 4900,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-tights/BP6719.html",
     "images": [
@@ -3667,7 +3667,7 @@
   {
     "title": "Climachill Shorts",
     "id": "BQ0411",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-shorts/BQ0411.html",
     "images": [
@@ -3686,7 +3686,7 @@
   {
     "title": "Climachill Tee",
     "id": "BP6716",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-tee/BP6716.html",
     "images": [
@@ -3704,7 +3704,7 @@
   {
     "title": "Climachill Tee",
     "id": "BP6712",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-tee/BP6712.html",
     "images": [
@@ -3722,7 +3722,7 @@
   {
     "title": "Climachill Tee",
     "id": "BP6713",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-tee/BP6713.html",
     "images": [
@@ -3740,7 +3740,7 @@
   {
     "title": "Climachill Striped Tank Top",
     "id": "BP6723",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-striped-tank-top/BP6723.html",
     "images": [
@@ -3759,7 +3759,7 @@
   {
     "title": "Climachill Striped Tank Top",
     "id": "BP6724",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-striped-tank-top/BP6724.html",
     "images": [
@@ -3773,9 +3773,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg;&nbsp;Official Tee",
+    "title": "Boston Marathon®&nbsp;Official Tee",
     "id": "CD4182",
-    "price": "15",
+    "price": 1500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-official-tee/CD4182.html",
     "images": [
@@ -3791,9 +3791,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg;&nbsp;Official Tee",
+    "title": "Boston Marathon®&nbsp;Official Tee",
     "id": "CD4183",
-    "price": "15",
+    "price": 1500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-official-tee/CD4183.html",
     "images": [
@@ -3809,9 +3809,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Qualifier Tee",
+    "title": "Boston Marathon® Qualifier Tee",
     "id": "BJ9222",
-    "price": "12",
+    "price": 1200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-qualifier-tee/BJ9222.html",
     "images": [
@@ -3827,7 +3827,7 @@
   {
     "title": "Supernova TKO Jacket",
     "id": "B28262",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-jacket/B28262.html",
     "images": [
@@ -3845,7 +3845,7 @@
   {
     "title": "Supernova Tee",
     "id": "S94414",
-    "price": "31",
+    "price": 3100,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tee/S94414.html",
     "images": [
@@ -3867,7 +3867,7 @@
   {
     "title": "Supernova TKO Two-Layer Tee",
     "id": "B28279",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-two-layer-tee/B28279.html",
     "images": [
@@ -3884,9 +3884,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Supernova X Bra",
+    "title": "Boston Marathon® Supernova X Bra",
     "id": "BK5344",
-    "price": "30",
+    "price": 3000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-supernova-x-bra/BK5344.html",
     "images": [
@@ -3902,9 +3902,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Supernova X Bra",
+    "title": "Boston Marathon® Supernova X Bra",
     "id": "BK5343",
-    "price": "30",
+    "price": 3000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-supernova-x-bra/BK5343.html",
     "images": [
@@ -3922,7 +3922,7 @@
   {
     "title": "Shodo Tee",
     "id": "B28281",
-    "price": "20",
+    "price": 2000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/shodo-tee/B28281.html",
     "images": [
@@ -3940,7 +3940,7 @@
   {
     "title": "Shodo Tee",
     "id": "BQ2210",
-    "price": "20",
+    "price": 2000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/shodo-tee/BQ2210.html",
     "images": [
@@ -3958,7 +3958,7 @@
   {
     "title": "Shodo Tee",
     "id": "B28280",
-    "price": "20",
+    "price": 2000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/shodo-tee/B28280.html",
     "images": [
@@ -3976,7 +3976,7 @@
   {
     "title": "Run Kite Jacket",
     "id": "S99202",
-    "price": "110",
+    "price": 11000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/run-kite-jacket/S99202.html",
     "images": [
@@ -3995,7 +3995,7 @@
   {
     "title": "Run Tank Top",
     "id": "S99209",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/run-tank-top/S99209.html",
     "images": [
@@ -4012,7 +4012,7 @@
   {
     "title": "Run Tank Top",
     "id": "BR6636",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/run-tank-top/BR6636.html",
     "images": [
@@ -4031,7 +4031,7 @@
   {
     "title": "Supernova Storm Jacket",
     "id": "S97970",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-storm-jacket/S97970.html",
     "images": [
@@ -4047,7 +4047,7 @@
   {
     "title": "Response Tee",
     "id": "BP7441",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-tee/BP7441.html",
     "images": [
@@ -4065,7 +4065,7 @@
   {
     "title": "Primeknit Wool Dip-Dye Tee",
     "id": "AZ2895",
-    "price": "40",
+    "price": 4000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/primeknit-wool-dip-dye-tee/AZ2895.html",
     "images": [
@@ -4083,7 +4083,7 @@
   {
     "title": "Response Astro Hoodie",
     "id": "BK3161",
-    "price": "46",
+    "price": 4600,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-astro-hoodie/BK3161.html",
     "images": [
@@ -4101,7 +4101,7 @@
   {
     "title": "Supernova TKO Cool Tank Top",
     "id": "B28283",
-    "price": "20",
+    "price": 2000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-cool-tank-top/B28283.html",
     "images": [
@@ -4117,7 +4117,7 @@
   {
     "title": "Ultra Energy Vest",
     "id": "AZ2905",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultra-energy-vest/AZ2905.html",
     "images": [
@@ -4135,7 +4135,7 @@
   {
     "title": "Ultra Energy Vest",
     "id": "AZ2904",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultra-energy-vest/AZ2904.html",
     "images": [
@@ -4154,7 +4154,7 @@
   {
     "title": "Run Ultra Tee",
     "id": "BP7103",
-    "price": "72",
+    "price": 7200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/run-ultra-tee/BP7103.html",
     "images": [
@@ -4173,7 +4173,7 @@
   {
     "title": "Response Cup Tank Top",
     "id": "BP7447",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-cup-tank-top/BP7447.html",
     "images": [
@@ -4191,7 +4191,7 @@
   {
     "title": "Supernova 37c Tee",
     "id": "S99132",
-    "price": "30",
+    "price": 3000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-37c-tee/S99132.html",
     "images": [
@@ -4207,7 +4207,7 @@
   {
     "title": "Primeknit Wool Tee",
     "id": "AZ2871",
-    "price": "63",
+    "price": 6300,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/primeknit-wool-tee/AZ2871.html",
     "images": [
@@ -4225,7 +4225,7 @@
   {
     "title": "Supernova Three-Quarter Tights",
     "id": "S97980",
-    "price": "30",
+    "price": 3000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-three-quarter-tights/S97980.html",
     "images": [
@@ -4243,7 +4243,7 @@
   {
     "title": "Supernova TKO Reversible Shorts",
     "id": "B28260",
-    "price": "20",
+    "price": 2000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-reversible-shorts/B28260.html",
     "images": [
@@ -4261,9 +4261,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Supernova 3/4 Tights",
+    "title": "Boston Marathon® Supernova 3/4 Tights",
     "id": "BK5397",
-    "price": "32",
+    "price": 3200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-supernova-3-4-tights/BK5397.html",
     "images": [
@@ -4281,7 +4281,7 @@
   {
     "title": "Run adizero Shorts",
     "id": "BP6665",
-    "price": "40",
+    "price": 4000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/run-adizero-shorts/BP6665.html",
     "images": [
@@ -4300,7 +4300,7 @@
   {
     "title": "Chill Short Tights",
     "id": "AZ2925",
-    "price": "49",
+    "price": 4900,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/chill-short-tights/AZ2925.html",
     "images": [
@@ -4317,7 +4317,7 @@
   {
     "title": "Chill Short Tights",
     "id": "AZ2924",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/chill-short-tights/AZ2924.html",
     "images": [
@@ -4334,7 +4334,7 @@
   {
     "title": "Response Tee",
     "id": "BP7482",
-    "price": "20",
+    "price": 2000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/response-tee/BP7482.html",
     "images": [
@@ -4352,7 +4352,7 @@
   {
     "title": "Supernova Tee",
     "id": "S97963",
-    "price": "22",
+    "price": 2200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tee/S97963.html",
     "images": [
@@ -4371,7 +4371,7 @@
   {
     "title": "Supernova Storm Jacket",
     "id": "S94396",
-    "price": "63",
+    "price": 6300,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-storm-jacket/S94396.html",
     "images": [
@@ -4393,7 +4393,7 @@
   {
     "title": "Supernova TKO Pullover",
     "id": "B28276",
-    "price": "32",
+    "price": 3200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-pullover/B28276.html",
     "images": [
@@ -4411,7 +4411,7 @@
   {
     "title": "Supernova TKO Pullover",
     "id": "B28275",
-    "price": "32",
+    "price": 3200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/supernova-tko-pullover/B28275.html",
     "images": [
@@ -4429,7 +4429,7 @@
   {
     "title": "Climachill Tee",
     "id": "BQ2322",
-    "price": "35",
+    "price": 3500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/climachill-tee/BQ2322.html",
     "images": [
@@ -4446,9 +4446,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Supernova Short Tights",
+    "title": "Boston Marathon® Supernova Short Tights",
     "id": "BK5396",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-supernova-short-tights/BK5396.html",
     "images": [
@@ -4464,9 +4464,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Supernova Tee",
+    "title": "Boston Marathon® Supernova Tee",
     "id": "BK5330",
-    "price": "30",
+    "price": 3000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-supernova-tee/BK5330.html",
     "images": [
@@ -4482,9 +4482,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Supernova Tee",
+    "title": "Boston Marathon® Supernova Tee",
     "id": "BK5335",
-    "price": "30",
+    "price": 3000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-supernova-tee/BK5335.html",
     "images": [
@@ -4501,9 +4501,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Supernova Tee",
+    "title": "Boston Marathon® Supernova Tee",
     "id": "BK5355",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-supernova-tee/BK5355.html",
     "images": [
@@ -4520,9 +4520,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Supernova Tee",
+    "title": "Boston Marathon® Supernova Tee",
     "id": "BK5353",
-    "price": "28",
+    "price": 2800,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-supernova-tee/BK5353.html",
     "images": [
@@ -4538,9 +4538,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Supernova Tank Top",
+    "title": "Boston Marathon® Supernova Tank Top",
     "id": "BK5347",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-supernova-tank-top/BK5347.html",
     "images": [
@@ -4556,9 +4556,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Qualifier Hoodie",
+    "title": "Boston Marathon® Qualifier Hoodie",
     "id": "BJ9223",
-    "price": "40",
+    "price": 4000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-qualifier-hoodie/BJ9223.html",
     "images": [
@@ -4574,7 +4574,7 @@
   {
     "title": "adizero Singlet",
     "id": "S98013",
-    "price": "42",
+    "price": 4200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/adizero-singlet/S98013.html",
     "images": [
@@ -4590,9 +4590,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Supernova Storm Jacket",
+    "title": "Boston Marathon® Supernova Storm Jacket",
     "id": "BK5328",
-    "price": "50",
+    "price": 5000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-supernova-storm-jacket/BK5328.html",
     "images": [
@@ -4611,7 +4611,7 @@
   {
     "title": "Ultra Energy Vest",
     "id": "AZ2901",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/ultra-energy-vest/AZ2901.html",
     "images": [
@@ -4626,9 +4626,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Supernova Long Tights",
+    "title": "Boston Marathon® Supernova Long Tights",
     "id": "BK5333",
-    "price": "42",
+    "price": 4200,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-supernova-long-tights/BK5333.html",
     "images": [
@@ -4644,9 +4644,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Supernova Shorts",
+    "title": "Boston Marathon® Supernova Shorts",
     "id": "BK5391",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-supernova-shorts/BK5391.html",
     "images": [
@@ -4662,9 +4662,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Supernova Glide Shorts",
+    "title": "Boston Marathon® Supernova Glide Shorts",
     "id": "BK5393",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-supernova-glide-shorts/BK5393.html",
     "images": [
@@ -4683,9 +4683,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Tuesday Morning Pants",
+    "title": "Boston Marathon® Tuesday Morning Pants",
     "id": "BJ9211",
-    "price": "40",
+    "price": 4000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-tuesday-morning-pants/BJ9211.html",
     "images": [
@@ -4701,9 +4701,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; M10 Shorts",
+    "title": "Boston Marathon® M10 Shorts",
     "id": "BK5365",
-    "price": "20",
+    "price": 2000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-m10-shorts/BK5365.html",
     "images": [
@@ -4719,9 +4719,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; M10 Shorts",
+    "title": "Boston Marathon® M10 Shorts",
     "id": "BK5366",
-    "price": "20",
+    "price": 2000,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-m10-shorts/BK5366.html",
     "images": [
@@ -4737,9 +4737,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Supernova Split Shorts",
+    "title": "Boston Marathon® Supernova Split Shorts",
     "id": "BK5364",
-    "price": "25",
+    "price": 2500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-supernova-split-shorts/BK5364.html",
     "images": [
@@ -4755,9 +4755,9 @@
     ]
   },
   {
-    "title": "Boston Marathon&reg; Supernova Long Tights",
+    "title": "Boston Marathon® Supernova Long Tights",
     "id": "BK5332",
-    "price": "45",
+    "price": 4500,
     "currency": "USD",
     "urlTo": "http://www.adidas.com/us/boston-marathon-supernova-long-tights/BK5332.html",
     "images": [
