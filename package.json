@@ -13,6 +13,6 @@
   },
   "scripts": {
     "start": "node index.js",
-    "prepush": "now"
+    "prepush": "now --public"
   }
 }
