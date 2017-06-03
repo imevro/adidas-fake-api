@@ -1,5 +1,6 @@
 /* eslint-disable global-require */
 const express = require('express'); // eslint-disable-line import/newline-after-import
+const cors = require('cors');
 const collections = {
   basketball: {
     shoes: require('./data/basketball-shoes.json'),
@@ -50,6 +51,7 @@ router.get('/products/:group/:type/:id', (req, res) => {
   }
 });
 
+app.use(cors());
 app.use('/v1', router);
 app.get('/', (req, res) => {
   res.send({
